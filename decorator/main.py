@@ -1,3 +1,5 @@
+#docorator learning
+#-----------------------
 def logging(level):
     def wapper(func):
         def inner_wapper(*args, **wbargs):
@@ -9,6 +11,8 @@ def logging(level):
 def say(a):
     print('wpcapp{}'.format(a))
 say('wlb')
+#-----------------------
+#-----------------------
 import time
 def print_time(func):
     def wapper(*args,**wbargs):
@@ -18,15 +22,11 @@ def print_time(func):
 @print_time
 def my_name(aaa):
     print('look!{}'.format(aaa))
-def set_passline(passline):
-    def cmp(val):
-        if val >= passline:
-            print('pass')
-        else:
-            print('failed')
-    return cmp
-passline = set_passline(90)
-passline(89)
+
+
+
+
+        
 
 
 def dec(func):
@@ -36,38 +36,18 @@ def dec(func):
             return 0
         for m in args:
             if not isinstance(m,int):
-                return 0
+                return 0#如果实参不是整数，则直接返回0
         return func(*args)
     return indec
 @dec
 def my_sum(*args):
     print('in mysum')
-    print(sum(args))
-my_sum(1,2,3,4,5)
-import time
-def pprint_time(func):
-    def dec(*arg,**args):
-        print('{}调用于{}'.format(func.__name__,time.time()))
-        print(func(*arg,**args))
-    return dec
-@pprint_time
-def han(xx):
-    return '{}'.format(xx)
-han('123')
+    return sum(args)
+print(my_sum(1,2,3,4,5))
 
-
-def main(func):
-    def com(*arg):
-        if len(arg) == 0:
-            return 0
-        for i in arg:
-            if not isinstance(i,int):
-                return 0
-        return func(*arg)
-    return com
-
-@main
+@dec
 def pingjun(*ints):
+    print('in pingjun')
     return sum(ints)/len(ints)
 print(pingjun(1,2,3,4,5))
 print(pingjun())
