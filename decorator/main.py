@@ -49,8 +49,8 @@ print(my_sum(1,2,3,4,5))
 def pingjun(*ints):
     print('in pingjun')
     return sum(ints)/len(ints)
-print(pingjun(1,2,3,4,5))
-print(pingjun())
+print(pingjun(1,2,3,4,5))#3.0
+print(pingjun())#0
 print(pingjun)
 print(type(pingjun))
 print(type(pingjun()))
