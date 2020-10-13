@@ -1,0 +1,1 @@
+print(list(map(int, str(2**1000))))
