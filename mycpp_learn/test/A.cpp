@@ -1,98 +1,27 @@
-// #include <iostream>
-// #include <cstdio>
-// using namespace std;
-
-// int main(){
-//     int n,m;
-//     scanf("%d %d",&n,&m);
-//     char ch[m];
-//     int intt[m];
-//     int o;
-//     for(o = 0;o<=m-1;o++){
-//         intt[o] = 1;
-//     }
-//     while (n--)
-//     {
-//         int j = 0;
-//         char strr[m+1];
-//         scanf("%s",strr);
-//         int i;
-//         for(i=0;i<=m-1;i++){
-//             if(strr[i]==ch[i]){
-//                 intt[i]++;
-//             }
-//             else{ch[i] = strr[i];}
-//         }
-
-//     }
-//     int quanzhong[m];
-//     for(o=0;o<=m-1;o++){
-//         scanf("%d",&quanzhong[o]);
-//     }
-//     int sum;
-//     for(o=0;o<=m-1;o++){
-//         sum+=quanzhong[o]*intt[o];
-//     }
-//     printf("%d",sum);
-    
-
-//     return 0;
-// }
 #include <iostream>
 #include <cstdio>
-#include <cmath>
-#include <string>
 using namespace std;
+
 int main(){
-    int n,m,sum;
-    int o,j;
-    scanf("%d %d",&n,&m);
-    char ch[n][m];
-    int index[m];
-    int i;
-    for(i=0;i<=n-1;i++){
-        int j; 
-        for(j=0;j<=m-1;j++){
-            scanf("%c",&ch[i][j]);
-        }
-    }
-    
-    for(o = 0;o<=m-1;o++){
-        scanf("%d",&index[o]);
-    }
-    for(o=0;o<=m-1;o++){
-        int A,B,C,D,E=0;
-        for(j=0;j<=n-1;j++){
-            if(ch[j][o] == 'A'){
-                A++;
-            }
-            if(ch[j][o] == 'B'){
-                B++;
-            }
-            if(ch[j][o] == 'C'){
-                C++;
-            }
-            if(ch[j][o] == 'D'){
-                D++;
-            }
-            if(ch[j][o] == 'E'){
-                E++;
-            }
-
-        }
+    double sum = 0;
+    int n;
+    scanf("%d",&n);
+    while (n--)
+    {
         int m;
-        m = max(A,B);
-        m = max(C,m);
-        m = max(D,m);
-        m = max(E,m);
-        sum+=m*index[o];
+        cin>>m;
+        if(sum<100.0 || sum >=400.0){
+            sum+=m;
+        }
+        else if(sum>=100.0 && sum<150.0)
+        {
+            sum+=m*0.8;
+        }
+        else if(sum>=150.0 && sum<400.0){
+            sum+=m*0.5;
+        }
+        
     }
-    printf("%d\n",sum);
-    
-
-
-    
-    
+    printf("%.2lf",sum);
+    return 0;
 }
-
-
