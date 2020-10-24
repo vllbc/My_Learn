@@ -12,5 +12,5 @@ int main(){
     cout<<sum/19<<endl;
     system("pause");
 
-    return 0;
+    ;
 }

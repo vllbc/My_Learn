@@ -9,7 +9,7 @@ int main(){
     cin>>m>>t>>s;
     if(t==0){
         cout<<0<<endl;
-        return 0;
+        ;
     }
     else if (s%t==0)
     {
@@ -21,5 +21,5 @@ int main(){
     }
     system("pause");
 
-    return 0;
+    ;
 }

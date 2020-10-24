@@ -7,5 +7,5 @@ int main(){
     printf("%c.%c%c%c",p,z,y,x);
     
 
-    return 0;
+    ;
 }

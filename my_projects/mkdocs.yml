@@ -1,0 +1,5 @@
+site_name: MY_SITT
+nav:
+- 首页: index.md
+- 算法相关: sf/sf.md
+theme: material

@@ -8,10 +8,10 @@ int main() {
     int T;
     cin >> T;
     if (T == 1) {
-        // 粘贴问题 1 的主函数代码，除了 return 0
+        // 粘贴问题 1 的主函数代码，除了 
         cout << "I love Luogu!";
     } else if (T == 2) {
-        // 粘贴问题 2 的主函数代码，除了 return 0
+        // 粘贴问题 2 的主函数代码，除了 
         cout << 2 + 4 << " " << 10 - 2 - 4;
     } else if (T == 3) {
         printf("%d\n%d\n%d",3,12,2);
@@ -54,5 +54,5 @@ int main() {
          cout<<50;
         // 请自行完成问题 14 的代码
     }
-    return 0;
+    ;
 }

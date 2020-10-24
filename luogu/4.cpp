@@ -12,5 +12,5 @@ int main(){
         c--;
     }
     printf("%d %d",c-a,d-b);
-    return 0;
+    ;
 }
