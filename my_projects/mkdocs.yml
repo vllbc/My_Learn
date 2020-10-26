@@ -1,5 +1,14 @@
 site_name: MY_SITT
 nav:
-- 首页: index.md
-- 算法相关: sf/sf.md
+  - 首页: index.md
+  - 算法相关: 
+      - 介绍: sf/index.md
+      - isbn号码: sf/1.md
+  - python:
+      - 介绍: python/index.md
+      - plotly: python/plotly.md
+      - jupyter: python/jupyter.md
+  - pytorch:
+      - 介绍: pytorch/index.md
+      - start: pytorch/start.md
 theme: material

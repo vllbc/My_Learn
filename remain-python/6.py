@@ -1,6 +1,3 @@
-str = input("")
-num = str.split(" ")
-n = num[0]
-m = num[1]
-
-print(n,m)
+a = [1,2,3,4]
+b = [54,7,44]
+print(a+b)
