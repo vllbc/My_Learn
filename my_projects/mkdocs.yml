@@ -11,4 +11,6 @@ nav:
   - pytorch:
       - 介绍: pytorch/index.md
       - start: pytorch/start.md
-theme: material
+theme:
+    name: material
+    

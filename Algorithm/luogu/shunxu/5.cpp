@@ -44,7 +44,7 @@ int main() {
         cout<<1.0*100/3;
         // 请自行完成问题 11 的代码
     } else if (T == 12) {
-        cout<<(int)('M'-'A')+1<<endl<<(char)(18+'A'-1);
+        cout<<(int)("M"-"A")+1<<endl<<(char)(18+"A"-1);
         // 请自行完成问题 12 的代码
     } else if (T == 13) {
         double pi = 3.141593;
