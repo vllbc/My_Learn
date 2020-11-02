@@ -1,17 +1,13 @@
 def re_jie(n):
-    if n==0:
-        return 0
-    if n == 1:
+    if n==1:
         return 1
     else:
         return n*re_jie(n-1)
-def re_sum(n):
+
+def re_sum(m):
     sum=0
-    for i in range(0,n+1):
+    for i in range(1,m+1):
         sum+=re_jie(i)
     return sum
-nums = []
-for i in range(0,51):
-    nums.append(re_sum(i))
-    
-print(list(map(str,nums)))
+for a in range(1,51):
+    print('"{}",'.format(re_sum(a)))

@@ -4,6 +4,7 @@ nav:
   - 算法相关: 
       - 介绍: sf/index.md
       - isbn号码: sf/1.md
+      - 我做的第一个打表题: sf/2.md
   - python:
       - 介绍: python/index.md
       - plotly: python/plotly.md
@@ -11,6 +12,8 @@ nav:
   - pytorch:
       - 介绍: pytorch/index.md
       - start: pytorch/start.md
+  - AI学习:
+      - 学习途径: AI_learn/AI_PATH.md
 theme:
     name: material
     
