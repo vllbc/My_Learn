@@ -12,6 +12,7 @@ nav:
   - pytorch:
       - 介绍: pytorch/index.md
       - start: pytorch/start.md
+      - 一些思考: pytorch/think.md
   - AI学习:
       - 学习途径: AI_learn/AI_PATH.md
 theme:

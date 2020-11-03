@@ -10,7 +10,7 @@ def paqu(url,name):
     sele = etree.HTML(res.text)
     photo_url = sele.xpath('//*[@id="bigpicimg"]/@src')[0]
     data = requests.get(photo_url)
-    fb = open(r'C:\\Users\\vllbc\Desktop\\妹子图\\{}.jpg'.format(name),'wb')
+    fb = open(r'C:\\Users\\vllbc\Desktop\\meizitu\\{}.jpg'.format(name),'wb')
     fb.write(data.content)
     fb.close()
 num = 1
