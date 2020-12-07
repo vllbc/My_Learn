@@ -23,7 +23,7 @@
 #             time.sleep(1)
 #         else:
 #             print("[%s] sees red light,waiting..."%name)
-#             event.wait()
+#             event.wait(i)
 #             print("[%s] green light is on,start going..."%name)
 # light = threading.Thread(target=lighter,)
 # light.start()
@@ -31,6 +31,13 @@
 # car.start()
 import threading
 import queue,time
+class threads(threading.Thread):
+    def __init__(self,func,*args):
+        super().__init__()
+        self.func = func
+        self.arg = args
+    def run(self):
+        self.func(''.join(self.arg))
 
 q=queue.Queue(maxsize=10)
 def Producer(name):
@@ -44,10 +51,12 @@ def Consumer(name):
     while True:
         print("[%s] 取到  [%s] 并且吃了它。。。"%(name,q.get()))
         time.sleep(1)
-p=threading.Thread(target=Producer,args=('wlb',))
-c=threading.Thread(target=Consumer,args=("yangyuhao",))
-c1=threading.Thread(target=Consumer,args=("zhangwenhao",))
-
+p = threads(Producer,'wlb')
+c = threads(Consumer,'yyh')
+c1 = threads(Consumer,'zwh')
+# p=threading.Thread(target=Producer,args=('wlb',))
+# c=threading.Thread(target=Consumer,args=("yangyuhao",))
+# c1=threading.Thread(target=Consumer,args=("zhangwenhao",))
 p.start()
 c.start()
 c1.start()
