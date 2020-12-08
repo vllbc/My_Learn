@@ -12,62 +12,62 @@ import time
 #                     format='%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
 # logger = logging.getLogger('qidian')
 
-class Qidian_Spider:
-    def __init__(self):
-        self.conn,self.cur = self.connet_mysql()
-        self.urls = self.create_urls()
-        self.headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
-    def connet_mysql(self):
-        conn = pymysql.connect(host='localhost',user='root',passwd='xwh5201314',db='spider',port=3306,charset='utf8')
-        cur = conn.cursor()
-        return conn,cur
-    def create_urls(self):
-        urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1,6)]
-        return urls
-    def insert_data1(self,url):
-        self.conn,self.cur = self.connet_mysql()
-        res = requests.get(url,headers=self.headers)
-        sel = etree.HTML(res.text)
-        infos = sel.xpath('//*[@id="rank-view-list"]/div/ul/li')
-        titles = []
-        authors = []
-        classess = []
-        for info in infos:
-            title = info.xpath('div[2]/h4/a/text()')[0]
-            author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
-            classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
+# class Qidian_Spider:
+#     def __init__(self):
+#         self.conn,self.cur = self.connet_mysql()
+#         self.urls = self.create_urls()
+#         self.headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
+#     def connet_mysql(self):
+#         conn = pymysql.connect(host='localhost',user='root',passwd='xwh5201314',db='spider',port=3306,charset='utf8')
+#         cur = conn.cursor()
+#         return conn,cur
+#     def create_urls(self):
+#         urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1,6)]
+#         return urls
+#     def insert_data1(self,url):
+#         self.conn,self.cur = self.connet_mysql()
+#         res = requests.get(url,headers=self.headers)
+#         sel = etree.HTML(res.text)
+#         infos = sel.xpath('//*[@id="rank-view-list"]/div/ul/li')
+#         titles = []
+#         authors = []
+#         classess = []
+#         for info in infos:
+#             title = info.xpath('div[2]/h4/a/text()')[0]
+#             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
+#             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
             
-            self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
-            # logger.info("---ok")
-        self.conn.commit()
-    def insert_data(self,url):
-        self.conn,self.cur = self.connet_mysql()
-        # logger.info("start")
-        res = requests.get(url,headers=self.headers)
-        sel = etree.HTML(res.text)
-        infos = sel.xpath('//*[@id="rank-view-list"]/div/ul/li')
-        titles = []
-        authors = []
-        classess = []
-        for info in infos:
-            title = info.xpath('div[2]/h4/a/text()')[0]
-            author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
-            classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
+#             self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
+#             # logger.info("---ok")
+#         self.conn.commit()
+#     def insert_data(self,url):
+#         self.conn,self.cur = self.connet_mysql()
+#         # logger.info("start")
+#         res = requests.get(url,headers=self.headers)
+#         sel = etree.HTML(res.text)
+#         infos = sel.xpath('//*[@id="rank-view-list"]/div/ul/li')
+#         titles = []
+#         authors = []
+#         classess = []
+#         for info in infos:
+#             title = info.xpath('div[2]/h4/a/text()')[0]
+#             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
+#             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
             
-            self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
-            # logger.info("---ok")
-        self.conn.commit()
-    def run(self):
-        print("正常程序开始")
-        for url in self.urls:
-            # logger.info("Start---")
-            self.insert_data1(url)
-            # logger.info("one OK")
-        self.cur.close()
-mains = Qidian_Spider()
-start = time.time()
-mains.run()
-print(f"正常耗时{time.time()-start:.4f}s")
+#             self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
+#             # logger.info("---ok")
+#         self.conn.commit()
+#     def run(self):
+#         print("正常程序开始")
+#         for url in self.urls:
+#             # logger.info("Start---")
+#             self.insert_data1(url)
+#             # logger.info("one OK")
+#         self.cur.close()
+# mains = Qidian_Spider()
+# start = time.time()
+# mains.run()
+# print(f"正常耗时{time.time()-start:.4f}s")
 
 conn = pymysql.connect(host='localhost',user='root',passwd='xwh5201314',db='spider',port=3306,charset='utf8')
 cur = conn.cursor()
