@@ -1,10 +1,13 @@
-import plotly
-import plotly.graph_objects as go
-import numpy as np
-def sigmod(x):
-    return 1/(1+np.exp(-x))
-liss = np.linspace(-10,10,1000)
-y = [sigmod(x) for x in liss]
-scatter = go.Scatter(x = liss,y = y,mode="lines")
-fig = go.Figure(scatter)
-fig.show()
+import re
+
+# re_telephone = re.compile(r'^(\d{3})-(\d{3,8})$')
+
+# A = re.findall(re_telephone,'010-12345')[0]
+# print(A)
+# B = re.findall(re_telephone,'010-2313')[0]
+# print(B)
+
+# text = '<div class="nam">中国</div>'
+# fin = re.findall('<div class=".*">(.*?)</div>',text)[0]
+# print(fin)    
+
