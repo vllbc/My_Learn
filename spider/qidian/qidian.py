@@ -90,17 +90,17 @@ def duo_spider(queues):
             conn.commit()
             lock.release()
         queues.task_done()
-        
-urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1,6)]
-start = time.time()
-in_q = Queue()
-for u in urls:
-    in_q.put(u)
-for _ in range(10):
-    thread = Thread(target=duo_spider,args=(in_q,))
-    thread.daemon = True
-    thread.start()
-in_q.join()
-print(f"多线程耗时{time.time()-start:.4f}s")
+if __name__ == '__main__':
+    urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1,6)]
+    start = time.time()
+    in_q = Queue()
+    for u in urls:
+        in_q.put(u)
+    for _ in range(10):
+        thread = Thread(target=duo_spider,args=(in_q,))
+        thread.daemon = True
+        thread.start()
+    in_q.join()
+    print(f"多线程耗时{time.time()-start:.4f}s")
 
 

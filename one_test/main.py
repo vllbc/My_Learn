@@ -15,7 +15,7 @@ parser.add_argument('-new', type=str,help='是否为新文件')
 parser.add_argument('-type', type=str,help='类型')
 parser.add_argument('-name', type=str,help='名字')
 parser.add_argument('-folder', type=str,help='路径')
-parser.add_argument('-messege', type=str,help='提交信息')
+parser.add_argument('-message', type=str,help='提交信息')
 args = parser.parse_args()
 def copyFiles(sourceDir,targetDir):
     if sourceDir.find("exceptionfolder")>0:
@@ -48,13 +48,13 @@ with open(mkdocs_yaml,'r',encoding='utf-8') as fp:
         types = args.type
         names = args.name
         dirs = args.folder+'.md'
-        messge = args.messege
+        message = args.message
     else:
-        messge = args.messege
+        message = args.message
         os.system(f"cd {mkdocs_work} && mkdocs build --clean")
         copyFiles(f"{mkdocs_work}\site",githubpage)
-        if messge != "":
-            os.system(f'cd {githubpage} && git add . && git commit -m "{messge}" && git push origin master')
+        if message != "":
+            os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push origin master')
             print("all works OK!!")
             sys.exit()
     for index,name in enumerate(data['nav']):
@@ -69,6 +69,6 @@ os.system(f"cd {mkdocs_work} && mkdocs build --clean")
 
 
 copyFiles(f"{mkdocs_work}\site",githubpage)
-if messge != "":
-    os.system(f'cd {githubpage} && git add . && git commit -m "{messge}" && git push origin master')
+if message != "":
+    os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push origin master')
 print("all works OK!!")
