@@ -1,7 +1,3 @@
-fingerprint = 'HUAWEI/TAS-AN00/HWTAS:10/HUAWEITAS-AN00/10.1.0.160C00:user/release-keys'
-product = 'HUAWEI'
-device = 'HWTAS'
-board = 'HUAWEI'
-a = 'TAS-AN00'
-brand= 'HUAWEI'
-version = 'TAS-AN00 10.1.0.160(C00E155R7P2)'
+a = 'some_thing'
+b = 'some'+'_'+'thing'
+print(a == b)
