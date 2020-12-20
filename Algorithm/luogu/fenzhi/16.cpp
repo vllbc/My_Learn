@@ -1,14 +1,13 @@
 #include <iostream>
-#include <algorithm>
-#include <stdlib.h>
+#include <cstdio>
 using namespace std;
-int a[3];
-char A,B,C;
-int main()
-{
-    cin>>a[0]>>a[1]>>a[2];
-    cin>>A>>B>>C;
-    sort(a,a+3);
-    cout<<a[A-"A"]<<" "<<a[B-"A"]<<" "<<a[C-"A"];
+
+int main(){
+    long long  res = 0,x=1;
+    for(int i =1;i<=20;i++){
+       x*=i;
+       res+=x;
+    }
+    cout<<res;
     return 0;
 }
