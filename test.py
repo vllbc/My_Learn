@@ -1,5 +1,18 @@
-list1 = [1,23]
-list2 = [1,23,12313,1312312]
-print((list1) in (list2))
-# for i in range(min(len(list1),len(list2))):
-#     if list1
+import logging
+fmt = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s') #将格式化格式化为可传入参数
+logging.basicConfig(level=logging.DEBUG,format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
+logger = logging.getLogger("vllbc")
+handle = logging.FileHandler("log.txt",encoding='utf-8')
+
+
+handle.setLevel(level=logging.INFO)
+
+handle.setFormatter(fmt=fmt)
+
+logger.addHandler(handle)
+
+logger.info("hello world")
+logger.info("你好")
+logger.debug("我不hao")
+logger.warning("出错了")
