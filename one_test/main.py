@@ -65,7 +65,9 @@ class Example(QWidget):
         self.folder = QLabel('路径')
         self.message = QLabel('提交信息') 
         #文本框
-        self.isnewEdit = QLineEdit()
+        self.cb_isnew = QComboBox()
+        self.cb_isnew.addItem("yes")
+        self.cb_isnew.addItem("no")
         self.nameEdit = QLineEdit()
         # self.folderEdit = QLineEdit()
         self.cbfolder = QComboBox()
@@ -78,7 +80,7 @@ class Example(QWidget):
         grid.setSpacing(10)
 
         grid.addWidget(self.is_new, 1, 0)
-        grid.addWidget(self.isnewEdit, 1, 1)
+        grid.addWidget(self.cb_isnew, 1, 1)
 
 
         grid.addWidget(self.types, 2, 0)
@@ -102,7 +104,7 @@ class Example(QWidget):
         self.show()
         
     def mains(self):
-        is_new = self.isnewEdit.text()
+        is_new = self.cb_isnew.currentText()
         types = self.cb.currentText()
         names = self.nameEdit.text()
         folder = self.cbfolder.currentText()  
