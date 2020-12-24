@@ -24,6 +24,8 @@ pandas_learn：pandas学习
 
 plotly_learn：plotly学习
 
+pyqt_learn: pyqt学习
+
 python-cookbook：对python cookbook这本书的学习
 
 python_learn：一些小知识小技巧
@@ -31,6 +33,8 @@ python_learn：一些小知识小技巧
 pytorch_learn：对pytorch的学习
 
 regex:正则表达式的学习
+
+Socket: 网络编程学习
 
 spider:爬虫的学习
 

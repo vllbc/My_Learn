@@ -1,10 +1,11 @@
 import logging
-fmt = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s') #将格式化格式化为可传入参数
-logging.basicConfig(level=logging.DEBUG,format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
+fmt = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')  # 将格式化格式化为可传入参数
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+for i in range(100):
+    print(i)
 logger = logging.getLogger("vllbc")
-handle = logging.FileHandler("log.txt",encoding='utf-8')
-
+handle = logging.FileHandler("log.txt", encoding='utf-8')
 
 handle.setLevel(level=logging.INFO)
 

@@ -1,12 +1,9 @@
-import queue
+from threading import Lock, Thread
+import time
+from queue import Queue
+import pymysql
 import requests
 from lxml import etree
-import pymysql
-import logging
-from threading import Thread,Lock
-from queue import Queue
-import time
-
 
 # logging.basicConfig(level=logging.DEBUG,
 #                     format='%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
@@ -36,7 +33,7 @@ import time
 #             title = info.xpath('div[2]/h4/a/text()')[0]
 #             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
 #             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
-            
+
 #             self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
 #             # logger.info("---ok")
 #         self.conn.commit()
@@ -53,7 +50,7 @@ import time
 #             title = info.xpath('div[2]/h4/a/text()')[0]
 #             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
 #             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
-            
+
 #             self.cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
 #             # logger.info("---ok")
 #         self.conn.commit()
@@ -69,16 +66,17 @@ import time
 # mains.run()
 # print(f"正常耗时{time.time()-start:.4f}s")
 
-conn = pymysql.connect(host='localhost',user='root',passwd='xwh5201314',db='spider',port=3306,charset='utf8')
+conn = pymysql.connect(host='localhost', user='root', passwd='xwh5201314', db='spider', port=3306, charset='utf8')
 cur = conn.cursor()
-headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
+headers = {
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
 lock = Lock()
 print('多线程开始')
+
+
 def duo_spider(queues):
-    
-    
     while queues.empty() is not True:
-        res = requests.get(queues.get(),headers=headers)
+        res = requests.get(queues.get(), headers=headers)
         sel = etree.HTML(res.text)
         infos = sel.xpath('//*[@id="rank-view-list"]/div/ul/li')
         for info in infos:
@@ -86,21 +84,23 @@ def duo_spider(queues):
             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
             lock.acquire()
-            cur.execute("insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title),str(author),str(classes)))
+            cur.execute(
+                "insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title), str(author),
+                                                                                           str(classes)))
             conn.commit()
             lock.release()
         queues.task_done()
+
+
 if __name__ == '__main__':
-    urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1,6)]
+    urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1, 6)]
     start = time.time()
     in_q = Queue()
     for u in urls:
         in_q.put(u)
     for _ in range(10):
-        thread = Thread(target=duo_spider,args=(in_q,))
+        thread = Thread(target=duo_spider, args=(in_q,))
         thread.daemon = True
         thread.start()
     in_q.join()
-    print(f"多线程耗时{time.time()-start:.4f}s")
-
-
+    print(f"多线程耗时{time.time() - start:.4f}s")
