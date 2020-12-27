@@ -9,6 +9,7 @@ handle = logging.FileHandler("log.txt", encoding='utf-8')
 
 handle.setLevel(level=logging.INFO)
 
+
 handle.setFormatter(fmt=fmt)
 
 logger.addHandler(handle)
