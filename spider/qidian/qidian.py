@@ -85,7 +85,7 @@ def duo_spider(queues):
             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
             lock.acquire()
             cur.execute(
-                "insert into qidian (title,author,classes) values('{}','{}','{}');".format(str(title), str(author),
+                "insert into qidian2 (title,author,classes) values('{}','{}','{}');".format(str(title), str(author),
                                                                                            str(classes)))
             conn.commit()
             lock.release()
