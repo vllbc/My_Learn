@@ -1,8 +1,15 @@
-import random
-class Test:
-    def __init__(self):
-        self.lists = [1,23,2,4,1,421,412]
-    # def __call__(self):
-    #     return random.choice(self.lists)
-for i in iter(lambda:random.choice(Test().lists),1):
-    print(i)
+# alps = 'abcdefghijklmnopqrstuvwxyz'
+# def transf(c):
+#     if c.isalpha():
+#         idx = (alps.index(c)+2) % 26
+#         return alps[idx]
+#     else:
+#         return c
+# text = "map"
+# res = ''
+# for i in text:
+#     res += transf(i)
+# print(res)
+import os
+
+print(os.path.join("a"))

@@ -14,8 +14,6 @@ Algorithm：学习算法
 
 decorator：学习装饰器
 
-flask_earn：学习flask
-
 Machine Learning:学习机器学习
 
 one_test:一个实践

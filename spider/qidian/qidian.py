@@ -86,7 +86,7 @@ def duo_spider(queues):
             lock.acquire()
             cur.execute(
                 "insert into qidian2 (title,author,classes) values('{}','{}','{}');".format(str(title), str(author),
-                                                                                           str(classes)))
+                                                                                            str(classes)))
             conn.commit()
             lock.release()
         queues.task_done()

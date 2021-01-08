@@ -1,5 +1,3 @@
-import requests
-from multiprocessing import Pool
 import re
 import time
 import requests
@@ -43,11 +41,11 @@ if __name__ == '__main__':
     queue = Queue()
     result_queue = Queue()
     for i in range(1, 1001):
-        queue.put('http://www.baidu.com?page='+str(i))
+        queue.put('http://www.baidu.com?page=' + str(i))
     print('queue 开始大小 %d' % queue.qsize())
 
     for index in range(10):
-        thread = Thread(target=run, args=(queue, result_queue, ))
+        thread = Thread(target=run, args=(queue, result_queue,))
         thread.daemon = True  # 随主线程退出而退出
         thread.start()
 

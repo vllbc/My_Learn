@@ -20,23 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7ceb42-053a-4f56-b146-ad87021ae4de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/My_Learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/dictionaries/vllbc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithm/python/biao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spider/pixiv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/9e56264a-079d-4210-a028-b4f7f8a5afab.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/9e56264a-079d-4210-a028-b4f7f8a5afab/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/python/17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/python/17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algorithm/python/erfen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Algorithm/python/erfen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Socket/fuwu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Socket/fuwu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Socket/kehu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Socket/kehu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask_learn/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/../logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../logtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../logtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-cookbook/.ipynb_checkpoints/chapter1-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python-cookbook/.ipynb_checkpoints/chapter1-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-cookbook/chapter1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../python-cookbook/chapter1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/dianying/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/dianying/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/douban/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/douban/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spider/qidian/qidian.py" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/qidian/qidian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/sele.py" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/sele.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,11 +90,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,6 +102,8 @@
       <workItem from="1608372823479" duration="4000" />
       <workItem from="1608644193156" duration="4000" />
       <workItem from="1608815507055" duration="1035000" />
+      <workItem from="1609646129935" duration="3000" />
+      <workItem from="1609925120974" duration="11000" />
     </task>
     <servers />
   </component>
@@ -124,19 +121,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>118</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/one_test$main.coverage" NAME="main 覆盖结果" MODIFIED="1608816647144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

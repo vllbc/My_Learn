@@ -1,4 +1,8 @@
-2020-12-28 14:50:51,425 - logtest.py[line:17] - INFO: this is a logger info message
-2020-12-28 14:50:51,425 - logtest.py[line:18] - WARNING: this is a logger warning message
-2020-12-28 14:50:51,425 - logtest.py[line:19] - ERROR: this is a logger error message
-2020-12-28 14:50:51,425 - logtest.py[line:20] - CRITICAL: this is a logger critical message
+2021-01-02 21:22:12,048 - logtest.py[line:16] - DEBUG: hello
+2021-01-02 21:22:12,048 - logtest.py[line:17] - DEBUG: hi
+2021-01-02 21:22:12,048 - logtest.py[line:18] - DEBUG: yes
+2021-01-02 21:22:12,049 - logtest.py[line:19] - DEBUG: this is a logger debug message
+2021-01-02 21:22:12,049 - logtest.py[line:20] - INFO: this is a logger info message
+2021-01-02 21:22:12,049 - logtest.py[line:21] - WARNING: this is a logger warning message
+2021-01-02 21:22:12,049 - logtest.py[line:22] - ERROR: this is a logger error message
+2021-01-02 21:22:12,049 - logtest.py[line:23] - CRITICAL: this is a logger critical message

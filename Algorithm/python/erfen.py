@@ -3,7 +3,7 @@ def two(lists,target):
     min = 0
     max = len(lists) - 1
     
-    while min < max:
+    while min <= max:
         mid = (max+min)//2
         if target > a[mid]:
             min = mid + 1

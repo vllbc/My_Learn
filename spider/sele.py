@@ -1,4 +1,4 @@
-#淘宝搜索
+# 淘宝搜索
 
 # from selenium import webdriver
 # from selenium.webdriver.common.by import By
@@ -18,9 +18,8 @@
 # browser.close()
 
 
-#------------------------------------------------------------------------------------------
-#iframe
-
+# ------------------------------------------------------------------------------------------
+# iframe
 
 
 # import time
@@ -39,8 +38,8 @@
 # print(logo)
 # print(logo.text)
 
-#------------------------------------------------------------------------------------
-#百度搜索
+# ------------------------------------------------------------------------------------
+# 百度搜索
 
 
 # from selenium import webdriver
@@ -57,8 +56,8 @@
 # boton.click()
 # print(boton,input)
 
-#-----------------------------------------------------------------------------------------------
-#运行javascript
+# -----------------------------------------------------------------------------------------------
+# 运行javascript
 
 
 # from selenium import webdriver
@@ -67,8 +66,8 @@
 # browser.execute_script('window.scrollTo(0, document.body.scrollHeight)')
 # browser.execute_script('alert("To Bottom")')
 
-#------------------------------------------------------------------------------------------------
-#cookie操作
+# ------------------------------------------------------------------------------------------------
+# cookie操作
 
 # from selenium import webdriver
 # browser = webdriver.Chrome()
@@ -82,22 +81,22 @@
 # print(browser.get_cookies())
 
 
-#--------------------------------------------------------------------------------------------
-#选项卡操作
+# --------------------------------------------------------------------------------------------
+# 选项卡操作
 
 import time
 from selenium import webdriver
+
 browser = webdriver.Chrome()
-browser.get('https://www.baidu.com') #开始打开百度
-browser.execute_script('window.open()') #用js建立新的空白页
-print(browser.window_handles) #显示列表有两个网页
-browser.switch_to_window(browser.window_handles[1])  #切换到第二个
-browser.get('https://www.taobao.com') #打开淘宝
+browser.get('https://www.baidu.com')  # 开始打开百度
+browser.execute_script('window.open()')  # 用js建立新的空白页
+print(browser.window_handles)  # 显示列表有两个网页
+# noinspection PyDeprecation
+browser.switch_to.window(browser.window_handles[1])  # 切换到第二个
+browser.get('https://www.taobao.com')  # 打开淘宝
 time.sleep(1)
-browser.switch_to_window(browser.window_handles[0]) #切换到第一个
-browser.get('https://python.org') #打开python官网
+browser.switch_to.window(browser.window_handles[0])  # 切换到第一个
+browser.get('https://python.org')  # 打开python官网
 
-
-#---------------------------------------------------------------------------------------------------
+# ---------------------------------------------------------------------------------------------------
 #
-
