@@ -1,0 +1,3 @@
+*.ipynb linguist-language=python
+*.cpp lingunist-language=python
+*.c lingunist-language=python
