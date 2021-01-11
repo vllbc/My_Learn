@@ -1,4 +1,6 @@
 import cv2
+
+
 def discern(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     cap = cv2.CascadeClassifier(
@@ -11,6 +13,8 @@ def discern(img):
             x, y, w, h = faceRect
             cv2.rectangle(img, (x, y), (x + h, y + w), (0, 255, 0), 2)  # 框出人脸
     cv2.imshow("Image", img)
+
+
 
 cap = cv2.VideoCapture(0,cv2.CAP_DSHOW)
 while True:
