@@ -5,9 +5,11 @@ def say_hello(name=None):
 
 
 import unittest
+from typing import List
+
 
 class sayhellotest(unittest.TestCase):
-    def setUp(self):
+    def setUp(self,nums:List[int] = 0):
         return super().setUp()
 
     def tearDown(self):
