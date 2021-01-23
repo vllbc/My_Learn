@@ -1,9 +1,12 @@
-def max_yue(a,b):
-    return a if b == 0 else max_yue(b,a%b)
-try:
-    n = int(input())
-    nums = list(map(int,input().split()))
-    y = max_yue(nums[0],nums[1])
-    print("{}/{}".format(nums[0]//y,nums[1]//y))
-except:
-    print(0)
+res = []
+text,n = input().split()
+t = input().split()
+from fnmatch import fnmatch
+
+for s in t:
+    if fnmatch(s,text):
+        res.append(s)
+if res != []:
+    print(' '.join(res))
+else:
+    print("no")
