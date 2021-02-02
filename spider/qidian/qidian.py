@@ -4,6 +4,8 @@ from queue import Queue
 import pymysql
 import requests
 from lxml import etree
+import re
+
 
 # logging.basicConfig(level=logging.DEBUG,
 #                     format='%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
@@ -66,8 +68,6 @@ from lxml import etree
 # mains.run()
 # print(f"正常耗时{time.time()-start:.4f}s")
 
-conn = pymysql.connect(host='localhost', user='root', passwd='xwh5201314', db='spider', port=3306, charset='utf8')
-cur = conn.cursor()
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36'}
 lock = Lock()
@@ -82,22 +82,25 @@ def duo_spider(queues):
         for info in infos:
             title = info.xpath('div[2]/h4/a/text()')[0]
             author = info.xpath('div[2]/p[1]/a[1]/text()')[0]
+            author_id = re.findall('\d+',info.xpath('div[2]/p[1]/a[1]/@href')[0])[0]
             classes = info.xpath('div[2]/p[1]/a[2]/text()')[0]
+            bookid = info.xpath('div[1]/a/@data-bid')[0]
+            state = info.xpath('div[2]/p[1]/span/text()')[0]
+            ranking = info.xpath('div[1]/span/text()')
             lock.acquire()
-            cur.execute(
-                "insert into qidian2 (title,author,classes) values('{}','{}','{}');".format(str(title), str(author),
-                                                                                            str(classes)))
-            conn.commit()
+            print(ranking)
             lock.release()
         queues.task_done()
 
 
 if __name__ == '__main__':
-    urls = ['https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1, 6)]
+    urls = [
+        'https://www.qidian.com/rank/collect?page={}'.format(i) for i in range(1, 6)]
     start = time.time()
     in_q = Queue()
-    for u in urls:
-        in_q.put(u)
+    in_q.put(urls[0])
+    # for u in urls:
+    #     in_q.put(u)
     for _ in range(10):
         thread = Thread(target=duo_spider, args=(in_q,))
         thread.daemon = True
