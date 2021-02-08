@@ -1,5 +1,6 @@
 import logging  # 引入logging模块
 import time
+
 logging.basicConfig(level=logging.DEBUG,format='%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
 # 第一步，创建一个logger
 logger = logging.getLogger()
