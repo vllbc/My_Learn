@@ -2,25 +2,79 @@
 #include <cstdio>
 #include <cstring>
 using namespace std;
-#define maxn 20
 
-int a[maxn][maxn];
-int main(){
-    int n,tot=0,x,y;
-    cin>>n;
-    memset(a,0,sizeof(a));
-    tot = a[x=0][y=n-1] = 1;
-    while(tot < n*n){
-        while(x+1<n && !a[x+1][y]) a[++x][y] = ++tot;
-        while(y-1>=0 && !a[x][y-1]) a[x][--y] = ++tot;
-        while(x-1>=0 && !a[x-1][y]) a[--x][y] = ++tot;
-        while(y+1<n && !a[x][y+1]) a[x][++y] = ++tot;
+bool is_leap_year(int year){
+    if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0){
+        return true;
     }
-    for(int i=0;i<n;i++){                                             
-        for(int j=0;j<n;j++){
-            printf("%4d",a[i][j]);
+    else{
+        return false;
+    }
+
+}
+
+int re_(int n, int month){
+    int res = 0;
+    for (int i = 1; i <= month - 1; i++){
+        if (i == 1){
+            res += 31;
         }
-        printf("\n");
+        else if (i == 2){
+            if (n == 1){
+                res += 29;
+            }
+            else{
+                res += 28;
+            }
+        }
+        else if (i == 3){
+            res += 31;
+        }
+        else if (i == 4){
+            res += 30;
+        }
+        else if (i == 5){
+            res += 31;
+        }
+        else if (i == 6){
+            res += 30;
+        }
+        else if (i == 7){
+            res += 31;
+        }
+        else if (i == 8){
+            res += 31;
+        }
+        else if (i == 9){
+            res += 30;
+        }
+        else if (i == 10){
+            res += 31;
+        }
+        else if (i == 11){
+            res += 30;
+        }
+        else if (i == 12){
+            res += 31;
+        }
+    }
+    return res;
+}
+int main()
+{
+    struct Date{
+        int year;
+        int month;
+        int day;
+    };
+    int years,months,days;
+    cin >> years >> months >> days;
+    Date date = {years,months,days};
+    if (is_leap_year(date.year)){
+        cout << re_(1,date.month) + date.day;
+    }
+    else{
+        cout << re_(2,date.month) + date.day;
     }
     return 0;
 }

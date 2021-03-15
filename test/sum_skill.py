@@ -12,7 +12,7 @@ class Test(BaseModel):
     
     def to_tuple(self) -> "Test":
         return Test(text=tuple(self.text))
-
+        
     @classmethod
     def join(cls, *Tests):
         # return cls.create(sum([i.text for i in Tests],[]))
@@ -21,3 +21,4 @@ class Test(BaseModel):
 test = Test.create(list("Hello world"))
 t2 = Test.create(list("NIHAO"))
 print(Test.join(test, t2))
+

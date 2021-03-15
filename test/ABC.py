@@ -44,7 +44,26 @@ class LogingLogger(AbsLogger):
     def exception(self, msg):
         return logging.exception(msg)
 
-
-logger = LogingLogger()
-
-logger.info("hello")
+class Test(LogingLogger):
+    def info(self, msg):
+        super().info(msg)
+        print("info")
+    
+    def debug(self, msg):
+        super().info(msg)
+        print("debug")
+    
+    def error(self, msg):
+        super().info(msg)
+        print("error")
+    
+    def warn(self, msg):
+        super().info(msg)
+        print("warn")
+    
+    def exception(self, msg):
+        super().info(msg)
+        print("exception")
+    
+T = Test()
+T.info("1")

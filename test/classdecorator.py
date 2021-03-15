@@ -24,4 +24,4 @@ def delay(duration):
 @delay(2)
 def add(a,b):
     print(a+b)
-add.eager_call(1,2)
+print(add)
