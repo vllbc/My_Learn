@@ -1,11 +1,7 @@
-class Test:
-    @classmethod
-    def wrapper1(cls):
-        print("ok")
+from collections import namedtuple
 
-    class wrapper2:
-        def __init__(self):
-            print("ok")
+test = namedtuple("test",['name','sex','age'])
 
-Test.wrapper1()
-Test.wrapper2()
+t = test(name='wlb',sex='male',age=19)
+
+print(t.name)
