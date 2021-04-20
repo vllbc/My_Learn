@@ -111,7 +111,7 @@ class Example(QWidget):
             os.system(f"cd {mkdocs_work} && mkdocs build --clean")
             copyFiles(f"{mkdocs_work}/site", githubpage)
             if message != "":
-                os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push origin master')
+                os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push -u origin master')
                 QMessageBox.information(self, "恭喜!", "所有工作完成!", QMessageBox.Yes | QMessageBox.No)
                 sys.exit()
         # 如果是新文件
@@ -130,7 +130,7 @@ class Example(QWidget):
         copyFiles(f"{mkdocs_work}/site", githubpage)
 
         if message != "":
-            os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push origin master')
+            os.system(f'cd {githubpage} && git add . && git commit -m "{message}" && git push -u origin master')
         QMessageBox.information(self, "恭喜!", "所有工作完成!", QMessageBox.Yes | QMessageBox.No)
         sys.exit()
 

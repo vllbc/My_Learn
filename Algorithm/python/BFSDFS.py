@@ -7,7 +7,7 @@ graph = {
     'F':['D']
 }
 
-def BFS(graph, s):
+def BFS(graph, s): # 广度优先搜索 利用的是队列这个数据结构
     queue = []
     queue.append(s)
     seen = set()
@@ -21,15 +21,15 @@ def BFS(graph, s):
                 queue.append(node)
                 seen.add(node)
                 parent[node] = vertex
-        #print(vertex)
+        # print(vertex)
     return parent
-parent = BFS(graph=graph, s='E')
-v = 'B'
+parent = BFS(graph=graph, s='B')
+v = 'E'
 while v != None:
     print(v)
     v = parent[v]
 
-def DFS(graph, s):
+def DFS(graph, s): # 深度优先搜索，利用的是栈这个数据结构
     stack = []
     stack.append(s)
     seen = set()
@@ -42,3 +42,8 @@ def DFS(graph, s):
                 stack.append(node)
                 seen.add(node)
         print(vertex)
+
+# print("DFS:")
+# DFS(graph,'A')
+# print("BFS:")
+# BFS(graph,'A')

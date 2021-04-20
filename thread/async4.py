@@ -9,6 +9,7 @@ async def job(t):
     await asyncio.sleep(t)
     print(f"end job it takes {time.time() - start:.4f}s")
 
+
 async def main():
     tasks = [asyncio.create_task(job(t)) for t in range(1,3)]
     await asyncio.wait(tasks)

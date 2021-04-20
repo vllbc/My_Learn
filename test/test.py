@@ -1,9 +1,11 @@
-import pickle
-
-d = dict(name='name',sex='male')
-f = open("test.pkl",mode='wb')
-pickle.dump(d,f)
-f.close()
-with open("test.pkl",mode='rb') as fp:
-    d = pickle.load(fp)
-    print(d)
+def test():
+    x = 0
+    def inner(a):
+        nonlocal x
+        x = x + a
+        return x
+    return inner
+t = test()
+print(t(3))
+print(t(3))
+print(t(3))
