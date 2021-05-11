@@ -16,8 +16,7 @@ handle.setFormatter(logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)
 logger.addHandler(handle)
 
 browser = webdriver.Chrome()
-browser.get(
-    "https://accounts.pixiv.net/login?return_to=https%3A%2F%2Fwww.pixiv.net%2F&lang=zh&source=pc&view_type=page")
+browser.get("http://www.baidu.com")
 webwaiter = WebDriverWait(browser, 10)
 
 account_input = browser.find_element_by_xpath('//*[@id="LoginComponent"]/form/div[1]/div[1]/input')
