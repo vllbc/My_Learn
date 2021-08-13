@@ -1,5 +1,11 @@
-import hashlib
+from collections import namedtuple
 
-text = '1122131231'
+test = namedtuple("test",["name","age"])
 
-print(hashlib.md5(text.encode()).hexdigest())
+dic = {
+    "name":"wlb",
+    "age":18
+}
+wlb = test(**dic)
+a,b = wlb
+print(a,b)

@@ -10,13 +10,22 @@
 
 
 
-import torch
-t = torch.Tensor([[1,2],[3,4]])
-# t = 1 2
-#     3 4
-index = torch.LongTensor([[0,0],[1,0]])
-# index = 0 0
-#         1 0
-print(torch.gather(t, 0, index))  # 此时dim = 0
-print(torch.gather(t, 1, index))  # dim = 1
+# import torch
+# t = torch.Tensor([[1,2],[3,4]])
+# # t = 1 2
+# #     3 4
+# index = torch.LongTensor([[0,0],[1,0]])
+# # index = 0 0
+# #         1 0
+# print(torch.gather(t, 0, index))  # 此时dim = 0
+# print(torch.gather(t, 1, index))  # dim = 1
 
+# listA = ["水煮干丝","平桥豆腐","白灼虾","香菇青菜","西红柿鸡蛋汤"]
+# listB = [listA[-1]+listA[0]]
+# print(listB)
+
+
+
+cm = 8
+
+print("8厘米等于{}英寸".format(cm*0.39))
