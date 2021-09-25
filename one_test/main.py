@@ -13,6 +13,7 @@ config = {
     'Pandas': 'pandas',
     'Pytorch': 'pytorch',
     'AI学习': 'AI_learn',
+    'kotlin学习':'kotlin_learn',
     'flask': "flask",
     '其他': 'others'
 }
@@ -53,6 +54,7 @@ class Example(QWidget):
         self.cb.addItem("爬虫")
         self.cb.addItem("Pandas")
         self.cb.addItem("AI学习")
+        self.cb.addItem("kotlin学习")
         self.cb.addItem("flask")
         self.cb.addItem("其他")
         self.cb.activated.connect(self.showfolder)

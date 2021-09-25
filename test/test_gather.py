@@ -1,11 +1,11 @@
-# import torch
+import torch
 
 
-# Y = torch.tensor([[0.1, 0.3, 0.6], [0.3, 0.2, 0.5]])
-# y = torch.LongTensor([0, 2])
-# print(Y.gather(1,y.view(-1, 1)))
-# print((Y.argmax(dim=1) == y).float().mean().item())
-# print((Y.argmax(dim=1) == y).sum().item() / y.shape[0])
+Y = torch.tensor([[0.1, 0.3, 0.6], [0.3, 0.2, 0.5]])
+y = torch.LongTensor([0, 2])
+print(Y.gather(1,y.view(-1, 1) ))
+print((Y.argmax(dim=1) == y).float().mean().item())
+print((Y.argmax(dim=1) == y).sum().item() / y.shape[0])
 
 
 
@@ -24,8 +24,3 @@
 # listB = [listA[-1]+listA[0]]
 # print(listB)
 
-
-
-cm = 8
-
-print("8厘米等于{}英寸".format(cm*0.39))
