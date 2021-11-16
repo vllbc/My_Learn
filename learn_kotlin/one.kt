@@ -76,11 +76,13 @@ fun main(args: Array<String>) {
     //     x %2 != 0 -> println("$x 是奇数")
     //     x % 2 == 0 -> println("$x 是偶数")
     //     else -> println("nonono")
-    // } 
-    val arr = arrayOf(1,2,3,4)
-    for ((index,value) in arr.withIndex()){
-        println("$index 索引上的值为$value")
-    }
+    // 
+    // val arr = arrayOf(1,2,3,4)
+    // for ((index,value) in arr.withIndex()){
+    //     println("$index 索引上的值为$value")
+    // }
+    val b: (Int) -> String = {n -> n.toString()}
+    println(b(1))
 }
 fun chr_to_int(c: Char): Int{
     if (c !in '0'..'9'){
@@ -96,8 +98,8 @@ fun getStringLength(obj:Any):Int?{
     return null
 }
 fun hasYes(x:Any): Boolean{
-    when(x){
-    is String -> return x.startsWith("Yes")
-    else -> return false
+    return when(x){
+    is String -> x.startsWith("Yes")
+    else -> false
 }
 }

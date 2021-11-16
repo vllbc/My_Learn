@@ -5,7 +5,7 @@ sk = socket()
 sk.connect(('127.0.0.1', 9090))
 
 
-async def loops():
+def main():
     while 1:
         msg_s = input('>>>')
         sk.send(msg_s.encode('utf-8'))
@@ -17,7 +17,5 @@ async def loops():
             break
     sk.close()
 
-
-loop = asyncio.get_event_loop()
-
-loop.run_until_complete(loops())
+if __name__ == '__main__':
+    main()
