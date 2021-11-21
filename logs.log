@@ -1,8 +1,0 @@
-2021-03-10 17:36:37,847 - logtest.py[line:17] - DEBUG: hello
-2021-03-10 17:36:37,848 - logtest.py[line:18] - DEBUG: hi
-2021-03-10 17:36:37,848 - logtest.py[line:19] - DEBUG: yes
-2021-03-10 17:36:37,848 - logtest.py[line:20] - DEBUG: this is a logger debug message
-2021-03-10 17:36:37,848 - logtest.py[line:21] - INFO: this is a logger info message
-2021-03-10 17:36:37,849 - logtest.py[line:22] - WARNING: this is a logger warning message
-2021-03-10 17:36:37,849 - logtest.py[line:23] - ERROR: this is a logger error message
-2021-03-10 17:36:37,849 - logtest.py[line:24] - CRITICAL: this is a logger critical message
