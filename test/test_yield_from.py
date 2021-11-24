@@ -11,7 +11,8 @@ def average_gen():
         total += new_num
         average = total/count
     return total,count,average
-   
+    
+# 委托生成器
 def proxy_gen():
     while True:
         total,count,average = yield from average_gen()

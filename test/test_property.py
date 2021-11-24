@@ -7,7 +7,7 @@ class Test():
         self.cls = cls
         self.n = n 
     @property
-    def to_string(self):
+    def to_string_cls(self):
         return self.cls
     
     @property
@@ -24,5 +24,5 @@ class Test_For(BaseModel):
     __repr__ = __str__
 
 test = Test(Test_For, 22)
-print(test.to_string(num=1))
+print(test.to_string_cls(num=1))
 print(test.to_strings)

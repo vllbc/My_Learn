@@ -21,3 +21,4 @@ class Chain(object):
 
 chain = Chain("vllbc")
 print(chain[1:2])
+print(chain.x.x.x.x.x)

@@ -11,7 +11,7 @@ print(func_res)
 def create_mult():
     res = []
     for i in range(5):
-        def func(x, i=i):
+        def func(x, i=i): # 去掉i=i则全输出8，原因和上面一样
             return x * i
         res.append(func)
     return res

@@ -15,8 +15,7 @@ class Test(BaseModel):
         
     @classmethod
     def join(cls, *Tests):
-        # return cls.create(sum([i.text for i in Tests],[]))
-        return cls.create(reduce(lambda x,y:x+y, [i.text for i in Tests]))
+        return cls.create(sum([i.text for i in Tests],[]))
 
 test = Test.create(list("Hello world"))
 t2 = Test.create(list("NIHAO"))

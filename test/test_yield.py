@@ -1,11 +1,3 @@
-'''
-Author: your name
-Date: 2021-02-06 23:26:14
-LastEditTime: 2021-03-07 19:13:14
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: \My_Learn\test\testyield.py
-'''
 from typing import Iterable
 
 
