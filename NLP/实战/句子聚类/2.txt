@@ -1,0 +1,1512 @@
+keyword:SARS,CoV,19,COVID,infection,patients,RNA,human,ACE2,detection
+rom SARS-CoV to Wuhan 2019-nCoV: Will History Repeat Itself?
+Potent binding of 2019 novel coronavirus spike protein by a SARS coronavirus-specific human monoclonal antibody
+Transmission and epidemiological characteristics of Novel Coronavirus (2019-nCoV)-Infected Pneumonia(NCIP):preliminary evidence obtained in comparison with 2003-SARS
+Interventions targeting air travellers early in the pandemic may delay local outbreaks of SARS-CoV-2
+Long-Term Persistence of IgG Antibodies in SARS-CoV Infected Healthcare Workers
+Impact of seasonal forcing on a potential SARS-CoV-2 pandemic
+A new transmission route for the propagation of the SARS-CoV-2 coronavirus
+Study on SARS-COV-2 transmission and the effects of control measures in China
+Structural modeling of 2019-novel coronavirus (nCoV) spike protein reveals a proteolytically-sensitive activation loop as a distinguishing feature compared to SARS-CoV and related SARS-like coronaviruses
+Longitudinal characteristics of lymphocyte responses and cytokine profiles in the peripheral blood of SARS-CoV-2 infected patients
+Simulating and Forecasting the Cumulative Confirmed Cases of SARS-CoV-2 in China by Boltzmann Function-based Regression Analyses
+Structure, function and antigenicity of the SARS-CoV-2 spike glycoprotein
+Evidence for gastrointestinal infection of SARS-CoV-2
+SARS-CoV-2 and SARS-CoV Spike-RBD Structure and Receptor Binding Comparison and Potential Implications on Neutralizing Antibody and Vaccine Development
+X-ray Structure of Main Protease of the Novel Coronavirus SARS-CoV-2 Enables Design of α-Ketoamide Inhibitors
+Protection of Rhesus Macaque from SARS-Coronavirus challenge by recombinant adenovirus vaccine
+Functional pangenome analysis provides insights into the origin, function and pathways to therapy of SARS-CoV-2 coronavirus
+Rapid reconstruction of SARS-CoV-2 using a synthetic genomics platform
+Cryo-EM structures of HKU2 and SADS-CoV spike glycoproteins and insights into coronavirus evolution
+Substrate specificity profiling of SARS-CoV-2 Mpro protease provides basis for anti-COVID-19 drug design
+Development of Reverse Transcription Loop-mediated Isothermal Amplification (RT-LAMP) Assays Targeting SARS-CoV-2
+Inhibition of SARS-CoV-2 infection (previously 2019-nCoV) by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion
+Aerodynamic Characteristics and RNA Concentration of SARS-CoV-2 Aerosol in Wuhan Hospitals during COVID-19 Outbreak
+A proposal of an alternative primer for the ARTIC Network's multiplex PCR to improve coverage of SARS-CoV-2 genome sequencing
+The SARS-CoV-2 exerts a distinctive strategy for interacting with the ACE2 human receptor
+Crystal structure of SARS-CoV-2 nucleocapsid protein RNA binding domain reveals potential unique drug targeting sites
+AI-aided design of novel targeted covalent inhibitors against SARS-CoV-2
+Quantifying dynamics of SARS-CoV-2 transmission suggests that epidemic control and avoidance is feasible through instantaneous digital contact tracing
+Revealing the influence of national public health policies for the outbreak of the SARS-CoV-2 epidemic in Wuhan, China through status dynamic modeling
+Clinical Characteristics of SARS-CoV-2 Pneumonia Compared to Controls in Chinese Han Population
+Rapid Detection of 2019 Novel Coronavirus SARS-CoV-2 Using a CRISPR-based DETECTR Lateral Flow Assay
+Aerosol and surface stability of HCoV-19 (SARS-CoV-2) compared to SARS-CoV-1
+Analytical sensibility and specificity of two RT-qPCR protocols for SARS-CoV-2 detection performed in an automated workflow
+A preliminary study on serological assay for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in 238 admitted hospital patients
+Amplicon based MinION sequencing of SARS-CoV-2 and metagenomic characterisation of nasopharyngeal swabs from patients with COVID-19
+Nanopore target sequencing for accurate and comprehensive detection of SARS-CoV-2 and other respiratory viruses
+ddPCR: a more sensitive and accurate tool for SARS-CoV-2 detection in low viral load specimens
+SARS-CoV-2 transmission in cancer patients of a tertiary hospital in Wuhan
+The infection evidence of SARS-COV-2 in ocular surface： a single-center cross-sectional study
+A human monoclonal 1 antibody blocking SARS-CoV-2 infection
+Rigidity, normal modes and flexible motion of a SARS-CoV-2 (COVID-19) protease structure.
+Novel and potent inhibitors targeting DHODH, a rate-limiting enzyme in de novo pyrimidine biosynthesis, are broad-spectrum antiviral against RNA viruses including newly emerged coronavirus SARS-CoV-2
+Discovery of a 382-nt deletion during the early evolution of SARS-CoV-2
+Virus strain of a mild COVID-19 patient in Hangzhou representing a new trend in SARS-CoV-2 evolution related to Furin cleavage site
+Prolonged presence of SARS-CoV-2 in feces of pediatric patients during the convalescent phase
+High sensitivity detection of SARS-CoV-2 using multiplex PCR and a multiplex-PCR-based metagenomic method
+Reinfection could not occur in SARS-CoV-2 infected rhesus macaques
+Differential Antibody Recognition by Novel SARS-CoV-2 and SARS-CoV Spike Protein Receptor Binding Domains: Mechanistic Insights
+Accurate Identification of SARS-CoV-2 from Viral Genome Sequences using Deep Learning
+SARS-CoV-2 receptor ACE2 and TMPRSS2 are predominantly expressed in a transient secretory cell type in subsegmental bronchial branches
+The architecture of SARS-CoV-2 transcriptome
+SARS-CoV-2 invades host cells via a novel route: CD147-spike protein
+A highly conserved cryptic epitope in the receptor-binding domains of SARS-CoV-2 and SARS-CoV
+Nucleotide Analogues as Inhibitors of SARS-CoV Polymerase
+Dark proteome of Newly Emerged SARS-CoV-2 in Comparison with Human and Bat Coronaviruses
+Rhesus macaques can be effectively infected with SARS-CoV-2 via ocular conjunctival route
+Structural and functional conservation of the programmed -1 ribosomal frameshift signal of SARS-CoV-2
+Spread of SARS-CoV-2 Coronavirus likely to be constrained by climate
+Environmental contamination of the SARS-CoV-2 in healthcare premises: An urgent call for protection for healthcare workers
+Heat inactivation of serum interferes with the immunoanalysis of antibodies to SARS-CoV-2
+RBD mutations from circulating SARS-CoV-2 strains enhance the structure stability and infectivity of the spike protein
+Characterization of the SARS-CoV-2 Spike in an Early Prefusion Conformation
+A Cybernetics-based Dynamic Infection Model for Analyzing SARS-COV-2 Infection Stability and Predicting Uncontrollable Risks
+International expansion of a novel SARS-CoV-2 mutant
+Serological immunochromatographic approach in diagnosis with SARS-CoV-2 infected COVID-19 patients
+Comparative Performance of SARS-CoV-2 Detection Assays using Seven Different Primer/Probe Sets and One Assay Kit
+An emergent clade of SARS-CoV-2 linked to returned travellers from Iran
+Cross-reactive antibody response between SARS-CoV-2 and SARS-CoV infections
+The sequence of human ACE2 is suboptimal for binding the S spike protein of SARS coronavirus 2
+Master Regulator Analysis of the SARS-CoV-2/Human interactome
+Computational analysis of microRNA-mediated interactions in SARS-CoV-2 infection
+Recapitulation of SARS-CoV-2 Infection and Cholangiocyte Damage with Human Liver Organoids
+A Cryptic Site of Vulnerability on the Receptor Binding Domain of the SARS-CoV-2 Spike Glycoprotein
+Evidence of the Recombinant Origin and Ongoing Mutations in Severe Acute Respiratory Syndrome 2 (SARS-COV-2)
+Efficient inactivation of SARS-CoV-2 by WHO-recommended hand rub formulations and alcohols
+Highly accurate and sensitive diagnostic detection of SARS-CoV-2 by digital PCR
+Estimating unobserved SARS-CoV-2 infections in the United States
+A serological assay to detect SARS-CoV-2 seroconversion in humans
+Stability of SARS-CoV-2 in different environmental conditions
+Acute myelitis after SARS-CoV-2 infection: a case report.
+Evaluation of Nucleocapsid and Spike Protein-based ELISAs for detecting antibodies against SARS-CoV-2
+GENOMIC CHARACTERISATION AND PHYLOGENETIC ANALYSIS OF SARS-COV-2 IN ITALY
+Regaining perspective on SARS-CoV-2 molecular tracing and its implications
+Characterization of anti-viral immunity in recovered individuals infected by SARS-CoV-2
+Sentinel Event Surveillance to Estimate Total SARS-CoV-2 Infections, United States
+Antibody responses to SARS-CoV-2 in COVID-19 patients: the perspective application of serological tests in clinical practice
+SARS-CoV-2 specific antibody responses in COVID-19 patients
+Double-Quencher Probes Improved the Detection Sensitivity of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by One-Step RT-PCR
+The first-in-class peptide binder to the SARS-CoV-2 spike protein
+An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 and multiple endemic, epidemic and bat coronavirus
+Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs
+Nucleotide Analogues as Inhibitors of SARS-CoV-2 Polymerase
+COVID-19 Vaccine Candidates: Prediction and Validation of 174 SARS-CoV-2 Epitopes
+Replication of SARS-CoV-2 in human respiratory epithelium
+RT-qPCR DETECTION OF SARS-CoV-2 RNA FROM PATIENT NASOPHARYNGEAL SWAB USING QIAGEN RNEASY KITS OR DIRECTLY VIA OMISSION OF AN RNA EXTRACTION STEP
+All-in-One Dual CRISPR-Cas12a (AIOD-CRISPR) Assay: A Case for Rapid, Ultrasensitive and Visual Detection of Novel Coronavirus SARS-CoV-2 and HIV virus
+Molecular characterization of SARS-CoV-2 in the first COVID-19 cluster in France reveals an amino-acid deletion in nsp2 (Asp268Del)
+Respiratory disease and virus shedding in rhesus macaques inoculated with SARS-CoV-2
+Emergence of SARS-CoV-2 through Recombination and Strong Purifying Selection
+A SARS-CoV-2-Human Protein-Protein Interaction Map Reveals Drug Targets and Potential Drug-Repurposing
+Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US
+High incidence of asymptomatic SARS-CoV-2 infection, Chongqing, China
+Cross-reaction of sera from COVID-19 patients with SARS-CoV assays.
+SARS-CoV-2, an evolutionary perspective of interaction with human ACE2 reveals undiscovered amino acids necessary for complex stability
+Climatic influences on the worldwide spread of SARS-CoV-2
+Effect of SARS-CoV-2 infection upon male gonadal function: A single center-based study
+SARS-CoV-2 launches a unique transcriptional signature from in vitro, ex vivo, and in vivo systems
+Characterisation of the transcriptome and proteome of SARS-CoV-2 using direct RNA sequencing and tandem mass spectrometry reveals evidence for a cell passage induced in-frame deletion in the spike glycoprotein that removes the furin-like cleavage site.
+Potent human neutralizing antibodies elicited by SARS-CoV-2 infection
+Computational analysis of SARS-CoV-2 S1 protein O-glycosylation and phosphorylation modifications and identifying potential target positions against CD209L-mannose interaction to inhibit initial binding of the virus
+Analysis of Serologic Cross-Reactivity Between Common Human Coronaviruses and SARS-CoV-2 Using Coronavirus Antigen Microarray
+Fundamental principles of epidemic spread highlight the immediate need for large-scale serological surveys to assess the stage of the SARS-CoV-2 epidemic
+Transmission Potential of SARS-CoV-2 in Viral Shedding Observed at the University of Nebraska Medical Center
+Estimating the ascertainment rate of SARS-CoV-2 infection in Wuhan, China: implications for management of the global outbreak
+Human leukocyte antigen susceptibility map for SARS-CoV-2
+Coast-to-coast spread of SARS-CoV-2 in the United States revealed by genomic epidemiology
+The potential SARS-CoV-2 entry inhibitor
+Transmission dynamics of SARS-COV-2 in China: impact of public health interventions
+Epidemiological Tools that Predict Partial Herd Immunity to SARS Coronavirus 2
+Global profiling of SARS-CoV-2 specific IgG/ IgM responses of convalescents using a proteome microarray
+Estimation of SARS-CoV-2 Infection Prevalence in Santa Clara County
+Disparities in Age-Specific Morbidity and Mortality from SARS-CoV-2 in China and the Republic of Korea
+Modelling SARS-CoV-2 Dynamics: Implications for Therapy
+SARS-CoV-2 infection in 86 healthcare workers in two Dutch hospitals in March 2020
+Serological diagnostic kit of SARS-CoV-2 antibodies using CHO-expressed full-length SARS-CoV-2 S1 proteins
+Clinical Characteristics Hospitalized Patients with SARS-Cov-2 and HBV Co-infection
+Structure-based modeling of SARS-CoV-2 peptide/HLA-A02 antigens
+Global transmission network of SARS-CoV-2: from outbreak to pandemic
+Analysis of adaptive immune cell populations and phenotypes in the patients infected by SARS-CoV-2
+A comparison study of SARS-CoV-2 IgG antibody between male and female COVID-19 patients: a possible reason underlying different outcome between gender.
+Haplotype networks of SARS-CoV-2 infections in the Diamond Princess cruise ship outbreak
+Factors associated with prolonged viral shedding and impact of Lopinavir/Ritonavir treatment in patients with SARS-CoV-2 infection
+Automatic Identification of SARS Coronavirus using Compression-Complexity Measures
+Computational simulations reveal the binding dynamics between human ACE2 and the receptor binding domain of SARS-CoV-2 spike protein
+Serology characteristics of SARS-CoV-2 infection since the exposure and post symptoms onset
+In-Silico evidence for two receptors based strategy of SARS-CoV-2
+FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 in vitro
+Non-neural expression of SARS-CoV-2 entry genes in the olfactory epithelium suggests mechanisms underlying anosmia in COVID-19 patients
+Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity
+Structure-Based Design, Synthesis and Biological Evaluation of Peptidomimetic Aldehydes as a Novel Series of Antiviral Drug Candidates Targeting the SARS-CoV-2 Main Protease
+SARS-CoV-2 proteome microarray for mapping COVID-19 antibody interactions at amino acid resolution
+Modeling of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Proteins by Machine Learning and Physics-Based Refinement
+The Nucleocapsid Protein of SARS-CoV-2 Abolished Pluripotency in Human Induced Pluripotent Stem Cells
+SARS-CoV-2 and ORF3a: Non-Synonymous Mutations and Polyproline Regions
+SARS-CoV-2 exhibits intra-host genomic plasticity and low-frequency polymorphic quasispecies
+Site-specific analysis of the SARS-CoV-2 glycan shield
+Re-analysis of SARS-CoV-2 infected host cell proteomics time-course data by impact pathway analysis and network analysis. A potential link with inflammatory response.
+RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses
+Site-specific N-glycosylation Characterization of Recombinant SARS-CoV-2 Spike Proteins using High-Resolution Mass Spectrometry
+Comparative performance of four nucleic acid amplification tests for SARS-CoV-2 virus
+SARS-CoV-2 asymptomatic and symptomatic patients and risk for transfusion transmission
+Evaluations of serological test in the diagnosis of 2019 novel coronavirus (SARS-CoV-2) infections during the COVID-19 outbreak
+Dispersion of a new coronavirus SARS-CoV-2 by airlines in 2020: Temporal estimates of the outbreak in Mexico.
+Evaluation the auxiliary diagnosis value of antibodies assays for detection of novel coronavirus (SARS-Cov-2) causing an outbreak of pneumonia (COVID-19)
+What is required to prevent a second major outbreak of the novel coronavirus SARS-CoV-2 upon lifting the metropolitan-wide quarantine of Wuhan city, China
+Diagnostic Indexes of a Rapid IgG/IgM Combined Antibody Test for SARS-CoV-2
+Children are unlikely to have been the primary source of household SARS-CoV-2 infections
+Comparative Genomic Analysis of Rapidly Evolving SARS CoV-2 Viruses Reveal Mosaic Pattern of Phylogeographical Distribution
+Early Spread of SARS-Cov-2 in the Icelandic Population
+Analysis and Prediction of False Negative Results for SARS-CoV-2 Detection with Pharyngeal Swab Specimen in COVID-19 Patients: A Retrospective Study
+The comparative superiority of IgM-IgG antibody test to real-time reverse transcriptase PCR detection for SARS-CoV-2 infection diagnosis
+SARS-CoV-2 detection using digital PCR for COVID-19 diagnosis, treatment monitoring and criteria for discharge
+Persistent SARS-CoV-2 presence is companied with defects in adaptive immune system in non-severe COVID-19 patients
+An alternative workflow for molecular detection of SARS-CoV-2 - escape from the NA extraction kit-shortage
+No SARS-CoV-2 in expressed prostatic secretion of patients with coronavirus disease 2019: a descriptive multicentre study in China
+A Multi-hospital Study in Wuhan, China：Protective Effects of Non-menopause and Female Hormones on SARS-CoV-2 infection
+A considerable proportion of individuals with asymptomatic SARS-CoV-2 infection in Tibetan population
+Evaluation of Group Testing for SARS-CoV-2 RNA
+Failed detection of the full-length genome of SARS-CoV-2 by ultra-deep sequencing from the recovered and discharged patients retested viral PCR positive
+SARS-CoV-2 detection from nasopharyngeal swab samples without RNA extraction
+A Genomic Survey of SARS-CoV-2 Reveals Multiple Introductions into Northern California without a Predominant Lineage
+Crystal structure of the SARS-CoV-2 non-structural protein 9, Nsp9
+Computational Design of Peptides to Block Binding of the SARS-CoV-2 Spike Protein to Human ACE2
+Cigarette smoke triggers the expansion of a subpopulation of respiratory epithelial cells that express the SARS-CoV-2 receptor ACE2
+The SARS-CoV-2 epidemic outbreak: a review of plausible scenarios of containment and mitigation for Mexico
+Ad hoc laboratory-based surveillance of SARS-CoV-2 by real-time RT-PCR using minipools of RNA prepared from routine respiratory samples
+The first three months of the COVID-19 epidemic: Epidemiological evidence for two separate strains of SARS-CoV-2 viruses spreading and implications for prevention strategies
+A one-enzyme RT-qPCR assay for SARS-CoV-2, and procedures for reagent production
+The Novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Directly Decimates Human Spleens and Lymph Nodes
+Inferring Timing of Infection Using Within-host SARS-CoV-2 Infection Dynamics Model: Are "Imported Cases" Truly Imported?
+Evolutionary origins of the SARS-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic
+Sequence variation among SARS-CoV-2 isolates in Taiwan
+Structural analysis of SARS-CoV-2 and prediction of the human interactome
+Re-insights into origin and adaptation of SARS-CoV-2
+Atlas of ACE2 gene expression in mammals reveals novel insights in transmission of SARS-Cov-2
+Fully human single-domain antibodies against SARS-CoV-2
+Susceptibility of ferrets, cats, dogs, and different domestic animals to SARS-coronavirus-2
+Sequence analysis of SARS-CoV-2 genome reveals features important for vaccine design
+Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics
+Potent neutralizing antibodies in the sera of convalescent COVID-19 patients are directed against conserved linear epitopes on the SARS-CoV-2 spike protein
+Epitope-based chimeric peptide vaccine design against S, M and E proteins of SARS-CoV-2 etiologic agent of global pandemic COVID-19: an in silico approach
+Biophysical characterization of the SARS-CoV2 spike protein binding with the ACE2 receptor explains increased COVID-19 pathogenesis
+Combined prophylactic and therapeutic use maximizes hydroxychloroquine anti-SARS-CoV-2 effects in vitro
+HTCC as a highly effective polymeric inhibitor of SARS-CoV-2 and MERS-CoV
+Molecular Docking Analysis Of Some Phytochemicals On Two SARS-CoV-2 Targets
+Perception of emergent epidemic of COVID-2019 / SARS CoV-2 on the Polish Internet
+Global versus focused isolation during the SARS-CoV-2 pandemic-A cost-effectiveness analysis
+Analytical sensitivity and efficiency comparisons of SARS-COV-2 qRT-PCR assays
+Stochastic Compartmental Modelling of SARS-CoV-2 with Approximate Bayesian Computation
+Detection of Air and Surface Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Hospital Rooms of Infected Patients
+SARS-CoV-2 infection in health care workers: a retrospective analysis and a model study
+Scrutinizing the SARS-CoV-2 protein information for the designing an effective vaccine encompassing both the T-cell and B-cell epitopes
+Prediction of SARS-CoV-2 epitopes across 9360 HLA class I alleles
+A Gaussian model for the time development of the Sars-Cov-2 corona pandemic disease. Predictions for Germany made on March 30, 2020
+Comparative genomics suggests limited variability and similar evolutionary patterns between major clades of SARS-Cov-2
+Variable Macro X Domain of SARS-CoV-2 Retains the Ability to Bind ADP-ribose
+Identification of a common deletion in the spike protein of SARS-CoV-2
+Virus-host interactome and proteomic survey of PMBCs from COVID-19 patients reveal potential virulence factors influencing SARS-CoV-2 pathogenesis
+Characterization and treatment of SARS-CoV-2 in nasal and bronchial human airway epithelia
+SARS-CoV-2 receptor and entry genes are expressed by sustentacular cells in the human olfactory neuroepithelium
+Insights into The Codon Usage Bias of 13 Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Isolates from Different Geo-locations
+A SARS-CoV-2 Vaccination Strategy Focused on Population-Scale Immunity
+SARS-CoV-2 neutralizing serum antibodies in cats: a serological investigation
+Deducing the N- and O- glycosylation profile of the spike protein of novel coronavirus SARS-CoV-2
+In silico approach for designing of a multi-epitope based vaccine against novel Coronavirus (SARS-COV-2)
+The Spike Protein S1 Subunit of SARS-CoV-2 Contains an LxxIxE-like Motif that is Known to Recruit the Host PP2A-B56 Phosphatase
+The QT Interval in Patients with SARS-CoV-2 Infection Treated with Hydroxychloroquine/Azithromycin
+Using ILI surveillance to estimate state-specific case detection rates and forecast SARS-CoV-2 spread in the United States
+Single-cell RNA Analysis on ACE2 Expression Provides Insight into SARS-CoV-2 Blood Entry and Heart Injury
+Genomic epidemiology of SARS-CoV-2 in Guangdong Province, China
+Detecting SARS-CoV-2 at point of care: Preliminary data comparing Loop-mediated isothermal amplification (LAMP) to PCR
+In-silico analysis of SARS-CoV-2 genomes: Insights from SARS encoded non-coding RNAs
+Leveraging mRNAs sequences to express SARS-CoV-2 antigens in vivo
+Structural basis of RNA recognition by the SARS-CoV-2 nucleocapsid phosphoprotein
+Topological Analysis of SARS CoV-2 Main Protease
+Computational analysis suggests putative intermediate animal hosts of the SARS-CoV-2
+A snapshot of SARS-CoV-2 genome availability up to 30th March, 2020 and its implications
+In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication
+Triphosphates of the Two Components in DESCOVY and TRUVADA are Inhibitors of the SARS-CoV-2 Polymerase
+Prediction and Evolution of B Cell Epitopes of Surface Protein in SARS-CoV-2
+Energetics based epitope screening in SARS CoV-2 (COVID 19) spike glycoprotein by Immuno-informatic analysis aiming to a suitable vaccine development.
+Potent Antiviral Activities of Type I Interferons to SARS-CoV-2 Infection
+SARS-CoV-2 and SARS-CoV differ in their cell tropism and drug sensitivity profiles
+Indomethacin has a potent antiviral activity against SARS CoV-2 in vitro and canine coronavirus in vivo
+LY6E Restricts the Entry of Human Coronaviruses, including the currently pandemic SARS-CoV-2
+Atazanavir inhibits SARS-CoV-2 replication and pro-inflammatory cytokine production
+Cryptic transmission of SARS-CoV-2 in Washington State
+Widespread use of face masks in public may slow the spread of SARS CoV-2: an ecological study
+Clinical meanings of rapid serological assay in patients tested for SARS-Co2 RT-PCR
+A case of SARS-CoV-2 carrier for 32 days with several times false negative nucleic acid tests
+Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications
+Could SARS-CoV-2 be transmitted via speech droplets?
+Rapid evidence summary on SARS-CoV-2 survivorship and disinfection, and a reusable PPE protocol using a double-hit process
+Assessment of Specimen Pooling to Conserve SARS CoV-2 Testing Resources
+COVID19-Tracker: A shiny app to produce comprehensive data visualization for SARS-CoV-2 epidemic in Spain
+Patient-collected tongue, nasal, and mid-turbinate swabs for SARS-CoV-2 yield equivalent sensitivity to health care worker collected nasopharyngeal swabs
+CovProfile: profiling the viral genome and gene expressions of SARS-COV2
+The potential genetic network of human brain SARS-CoV-2 infection
+Timing of antiviral treatment initiation is critical to reduce SARS-Cov-2 viral load
+Study of Epidemiological Characteristics and In-silico Analysis of the Effect of Interventions in the SARS-CoV-2 Epidemic in India
+SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases
+Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital
+Initial evidence of higher morbidity and mortality due to SARS-CoV-2 in regions with lower air quality
+Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR
+Estimate of the development of the epidemic reproduction number Rt from Coronavirus SARS-CoV-2 case data and implications for political measures based on prognostics
+Indoor transmission of SARS-CoV-2
+A model to predict SARS-CoV-2 infection based on the first three-month surveillance data in Brazil.
+Lack of Antiviral Activity of Darunavir against SARS-CoV-2
+Optimize Clinical Laboratory Diagnosis of COVID-19 from Suspect Cases by Likelihood Ratio of SARS-CoV-2 IgM and IgG antibody
+Targeting the catecholamine-cytokine axis to prevent SARS-CoV-2 cytokine storm syndrome
+Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses
+Extraction-free COVID-19 (SARS-CoV-2) diagnosis by RT-PCR to increase capacity for national testing programmes during a pandemic
+Sequence-based prediction of vaccine targets for inducing T cell responses to SARS-CoV-2 utilizing the bioinformatics predictor RECON
+The IMPDH inhibitor merimepodib suppresses SARS-CoV-2 replication in vitro.
+Absence of SARS-CoV-2 infection in cats and dogs in close contact with a cluster of COVID-19 patients in a veterinary campus
+Immunoglobulin fragment F(ab')2 against RBD potently neutralizes SARS-CoV-2 in vitro
+Decoding the lethal effect of SARS-CoV-2 (novel coronavirus) strains from global perspective: molecular pathogenesis and evolutionary divergence
+The aging transcriptome and cellular landscape of the human lung in relation to SARS-CoV-2
+3D Models of glycosylated SARS-CoV-2 spike protein suggest challenges and opportunities for vaccine development
+Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue
+Room-temperature-storable PCR Mixes for SARS-CoV-2 Detection
+The spatial and cell-type distribution of SARS-CoV-2 receptor ACE2 in human and mouse brain
+Relative Abundance of SARS-CoV-2 Entry Genes in the Enterocytes of the Lower Gastrointestinal Tract
+SARS-CoV-2 might manipulate against its host the immunity RNAi/Dicer/Ago system Does mitochondria collapse upon COVID-19 infection?
+Prediction of SARS-CoV interaction with host proteins during lung aging reveals a potential role for TRIB3 in COVID-19.
+Characterizing geographical and temporal dynamics of novel coronavirus SARS-CoV-2 using informative subtype markers
+Structural Basis for the Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir
+Vulnerabilities of the SARS-CoV-2 virus to proteotoxicity — opportunity for repurposed chemotherapy of COVID-19 infection
+Robust neutralization assay based on SARS-CoV-2 S-bearing vesicular stomatitis virus (VSV) pseudovirus and ACE2-overexpressed BHK21 cells
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) envelope (E) protein harbors a conserved BH3-like motif
+Spatial modeling cannot currently differentiate SARS-CoV-2 coronavirus and human distributions on the basis of climate in the United States
+Variation in False Negative Rate of RT-PCR Based SARS-CoV-2 Tests by Time Since Exposure
+Optimization of SARS-CoV-2 detection by RT-QPCR without RNA extraction
+Evaluation of nine commercial SARS-CoV-2 immunoassays
+Homologous protein domains in SARS-CoV-2 and measles, mumps and rubella viruses: preliminary evidence that MMR vaccine might provide protection against COVID-19
+Rapid in silico design of antibodies targeting SARS-CoV-2 using machine learning and supercomputing
+On the interactions of the receptor-binding domain of SARS-CoV-1 and SARS-CoV-2 spike proteins with monoclonal antibodies and the receptor ACE2
+ACE2 fragment as a decoy for novel SARS-Cov-2 virus
+Systemic analysis of tissue cells potentially vulnerable to SARS-CoV-2 infection by the protein-proofed single-cell RNA profiling of ACE2, TMPRSS2 and Furin proteases
+Human ACE2 receptor polymorphisms predict SARS-CoV-2 susceptibility
+Currently available intravenous immunoglobulin (Gamunex©-C and Flebogamma© DIF) contains antibodies reacting against SARS-CoV-2 antigens
+Type 2 and interferon inflammation strongly regulate SARS-CoV-2 related gene expression in the airway epithelium
+Analysis of the mutation dynamics of SARS-CoV-2 reveals the spread history and emergence of RBD mutant with lower ACE2 binding affinity
+De novo design of high-affinity antibody variable regions (scFv) against the SARS-CoV-2 spike protein
+Potential host range of multiple SARS-like coronaviruses and an improved ACE2-Fc variant that is potent against both SARS-CoV-2 and SARS-CoV-1
+Integrative Network Biology Framework Elucidates Molecular Mechanisms of SARS-CoV-2 Pathogenesis
+In-depth Bioinformatic Analyses of Human SARS-CoV-2, SARS-CoV, MERS-CoV, and Other Nidovirales Suggest Important Roles of Noncanonical Nucleic Acid Structures in Their Lifecycles
+Exploring the genomic and proteomic variations of SARS-CoV-2 spike glycoprotein: a computational biology approach
+Modeling layered non-pharmaceutical interventions against SARS-CoV-2 in the United States with Corvid
+Fast SARS-CoV-2 detection by RT-qPCR in preheated nasopharyngeal swab samples
+Estimation of the percentages of asymptomatic patients and undiagnosed patients of the novel coronavirus (SARS-CoV-2) infection in Hokkaido, Japan by using birth-death process with recursive full tracing
+Self-collection: an appropriate alternative during the SARS-CoV-2 pandemic
+Introductions and early spread of SARS-CoV-2 in the New York City area
+Modeling the impact of human mobility and travel restrictions on the potential spread of SARS-CoV-2 in Taiwan
+Exercising caution in correlating COVID-19 incidence and mortality rates with BCG vaccination policies due to variable rates of SARS CoV-2 testing
+Estimates of the Undetected Rate among the SARS-CoV-2 Infected using Testing Data from Iceland
+A streamlined approach to rapidly detect SARS-CoV-2 infection, avoiding RNA extraction
+SARS-CoV-2 and human milk: what is the evidence?
+Clinical evaluation of a SARS-CoV-2 RT-PCR assay on a fully automated system for rapid on-demand testing in the hospital setting
+SARS-CoV-2 infection in Health Care Workers in a large public hospital in Madrid, Spain, during March 2020
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection During Pregnancy In China: A Retrospective Cohort Study
+High-throughput extraction of SARS-CoV-2 RNA from nasopharyngeal swabs using solid-phase reverse immobilization beads
+Human monoclonal antibodies block the binding of SARS-CoV-2 spike protein to angiotensin converting enzyme 2 receptor
+Chloroquine diphosphate in two different dosages as adjunctive therapy of hospitalized patients with severe respiratory syndrome in the context of coronavirus (SARS-CoV-2) infection: Preliminary safety results of a randomized, double-blinded, phase IIb clinical trial (CloroCovid-19 Study)
+Development of a dual-gene loop-mediated isothermal amplification (LAMP) detection assay for SARS-CoV-2: A preliminary study
+A study of SARS-CoV-2 evolution in Italy: from early days to secondary effects after social distancing
+How much India detecting SARS-CoV-2 Infections? A model-based estimation
+Cell-Type-Specific Expression of Renin-Angiotensin-System Components in the Human Body and Its Relevance to SARS-CoV-2 Infection
+Evaluation of heating and chemical protocols for inactivating SARS-CoV-2
+Three adjacent nucleotide changes spanning two residues in SARS-CoV-2 nucleoprotein: possible homologous recombination from the transcription-regulating sequence
+SARS-CoV-2 detection with CRISPR diagnostics
+Structural interactions between pandemic SARS-CoV-2 spike glycoprotein and human Furin protease
+Analysis of Ten Microsecond simulation data of SARS-CoV-2 dimeric main protease
+Positive selection of ORF3a and ORF8 genes drives the evolution of SARS-CoV-2 during the 2020 COVID-19 pandemic
+Comparison of SARS-CoV-2 infections among 3 species of non-human primates
+The SARS-CoV-2 receptor-binding domain elicits a potent neutralizing response without antibody-dependent enhancement
+Scutellaria baicalensis extract and baicalein inhibit replication of SARS-CoV-2 and its 3C-like protease in vitro
+Blueprint for a Pop-up SARS-CoV-2 Testing Lab
+Insights on early mutational events in SARS-CoV-2 virus reveal founder effects across geographical regions
+Sequence, infectivity and replication kinetics of SARS-CoV-2 isolated from COVID-19 patients in Canada
+Mechanistic modeling of the SARS-CoV-2 disease map
+A Computational Approach to Design Potential siRNA Molecules as a Prospective Tool for Silencing Nucleocapsid Phosphoprotein and Surface Glycoprotein Gene of SARS-CoV-2
+Immuno-informatics Characterization SARS-CoV-2 Spike Glycoprotein for Prioritization of Epitope based Multivalent Peptide Vaccine
+Bioinformatic characterization of angiotensin-converting enzyme 2, the entry receptor for SARS-CoV-2
+Myocyte Specific Upregulation of ACE2 in Cardiovascular Disease: Implications for SARS-CoV-2 mediated myocarditis
+Near- and forecasting the SARS-COV-2 epidemic requires a global view and multiple methods
+Potency and timing of antiviral therapy as determinants of duration of SARS CoV-2 shedding and intensity of inflammatory response
+Next weeks of SARS-CoV-2: Projection model to predict time evolution scenarios of accumulated cases in Spain
+Scaling diagnostics in times of COVID-19: Rapid prototyping of 3D-printed water circulators for Loop-mediated Isothermal Amplification (LAMP) and detection of SARS-CoV-2 virus
+Estimating required lockdown cycles before immunity to SARS-CoV-2: Model-based analyses of susceptible population sizes, S0, in seven European countries including the UK and Ireland
+Anosmia and dysgeusia in patients with mild SARS-CoV-2 infection
+Immunological assays for SARS-CoV-2: an analysis of available commercial tests to measure antigen and antibodies
+Genetic variability in the expression of the SARS-CoV-2 host cell entry factors across populations
+Discovery of baicalin and baicalein as novel, natural product inhibitors of SARS-CoV-2 3CL protease in vitro
+Identification of potential vaccine candidates against SARS-CoV-2, A step forward to fight novel coronavirus 2019-nCoV: A Reverse Vaccinology Approach
+Detection of spreader nodes and ranking of interacting edges in Human-SARS-CoV protein interaction network
+The origin and underlying driving forces of the SARS-CoV-2 outbreak
+Single Nucleus Multiomic Profiling Reveals Age-Dynamic Regulation of Host Genes Associated with SARS-CoV-2 Infection
+High-surety isothermal amplification and detection of SARS-CoV-2, including with crude enzymes
+The global population of SARS-CoV-2 is composed of six major subtypes
+Comparative in vitro transcriptomic analyses of COVID-19 candidate therapy hydroxychloroquine suggest limited immunomodulatory evidence of SARS-CoV-2 host response genes.
+The FDA-approved gold drug Auranofin inhibits novel coronavirus (SARS-COV-2) replication and attenuates inflammation in human cells
+Effect of various decontamination procedures on disposable N95 mask integrity and SARS-CoV-2 infectivity
+Rapid diagnosis of SARS-CoV-2 infection by detecting IgG and IgM antibodies with an immunochromatographic device: a prospective single-center study
+Assessment of N95 respirator decontamination and re-use for SARS-CoV-2
+A High-Coverage SARS-CoV-2 Genome Sequence Acquired by Target Capture Sequencing
+Pregnancy outcomes, Newborn complications and Maternal-Fetal Transmission of SARS-CoV-2 in women with COVID-19: A systematic review
+De novo 3D models of SARS-CoV-2 RNA elements and small-molecule-binding RNAs to guide drug discovery
+Glycosaminoglycan binding motif at S1/S2 proteolytic cleavage site on spike glycoprotein may facilitate novel coronavirus (SARS-CoV-2) host cell entry
+Designing a multi-epitope peptide-based vaccine against SARS-CoV-2
+A transcription regulatory network within the ACE2 locus may promote a pro-viral environment for SARS-CoV-2 by modulating expression of host factors.
+Genome based Evolutionary study of SARS-CoV-2 towards the Prediction of Epitope Based Chimeric Vaccine
+Humanized Single Domain Antibodies Neutralize SARS-CoV-2 by Targeting Spike Receptor Binding Domain
+Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2
+TMPRSS2 and furin are both essential for proteolytic activation and spread of SARS-CoV-2 in human airway epithelial cells and provide promising drug targets
+Analysis of SARS-CoV-2-controlled autophagy reveals spermidine, MK-2206, and niclosamide as putative antiviral therapeutics
+Relevance of enriched expression of SARS-CoV-2 binding receptor ACE2 in gastrointestinal tissue with pathogenesis of digestive symptoms, diabetes-associated mortality, and disease recurrence in COVID-19 patients
+Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio Emilia, Italy
+A blueprint for the implementation of a validated approach for the detection of SARS-Cov2 in clinical samples in academic facilities
+Analysis of SARS-CoV-2 Antibodies in COVID-19 Convalescent Plasma using a Coronavirus Antigen Microarray
+Time course quantitative detection of SARS-CoV-2 in Parisian wastewaters correlates with COVID-19 confirmed cases
+Long-term Co-existence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) with Antibody Response in Non-severe Coronavirus Disease 2019 (COVID-19) Patients
+Age could be driving variable SARS-CoV-2 epidemic trajectories worldwide
+Monitoring and predicting viral dynamics in SARS-CoV-2-infected Patients
+Analysis of the SARS-Cov-2 epidemic in Lombardy (Italy) in its early phase. Are we going in the right direction?
+The December 2019 New Corona Virus Disease (SARS-CoV-2) Outbreak: A Behavioral Infectious Disease Policy Model
+Estimation of airborne viral emission: quanta emission rate of SARS-CoV-2 for infection risk assessment
+Steroid-responsive severe encephalopathy in SARS-CoV-2 infection
+Estimating the number of SARS-CoV-2 infections in the United States
+Lymphocytopaenia is associated with severe SARS-CoV-2 disease: A Systematic Review and Meta-Analysis of Clinical Data
+Revealing variants in SARS-CoV-2 interaction domain of ACE2 and loss of function intolerance through analysis of &gt;200,000 exomes
+Single-cell analysis of human lung epithelia reveals concomitant expression of the SARS-CoV-2 receptor ACE2 with multiple virus receptors and scavengers in alveolar type II cells
+Shotgun proteomics of SARS-CoV-2 infected cells and its application to the optimisation of whole viral particle antigen production for vaccines
+A Large-scale Drug Repositioning Survey for SARS-CoV-2 Antivirals
+SARS-CoV-2 is transmitted via contact and via the air between ferrets.
+Synthetic nanobodies targeting the SARS-CoV-2 receptor-binding domain
+Broad Host Range of SARS-CoV-2 Predicted by Comparative and Structural Analysis of ACE2 in Vertebrates
+Multinational modeling of SARS-CoV-2 spreading dynamics: Insights on the heterogeneity of COVID-19 transmission and its potential healthcare burden
+Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-qPCR
+Optimizing RT-PCR detection of SARS-CoV-2 for developing countries using pool testing
+Epidemic Landscape and Forecasting of SARS-CoV-2 in India
+Comparative dynamic aerosol efficiencies of three emergent coronaviruses and the unusual persistence of SARS-CoV-2 in aerosol suspensions
+Phenotype of SARS-CoV-2-specific T-cells in COVID-19 patients with acute respiratory distress syndrome
+Protein structure analysis of the interactions between SARS-CoV-2 spike protein and the human ACE2 receptor: from conformational changes to novel neutralizing antibodies.
+Transcriptional Difference between SARS-COV-2 and other Human Coronaviruses Revealed by Sub-genomic RNA Profiling
+An in silico map of the SARS-CoV-2 RNA Structurome
+Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets
+Potential microenvironment of SARS-CoV-2 infection in airway epithelial cells revealed by Human Protein Atlas database analysis
+SARS-Cov-2 RNA Found on Particulate Matter of Bergamo in Northern Italy: First Preliminary Evidence
+Neutralizing Antibodies Responses to SARS-CoV-2 in COVID-19 Inpatients and Convalescent Patients
+Patient-derived mutations impact pathogenicity of SARS-CoV-2
+Mass Spectrometric Identification of SARS-CoV-2 Proteins from Gargle Solution Samples of COVID-19 Patients
+Rapid development of an inactivated vaccine for SARS-CoV-2
+A dynamic nomenclature proposal for SARS-CoV-2 to assist genomic epidemiology
+Comparison of SARS-CoV2 N gene real-time RT-PCR targets and commercially available mastermixes
+Broad and differential animal ACE2 receptor usage by SARS-CoV-2
+SARS-COV-2 comorbidity network and outcome in hospitalized patients in Crema, Italy
+Proteome-wide analysis of differentially-expressed SARS-CoV-2 antibodies in early COVID-19 infection
+Efficient high throughput SARS-CoV-2 testing to detect asymptomatic carriers
+Evaluation of antibody testing for SARS-Cov-2 using ELISA and lateral flow immunoassays
+Estimating SARS-CoV-2 seroprevalence and epidemiological parameters with uncertainty from serological surveys
+Temporal detection and phylogenetic assessment of SARS-CoV-2 in municipal wastewater
+The crystal structure of nsp10-nsp16 heterodimer from SARS CoV-2 in complex with S-adenosylmethionine
+Host, Viral, and Environmental Transcriptome Profiles of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+Rapid direct nucleic acid amplification test without RNA extraction for SARS-CoV-2 using a portable PCR thermocycler
+Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target cells
+Blocking antibodies against SARS-CoV-2 RBD isolated from a phage display antibody library using a competitive biopanning strategy
+Exceptional diversity and selection pressure on SARS-CoV and SARS-CoV-2 host receptor in bats compared to other mammals
+Design an efficient multi-epitope peptide vaccine candidate against SARS-CoV-2: An in silico analysis
+Phylodynamics of SARS-CoV-2 transmission in Spain
+Limited SARS-CoV-2 diversity within hosts and following passage in cell culture
+Protocol and reagents for pseudotyping lentiviral particles with SARS-CoV-2 Spike protein for neutralization assays
+Boceprevir, GC-376, and calpain inhibitors II, XII inhibit SARS-CoV-2 viral replication by targeting the viral main protease
+Interplay of host regulatory network on SARS-CoV-2 binding and replication machinery
+Sequencing analysis of the spread of SARS-CoV2 in the Greater New York City region
+Epidemiological and Genomic Analysis of SARS-CoV-2 in Ten Patients from a Mid-sized City outside of Hubei, China
+Development and Multicenter Performance Evaluation of The First Fully Automated SARS-CoV-2 IgM and IgG Immunoassays
+Two patients with acute meningo-encephalitis concomitant to SARS-CoV-2 infection
+Bioinformatics Study on Structural Protein of Severe Acute Respiratory Syndrome Coronavirus 2 (Sars-Cov-2) For Better Understanding the Vaccine Development
+Artificial intelligence predicts the immunogenic landscape of SARS-CoV-2: toward universal blueprints for vaccine designs
+SARS-CoV-2 Encodes a PPxY Late Domain Motif that is Known to Enhance 1 Budding and Spread in Enveloped RNA Viruses
+Inhibition of PIKfyve kinase prevents infection by EBOV and SARS-CoV-2
+Human iPSC-Derived Cardiomyocytes are Susceptible to SARS-CoV-2 Infection
+Enisamium is a small molecule inhibitor of the influenza A virus and SARS-CoV-2 RNA polymerases
+Cross-reactive neutralization of SARS-CoV-2 by serum antibodies from recovered SARS patients and immunized animals
+A Scalable, Easy-to-Deploy, Protocol for Cas13-Based Detection of SARS-CoV-2 Genetic Material
+Synonymous mutations and the molecular evolution of SARS-Cov-2 origins
+Molecular Detection of SARS-CoV-2 in Formalin Fixed Paraffin Embedded Specimens
+Elucidating the differences in the molecular mechanism of receptor binding between 2019-nCoV and the SARS-CoV viruses using computational tools
+Structural Basis of SARS-CoV-2 Spike Protein Priming by TMPRSS2
+Presence of SARS-CoV-2 reactive T cells in COVID-19 patients and healthy donors
+COVID-19 diagnosis and study of serum SARS-CoV-2 specific IgA, IgM and IgG by a quantitative and sensitive immunoassay
+REVEALING COVID-19 TRANSMISSION BY SARS-CoV-2 GENOME SEQUENCING AND AGENT BASED MODELLING
+Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs
+Cholesterol Metabolism--Impact for SARS-CoV-2 Infection Prognosis, Entry, and Antiviral Therapies
+Pooled RNA extraction and PCR assay for efficient SARS-CoV-2 detection
+An 81 base-pair deletion in SARS-CoV-2 ORF7a identified from sentinel surveillance in Arizona (Jan-Mar 2020)
+Comparison of Four Molecular In Vitro Diagnostic Assays for the Detection of SARS-CoV-2 in Nasopharyngeal Specimens
+Persistent viral shedding of SARS-CoV-2 in faeces - a rapid review
+Evidence for probable aerosol transmission of SARS-CoV-2 in a poorly ventilated restaurant
+Prioritisation of potential anti-SARS-CoV-2 drug repurposing opportunities based on ability to achieve adequate target site concentrations derived from their established human pharmacokinetics
+Predicting the epidemic curve of the coronavirus (SARS-CoV-2) disease (COVID-19) using artificial intelligence
+Population genomics insights into the recent evolution of SARS-CoV-2
+The anticoagulant nafamostat potently inhibits SARS-CoV-2 infection in vitro: an existing drug with multiple possible therapeutic effects
+Epidemiological impact of SARS-CoV-2 vaccination: mathematical modeling analyses
+Trends of SARS-Cov-2 infection in 67 countries: Role of climate zone, temperature, humidity and curve behavior of cumulative frequency on duplication time
+Identification of super-transmitters of SARS-CoV-2
+A Semiempirical Dynamical Model to Forecast the Propagation of Epidemics: The Case of the Sars-Cov-2 in Spain
+Detection of SARS-CoV-2 RNA by direct RT-qPCR on nasopharyngeal specimens without extraction of viral RNA
+TMPRSS2 and TMPRSS4 mediate SARS-CoV-2 infection of human small intestinal enterocytes
+The genomic variation landscape of globally-circulating clades of SARS-CoV-2 defines a genetic barcoding scheme
+Recombinant SARS-CoV-2 spike S1-Fc fusion protein induced high levels of neutralizing responses in nonhuman primates
+Targeted Proteomics for the Detection of SARS-CoV-2 Proteins
+Heterogeneous expression of the SARS-Coronavirus-2 receptor ACE2 in the human respiratory tract
+Rapid, sensitive, full genome sequencing of Severe Acute Respiratory Syndrome Virus Coronavirus 2 (SARS-CoV-2)
+Mapping the Immunodominance Landscape of SARS-CoV-2 Spike Protein for the Design of Vaccines against COVID-19
+STAT2 signaling as double-edged sword restricting viral dissemination but driving severe pneumonia in SARS-CoV-2 infected hamsters
+Functional and Genetic Analysis of Viral Receptor ACE2 Orthologs Reveals Broad Potential Host Range of SARS-CoV-2
+Preliminary support for a “dry swab, extraction free” protocol for SARS-CoV-2 testing via RT-qPCR
+Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2
+The production of antibodies for SARS-CoV-2 and its clinical implication
+Tracking the onset date of the community spread of SARS-CoV-2 in Western Countries
+The risk of SARS-CoV-2 transmission in the healthcare setting and potential impact of cohorting strategies
+Modest effects of contact reduction measures on the reproduction number of SARS-CoV-2 in the most affected European countries and the US
+SARS-CoV-2 serological analysis of COVID-19 hospitalized patients, pauci-symptomatic individuals and blood donors.
+Rapid identification of SARS-CoV-2-infected patients at the emergency department using routine testing
+Immune defects and cardiovascular risk in X chromosome monosomy mosaicism mediated by loss of chromosome Y. A risk factor for SARS-CoV-2 vulnerability in elderly men?
+Self-reported symptoms of covid-19 including symptoms most predictive of SARS-CoV-2 infection, are heritable
+Detection of Nucleocapsid Antibody to SARS-CoV-2 is More Sensitive than Antibody to Spike Protein in COVID-19 Patients
+Predicting mortality attributable to SARS-CoV-2: A mechanistic score relating obesity and diabetes to COVID-19 outcomes in Mexico
+ESTIMATING R0 OF SARS-COV-2 IN HEALTHCARE SETTINGS
+Estimating the burden of SARS-CoV-2 in France
+Prevalence of SARS-CoV-2 infection in previously undiagnosed health care workers at the onset of the U.S. COVID-19 epidemic
+Multi-epitope based peptide vaccine design against SARS-CoV-2 using its spike protein
+SARS-CoV-2 Isolation and Propagation from Turkish COVID-19 patients
+Genetic analysis of the novel SARS-CoV-2 host receptor TMPRSS2 in different populations.
+Treating Influenza and SARS-CoV-2 via mRNA-encoded Cas13a
+Introductions and early spread of SARS-CoV-2 in France
+Critical role of type III interferon in controlling SARS-CoV-2 infection, replication and spread in primary human intestinal epithelial cells
+Search for SARS-CoV-2 inhibitors in currently approved drugs to tackle COVID-19 pandemia
+The anti-HIV Drug Nelfinavir Mesylate (Viracept) is a Potent Inhibitor of Cell Fusion Caused by the SARS-CoV-2 Spike (S) Glycoprotein Warranting further Evaluation as an Antiviral against COVID-19 infections
+Evolution and molecular characteristics of SARS-CoV-2 genome
+Validation of a SARS-CoV-2 spike ELISA for use in contact investigations and serosurveillance
+ACE2 polymorphisms and individual susceptibility to SARS-CoV-2 infection: insights from an in silico study
+Genomic, geographic and temporal distributions of SARS-CoV-2 mutations
+Expression of ACE2 and TMPRSS2, the SARS2-CoV-2 receptor and co-receptor, in prostate epithelial cells
+A follow-up study of children infected with SARS-CoV-2 from Western China
+Self-amplifying RNA SARS-CoV-2 lipid nanoparticle vaccine induces equivalent preclinical antibody titers and viral neutralization to recovered COVID-19 patients
+CoV2ID: Detection and Therapeutics Oligo Database for SARS-CoV-2
+Rapid SARS-CoV-2 whole genome sequencing for informed public health decision making in the Netherlands
+Optimized qRT-PCR approach for the detection of intra- and extracellular SARS-CoV-2 RNAs
+MINERVA: A facile strategy for SARS-CoV-2 whole genome deep sequencing of clinical samples
+Comparison of Cepheid Xpert Xpress and Abbott ID Now to Roche cobas for the Rapid Detection of SARS-CoV-2
+SARS-CoV-2 Productively Infects Human Gut Enterocytes
+A rapid, low cost, and highly sensitive SARS-CoV-2 diagnostic based on whole genome sequencing
+Insight towards the effect of the multibasic cleavage site of SARS-CoV-2 spike protein on cellular proteases
+Antibody tests in detecting SARS-CoV-2 infection: a meta-analysis
+The proportion testing positive for SARS-COV-2 among the tested population in the U.S.: Benefits of the positive test ratio under scaled testing scenarios
+Lack of association between genetic variants at ACE2 and TMPRSS2 genes involved in SARS-CoV-2 infection and human quantitative phenotypes
+Pooling of Nasopharyngeal Swab Specimens for SARS-CoV-2 detection by RT-PCR
+Characterization of intra-host SARS-CoV-2 variants improves phylogenomic reconstruction and may reveal functionally convergent mutations
+Structural Basis of RNA Cap Modification by SARS-CoV-2 Coronavirus
+How did SARS-CoV-19 spread in India from Italy, Iran and China? Genetic surveillance of early cases and virus demography
+How fast does the SARS-Cov-2 virus really mutate in heterogeneous populations?
+Long period dynamics of viral load and antibodies for SARS-CoV-2 infection: an observational cohort study
+Comparison of Commercially Available and Laboratory Developed Assays for in vitro Detection of SARS-CoV-2 in Clinical Laboratories
+Ethnic and socioeconomic differences in SARS-CoV2 infection in the UK Biobank cohort study
+SARS-CoV-2 On-the-Spot Virus Detection Directly From Patients
+Role of 1'-Ribose Cyano Substitution for Remdesivir to Effectively Inhibit both Nucleotide Addition and Proofreading in SARS-CoV-2 Viral RNA Replication
+Structure of replicating SARS-CoV-2 polymerase
+A SARS-CoV-2 vaccine candidate would likely match all currently circulating strains
+Disparate temperature-dependent virus - host dynamics for SARS-CoV-2 and SARS-CoV in the human respiratory epithelium
+Remdesivir potently inhibits SARS-CoV-2 in human lung cells and chimeric SARS-CoV expressing the SARS-CoV-2 RNA polymerase in mice.
+Emergence of multiple variants of SARS-CoV-2 with signature structural changes
+Quality control of low-frequency variants in SARS-CoV-2 genomes
+Comparison of SARS-CoV-2 Exit Strategies Building Blocks
+Racial and Ethnic Disparities in SARS-CoV-2 Pandemic: Analysis of a COVID-19 Observational Registry for a Diverse U.S. Metropolitan Population
+Resilient SARS-CoV-2 diagnostics workflows including viral heat inactivation
+Estimation of SARS-CoV-2 infection fatality rate by real-time antibody screening of blood donors
+SARS-CoV-2 Detection Using an Isothermal Amplification Reaction and a Rapid, Inexpensive Protocol for Sample Inactivation and Purification
+Association of Digestive Symptoms and Hospitalization in Patients with SARS-CoV-2 Infection
+Heparin inhibits cellular invasion by SARS-CoV-2: structural dependence of the interaction of the surface protein (spike) S1 receptor binding domain with heparin.
+RNA-GPS Predicts SARS-CoV-2 RNA Localization to Host Mitochondria and Nucleolus
+On the estimation of the total number of SARS-CoV-2 infections
+Effectiveness of isolation, testing, contact tracing and physical distancing on reducing transmission of SARS-CoV-2 in different settings
+Test performance evaluation of SARS-CoV-2 serological assays
+Epidemiological and clinical characteristics of discharged patients infected with SARS-CoV-2 on the Qinghai plateau
+A Statistical Analysis Of CoV-19 Positive Test Frequency Data Indicates A Need For Greater Attention To CoV-19 Test Quality And Pre-Wuhan Cov-19 Prevalence
+No Detectable Surge in SARS-CoV-2 Transmission due to the April 7, 2020 Wisconsin Election
+Sequential informed pooling approach to detect SARS-CoV2 infection
+In silico analysis of RT-qPCR designs recommended by WHO for detection of SARS-CoV-2 and a commercial kit validated following UNE/EN ISO 17025:2005 and two reference laboratories
+The role of asymptomatic SARS-CoV-2 infections: rapid living systematic review and meta-analysis
+Genomics of Indian SARS-CoV-2: Implications in genetic diversity, possible origin and spread of virus
+Intra-host site-specific polymorphisms of SARS-CoV-2 is consistent across multiple samples and methodologies
+Pooled RNA sample reverse transcriptase real time PCR assay for SARS CoV-2 infection: a reliable, faster and economical method.
+FIRST DETECTION OF SARS-COV-2 IN UNTREATED WASTEWATERS IN ITALY
+The natural history and transmission potential of asymptomatic SARS-CoV-2 infection
+Cotton tipped plastic swabs for SARS-CoV-2 RT-qPCR diagnosis to prevent supplies shortage.
+Controlling the SARS-CoV-2 outbreak, insights from large scale whole genome sequences generated across the world
+Noncanonical junctions in subgenomic RNAs of SARS-CoV-2 lead to variant open reading frames.
+Evaluation of 19 antiviral drugs against SARS-CoV-2 Infection
+Analyses of spike protein from first deposited sequences of SARS-CoV2 from West Bengal, India
+A collection of designed peptides to target SARS-Cov-2 – ACE2 interaction: PepI-Covid19 database.
+SARS-CoV-2 Spike S1 Receptor Binding Domain undergoes Conformational Change upon Interaction with Low Molecular Weight Heparins.
+Activity profiling of SARS-CoV-2-PLpro protease provides structural framework for anti-COVID-19 drug design
+Glycosaminoglycans induce conformational change in the SARS-CoV-2 Spike S1 Receptor Binding Domain.
+Inferred duration of infectious period of SARS-CoV-2: rapid scoping review and analysis of available evidence for asymptomatic and symptomatic COVID-19 cases
+Genetic structure of SARS-CoV-2 in Western Germany reflects clonal superspreading and multiple independent introduction events
+Increased travel times to United States SARS-CoV-2 testing sites: a spatial modeling study
+SUCCESSFUL MANUFACTURING OF CLINICAL-GRADE SARS-CoV-2 SPECIFIC T CELLS FOR ADOPTIVE CELL THERAPY
+Tracing Back the Temporal Change of SARS-Cov-2 with Genomic Signatures
+Validation of a Single-step, Single-tube Reverse Transcription-Loop-Mediated Isothermal Amplification Assay for Rapid Detection of SARS-CoV-2 RNA
+Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2
+Identification of variable sites in Sars-CoV-2 and their abundance profiles in time
+SARS-CoV-2 selectively mimics a cleavable peptide of human ENaC in a strategic hijack of host proteolytic machinery
+Origin of imported SARS-CoV-2 strains in The Gambia identified from Whole Genome Sequences.
+Susceptibility of tree shrew to SARS-CoV-2 infection
+ACE2 and TMPRSS2 expression by clinical, HLA, immune, and microbial correlates across 34 human cancers and matched normal tissues: implications for SARS-COV-2 COVID-19
+Potential spreading risks and disinfection challenges of medical wastewater by the presence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) viral RNA in septic tanks of fangcang hospital
+Shedding of infectious SARS-CoV-2 in symptomatic neonates, children and adolescents
+High frequency of SARS-CoV-2 RNAemia and association with severe disease
+Regressing SARS-CoV-2 sewage measurements onto COVID-19 burden in the population: a proof-of-concept for quantitative environmental surveillance
+FACT- Frankfurt adjusted COVID-19 testing- a novel method enables high-throughput SARS-CoV-2 screening without loss of sensitivity
+False positives in reverse transcription PCR testing for SARS-CoV-2
+Determining the source of transmission of SARS-CoV-2 infection in a healthcare worker
+Spatial-temporal variations of atmospheric factors contribute to SARS-CoV-2 outbreak
+Fast SARS-CoV-2 detection protocol based on RNA precipitation and RT-qPCR in nasopharyngeal swab samples
+Molecular Architecture of Early Dissemination and Evolution of the SARS-CoV-2 Virus in Metropolitan Houston, Texas
+Potent antiviral effect of protoporphyrin IX and verteporfin on SARS-CoV-2 infection
+Comparative transcriptome analysis reveals the intensive early-stage responses of host cells to SARS-CoV-2 infection
+Dysregulation in mTOR/HIF-1 signaling identified by proteo-transcriptomics of SARS-CoV-2 infected cells
+Broad-spectrum antiviral activity of naproxen: from Influenza A to SARS-CoV-2 Coronavirus
+SARS-CoV-2 genomes recovered by long amplicon tiling multiplex approach using nanopore sequencing and applicable to other sequencing platforms
+Electrostatic Characteristics of SARS-CoV-2 Spike and Human ACE2 Protein Variations Predict Mutable Binding Efficacy
+Distinct Inductions of and Responses to Type I and Type III Interferons Promote Infections in Two SARS-CoV-2 Isolates
+SARS-CoV-2 spike protein predicted to form stable complexes with host receptor protein orthologues from mammals, but not fish, birds or reptiles
+On spatial molecular arrangements of SARS-CoV2 genomes of Indian patients
+Mutational spectra of SARS-CoV-2 orf1ab polyprotein and Signature mutations in the United States of America
+Rampant C-&gt;U hypermutation in the genomes of SARS-CoV-2 and other coronaviruses – causes and consequences for their short and long evolutionary trajectories
+Individual variation in susceptibility or exposure to SARS-CoV-2 lowers the herd immunity threshold
+Seroprevalence of antibodies against SARS-CoV-2 among health care workers in a large Spanish reference hospital
+Large-scale, in-house production of viral transport media to support SARS-CoV-2 PCR testing in a multi-hospital healthcare network during the COVID-19 pandemic
+Validation of an extraction-free RT-PCR protocol for detection of SARS-CoV2 RNA
+SARS-CoV-2 receptor mutation in Egyptian population
+Performance Characteristics of the Abbott Architect SARS-CoV-2 IgG Assay and Seroprevalence Testing in Idaho
+Ecologic correlation between underlying population level morbidities and COVID-19 case fatality rate among countries infected with SARS-CoV-2
+Rapidly fatal pneumonitis from immunotherapy and concurrent SARS-CoV-2 infection in a patient with newly diagnosed lung cancer
+Comprehensive characterization of N- and O- glycosylation of SARS-CoV-2 human receptor angiotensin converting enzyme 2.
+Rapid adaptation of SARS-CoV-2 in BALB/c mice: Novel mouse model for vaccine efficacy
+Identification of Drugs Blocking SARS-CoV-2 Infection using Human Pluripotent Stem Cell-derived Colonic Organoids
+CoV-Seq: SARS-CoV-2 Genome Analysis and Visualization
+Structural and Functional Implications of Non-synonymous Mutations in the Spike protein of 2,954 SARS-CoV-2 Genomes
+PSGL-1 blocks SARS-CoV-2 S protein-mediated virus attachment and infection of target cells
+Release of potential pro-inflammatory peptides from SARS-CoV-2 spike glycoproteins in neutrophil-extracellular traps
+An artificial intelligence system reveals liquiritin inhibits SARS-CoV-2 by mimicking type I interferon
+SARS-CoV-2 is well adapted for humans. What does this mean for re-emergence?
+Critically ill SARS-CoV-2 patients display lupus-like hallmarks of extrafollicular B cell activation
+Enhanced Contact Investigations for Nine Early Travel-Related Cases of SARS-CoV-2 in the United States
+Beyond the Spike: identification of viral targets of the antibody response to SARS-CoV-2 in COVID-19 patients
+Early trends for SARS-CoV-2 infection in central and north Texas and impact on other circulating respiratory viruses
+Ultra-Sensitive High-Resolution Profiling of Anti-SARS-CoV-2 Antibodies for Detecting Early Seroconversion in COVID-19 Patients
+Failure of the cobas® SARS-CoV-2 (Roche) E-gene assay is associated with a C-to-T transition at position 26340 of the SARS-CoV-2 genome
+Pre-test probability for SARS-Cov-2-related Infection Score: the PARIS score
+Molecular detection of SARS-CoV-2 using a reagent-free approach
+Genome-wide variations of SARS-CoV-2 infer evolution relationship and transmission route
+Design of an Epitope-Based Peptide Vaccine against the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2): A Vaccine Informatics Approach
+Large scale genomic analysis of 3067 SARS-CoV-2 genomes reveals a clonal geodistribution and a rich genetic variations of hotspots mutations
+Isolating multiple formats of human monoclonal neutralizing antibodies against SARS-CoV-2 by in vitro site-directed antibody screening
+Sensitivity assessment of SARS-CoV-2 PCR assays developed by WHO referral laboratories
+Commercial stocks of SARS-CoV-2 RNA may report low concentration values, leading to artificially increased apparent sensitivity of diagnostic assays
+Detection of SARS-CoV-2 in Human Breast Milk
+Development and validation of direct RT-LAMP for SARS-CoV-2
+Enzyme immunoassay for SARS-CoV-2 antibodies in dried blood spot samples: A minimally-invasive approach to facilitate community- and population-based screening
+Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication
+Catalytic cleavage of HEAT and subsequent covalent binding of the tetralone moiety by the SARS-CoV-2 main protease
+Missense variants in ACE2 are predicted to encourage and inhibit interaction with SARS-CoV-2 Spike and contribute to genetic risk in COVID-19
+The UCSC SARS-CoV-2 Genome Browser
+Pathogen Reduction Of SARS-CoV-2 Virus In Plasma And Whole Blood Using Riboflavin And UV Light
+Temporal signal and the phylodynamic threshold of SARS-CoV-2
+Characterizations of SARS-CoV-2 mutational profile, spike protein stability and viral transmission
+Computational methods to develop potential neutralizing antibody Fab region against SARS-CoV-2 as therapeutic and diagnostic tool
+Complexity in SARS-CoV-2 genome data: Price theory of mutant isolates
+Computational analysis on the ACE2-derived peptides for neutralizing the ACE2 binding to the spike protein of SARS-CoV-2
+Monitoring social distancing and SARS-CoV-2 transmission in Brazil using cell phone mobility data
+Sensitivity evaluation of 2019 novel coronavirus (SARS-CoV-2) RT-PCR detection kits and strategy to reduce false negative
+Distinguishing between COVID-19 and the common cold in a primary care setting - comparison of patients with positive and negative SARS-CoV-2 PCR results.
+Single-cell Transcriptome Analysis Indicates New Potential Regulation Mechanism of ACE2 and NPs signaling among heart failure patients infected with SARS-CoV-2
+Sensitivity of nasopharyngeal swabs and saliva for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+First case of placental infection with SARS-CoV-2
+Presence and vitality of SARS-CoV-2 virus in wastewaters and rivers
+Group Testing Performance Evaluation for SARS-CoV-2 Massive Scale Screening and Testing
+Effective Heat Inactivation of SARS-CoV-2
+Humoral immune response and prolonged PCR positivity in a cohort of 1343 SARS-CoV 2 patients in the New York City region
+Preliminary Results of Seroprevalence of SARS-CoV-2 at Community Clinics in Tokyo
+Probable causes and risk factors for positive SARS-CoV-2 test in recovered patients: Evidence from Brunei Darussalam
+Antibody Profiling and Prevalence in the US population during the SARS-CoV2 Pandemic
+Lockdown exit strategies and risk of a second epidemic peak: a stochastic agent-based model of SARS-CoV-2 epidemic in France
+Group testing for SARS-CoV-2 allows for up to 10-fold efficiency increase across realistic scenarios and testing strategies
+Bulk and single-cell gene expression profiling of SARS-CoV-2 infected human cell lines identifies molecular targets for therapeutic intervention
+Baseline pulmonary levels of CD8+ T cells and NK cells inversely correlate with expression of the SARS-CoV-2 entry receptor ACE2
+Translation-associated mutational U-pressure in the first ORF of SARS-CoV-2 and other coronaviruses
+Global Spread of SARS-CoV-2 Subtype with Spike Protein Mutation D614G is Shaped by Human Genomic Variations that Regulate Expression of TMPRSS2 and MX1 Genes
+Selectomic and Evolvability Analyses of the Highly Pathogenic Betacoronaviruses SARS-CoV-2, SARS-CoV, and MERS-CoV
+Test Agreement Between Roche Cobas 6800 and Cepheid GeneXpert Xpress SARS-CoV-2 Assays at High Cycle Threshold Ranges
+SARS-CoV-2 Spike Glycoprotein Receptor Binding Domain is Subject to Negative Selection with Predicted Positive Selection Mutations
+Efficient prevalence estimation and infected sample identification with group testing for SARS-CoV-2
+Repeated population-based surveys of antibodies against SARS-CoV-2 in Southern Brazil
+Dose prediction for repurposing nitazoxanide in SARS-CoV-2 treatment or chemoprophylaxis
+Pooling RT-PCR test of SARS-CoV-2 for large cohort of 'healthy' and infection-suspected patients: A prospective and consecutive study on 1,000 individuals
+A new role for Biofoundries in rapid prototyping, development, and validation of automated clinical diagnostic tests for SARS-CoV-2
+Geospatially Referenced Demographic Agent-Based Modeling of SARS-CoV-2-Infection (COVID-19) Dynamics and Mitigation Effects in a Real-world Community
+Incorporating and Addressing Testing Bias Within Estimates of Epidemic Dynamics for SARS-CoV-2
+Impact of policy interventions and social distancing on SARS-CoV-2 transmission in the United States
+Validation of a commercially available SARS-CoV-2 serological Immunoassay
+Comparison of two commercial molecular tests and a laboratory-developed modification of the CDC 2019-nCOV RT-PCR assay for the qualitative detection of SARS-CoV-2 from upper respiratory tract specimens
+Ultra-fast and onsite interrogation of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in environmental specimens via surface enhanced Raman scattering (SERS)
+A strategy for finding people infected with SARS-CoV-2: optimizing pooled testing at low prevalence
+Frequency of routine testing for SARS-CoV-2 to reduce transmission among workers
+Does BCG protect against SARS-CoV-2 infection ?: elements of proof.
+Antibodies to SARS/CoV-2 in arbitrarily-selected Atlanta residents
+Identification of IgG antibody response to SARS-CoV-2 spike protein and its receptor binding domain does not predict rapid recovery from COVID-19
+Neutralization of SARS-CoV-2 by destruction of the prefusion Spike
+Multiple SARS-CoV-2 introductions shaped the early outbreak in Central Eastern Europe: comparing Hungarian data to a worldwide sequence data-matrix
+Inhibition of the replication of SARS-CoV-2 in human cells by the FDA-approved drug chlorpromazine
+Repurposing low-molecular-weight drugs against the main protease of SARS-CoV-2
+Identification of novel mutations in RNA-dependent RNA polymerases of SARS-CoV-2 and their implications
+Development and simulation of fully glycosylated molecular models of ACE2-Fc fusion proteins and their interaction with the SARS-CoV-2 spike protein binding domain
+SARS-CoV-2 codon usage bias downregulates host expressed genes with similar codon usage
+Unsupervised cluster analysis of SARS-CoV-2 genomes reflects its geographic progression and identifies distinct genetic subgroups of SARS-CoV-2 virus
+The landscape of host genetic factors involved in infection to common viruses and SARS-CoV-2
+Immune alterations during SARS-CoV-2-related acute respiratory distress syndrome
+First Data-Set on SARS-CoV-2 Detection for Istanbul Wastewaters in Turkey
+Repeated seroprevalence of anti-SARS-CoV-2 IgG antibodies in a population-based sample from Geneva, Switzerland
+Evaluation of nCoV-QS (MiCo BioMed) for RT-qPCR detection of SARS-CoV-2 from nasopharyngeal samples using CDC FDA EUA qPCR kit as a gold standard: an example of the need of validation studies.
+The SARS-CoV-2-like virus found in captive pangolins from Guangdong should be better sequenced.
+Suramin inhibits SARS-CoV-2 infection in cell culture by interfering with early steps of the replication cycle
+A mouse-adapted SARS-CoV-2 model for the evaluation of COVID-19 medical countermeasures
+COVID-19: Viral-host interactome analyzed by network based-approach model to study pathogenesis of SARS-CoV-2 infection.
+A modified ACE2 peptide mimic to block SARS-CoV2 entry
+Epigenetic regulator miRNA pattern differences among SARS-CoV, SARS-CoV-2 and SARS-CoV-2 world-wide isolates delineated the mystery behind the epic pathogenicity and distinct clinical characteristics of pandemic COVID-19
+The heterogeneous landscape and early evolution of pathogen-associated CpG and UpA dinucleotides in SARS CoV-2
+Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells
+A Combined approach of MALDI-TOF Mass Spectrometry and multivariate analysis as a potential tool for the detection of SARS-CoV-2 virus in nasopharyngeal swabs.
+The coding capacity of SARS-CoV-2
+A simple RNA preparation method for SARS-CoV-2 detection by RT-qPCR
+COVID-19 Scenarios: an interactive tool to explore the spread and associated morbidity and mortality of SARS-CoV-2
+Environmental sampling for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) during a coronavirus disease (COVID-19) outbreak aboard a commercial cruise ship
+The intensity of COVID-19 outbreaks is modulated by SARS-CoV-2 free-living survival and environmental transmission
+Assessing the impact of non-pharmaceutical interventions on SARS-CoV-2 transmission in Switzerland
+SARS-CoV-2 detection in setting of viral swab scarcity: are MRSA swabs and viral swabs equivalent?
+Meta-analysis of diagnostic performance of serological tests for SARS-CoV-2 antibodies and public health implications
+Shared Antigen-specific CD8+ T cell Responses Against the SARS-COV-2 Spike Protein in HLA A*02:01 COVID-19 Participants
+Sensitivity of Nasopharyngeal, Nasal and Throat Swab for the Detection of SARS-CoV-2
+IDentif.AI: Artificial Intelligence Pinpoints Remdesivir in Combination with Ritonavir and Lopinavir as an Optimal Regimen Against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+Occurrence and Timing of Subsequent SARS-CoV-2 RT-PCR Positivity Among Initially Negative Patients
+SARS-CoV-2 transmission in different settings: Analysis of cases and close contacts from the Tablighi cluster in Brunei Darussalam
+Detection of SARS-CoV-2 antibodies using commercial assays and seroconversion patterns in hospitalized patients
+Assessment of a serological diagnostic kit of sars-cov-2 availble in Iran
+Infection fatality rate of SARS-CoV-2 infection in a German community with a super-spreading event
+Etiologic Subtypes of Ischemic Stroke in SARS-COV-2 Virus patients
+Evidence of a significant secretory-IgA-dominant SARS-CoV-2 immune response in human milk following recovery from COVID-19
+Global genetic diversity patterns and transmissions of SARS-CoV-2
+Clinical Performance of SARS-CoV-2 Molecular Testing
+Multiple expression assessments of ACE2 and TMPRSS2 SARS-CoV-2 entry molecules in the urinary tract and their associations with clinical manifestations of COVID-19
+A potent neutralizing human antibody reveals the N-terminal domain of the Spike protein of SARS-CoV-2 as a site of vulnerability
+Comparison of SARS-CoV-2 spike protein binding to human, pet, farm animals, and putative intermediate hosts ACE2 and ACE2 receptors
+Coarse-grained molecular simulations of the binding of the SARS-CoV 2 spike protein RBD to the ACE2 cell receptor
+ACE2 coding variants in different populations and their potential impact on SARS-CoV-2 binding affinity
+A phylodynamic workflow to rapidly gain insights into the dispersal history and dynamics of SARS-CoV-2 lineages
+Lung biopsy cells transcriptional landscape from COVID-19 patient stratified lung injury in SARS-CoV-2 infection through impaired pulmonary surfactant metabolism
+Efficacy of a novel iodine complex solution, CupriDyne, in inactivating SARS-CoV-2
+AI334 and AQ806 antibodies recognize the spike S protein from SARS-CoV-2 by ELISA
+SARS-CoV-2 proteins exploit host's genetic and epigenetic mediators for the annexation of key host signaling pathways that confers its immune evasion and disease pathophysiology
+Whole genome and phylogenetic analysis of SARS-CoV-2 strains from the index and early patients with COVID-19 in Dubai, United Arab Emirates, 29 January to 18 March 2020
+Detection of SARS-CoV-2 RNA on public surfaces in a densely populated urban area of Brazil
+Screening for SARS-CoV-2 infections with colorimetric RT-LAMP and LAMP sequencing
+A preliminary study on analytical performance of serological assay for SARS-CoV-2 IgM/IgG and application in clinical practice
+Clinical onset serial interval and diagnostic serial interval of SARS-CoV-2/COVID-19 in South Korea
+The race to find a SARS-CoV-2 drug can only be won by a few chosen drugs: a systematic review of registers of clinical trials of drugs aimed at preventing or treating COVID-19
+Intra-genome variability in the dinucleotide composition of SARS-CoV-2
+Pre-treatment of the clinical sample with Proteinase K allows detection of SARS-CoV-2 in the absence of RNA extraction
+Elevated ACE2 expression in the olfactory neuroepithelium: implications for anosmia and upper respiratory SARS-CoV-2 entry and replication
+ACE2 and TMPRSS2 are expressed on the human ocular surface, suggesting susceptibility to SARS-CoV-2 infection
+Sensitivity and specificity of a rapid test for assessment of exposure to SARS-CoV-2 in a community-based setting in Brazil
+Mathematical Modeling &amp; the Transmission Dynamics of SARS-CoV-2 in Cali, Colombia: Implications to a 2020 Outbreak &amp; public health preparedness
+A simple arithmetic rationale for crushing the epidemic curve of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) instead of flattening it
+The RBD Of The Spike Protein Of SARS-Group Coronaviruses Is A Highly Specific Target Of SARS-CoV-2 Antibodies But Not Other Pathogenic Human and Animal Coronavirus Antibodies
+Recurrence of SARS-CoV-2 PCR positivity in COVID-19 patients: a single center experience and potential implications
+Willingness to seek laboratory testing for SARS-CoV-2 with home, drive-through, and clinic-based specimen collection locations
+Immunity Passports for SARS-CoV-2: an online experimental study of the impact of antibody test terminology on perceived risk and behaviour
+SARS-CoV-2 spike protein binds heparan sulfate in a length- and sequence-dependent manner
+Clinical performance of SARS-CoV-2 IgG antibody tests and potential protective immunity
+Prediction analysis of SARS-COV-2 entry in Livestock and Wild animals
+Screening of SARS-CoV-2 among homeless people, asylum seekers and other people living in precarious conditions in Marseille, France, March April 2020.
+Multi-omics study revealing tissue-dependent putative mechanisms of SARS-CoV-2 drug targets on viral infections and complex diseases
+A Droplet Digital PCR Assay to Detect SARS-CoV-2 RNA
+Characteristics of SARS-CoV-2 positive and complicated COVID-19 patient cohorts in Israel: A comparative analysis
+The ongoing COVID-19 epidemic in Minas Gerais, Brazil: insights from epidemiological data and SARS-CoV-2 whole genome sequencing.
+Mobility trends provide a leading indicator of changes in SARS-CoV-2 transmission
+Serological signatures of SARS-CoV-2 infection: Implications for antibody-based diagnostics
+Characteristics of 1,573 healthcare workers who underwent nasopharyngeal swab for SARS-CoV-2 in Milano, Lombardy, Italy
+Disinfection effect of pulsed xenon ultraviolet irradiation on SARS-CoV-2 and implications for environmental risk of COVID-19 transmission
+Rapid and extraction-free detection of SARS-CoV-2 from saliva with colorimetric LAMP
+The contribution of asymptomatic SARS-CoV-2 infections to transmission - a model-based analysis of the Diamond Princess outbreak
+Negative nasopharyngeal SARS-CoV-2 PCR conversion in Response to different therapeutic interventions
+A Rapid, Cost-Effective Tailed Amplicon Method for Sequencing SARS-CoV-2
+Evidence for strong mutation bias towards, and selection against, T/U content in SARS-CoV2: implications for attenuated vaccine design.
+Activation of the SARS-CoV-2 receptor Ace2 by cytokines through pan JAK-STAT enhancers
+Rapid isolation of potent SARS-CoV-2 neutralizing antibodies and protection in a small animal model
+SARS-CoV-2 ORF3b is a potent interferon antagonist whose activity is further increased by a naturally occurring elongation variant
+Total predicted MHC-I epitope load is inversely associated with mortality from SARS-CoV-2
+Significant Relaxation of SARS-CoV-2-Targeted Non-Pharmaceutical Interventions Will Result in Profound Mortality: A New York State Modelling Study
+The Association of Social Distancing, Population Density, and Temperature with the SARS-CoV-2 Instantaneous Reproduction Number in Counties Across the United States
+Stability of SARS-CoV-2 on environmental surfaces and in human excreta
+Clinical Course and Risk Factors for Recurrence of Positive SARS-CoV-2 RNA: A Retrospective Cohort Study from Wuhan, China
+Predicted success of prophylactic antiviral therapy to block or delay SARS-CoV-2 infection depends on the targeted mechanism
+Pre-Procedural Surveillance Testing for SARS-CoV-2 in an Asymptomatic Population Shows Low Rates of Positivity
+Drive-through testing for SARS-CoV-2 in symptomatic health and social care workers and household members: an observational cohort study in Tayside, Scotland
+Characteristics and outcomes of pregnant women hospitalised with confirmed SARS-CoV-2 infection in the UK: a national cohort study using the UK Obstetric Surveillance System (UKOSS)
+SARS-CoV-2 Infection Associated Hemophagocytic Lymphohistiocytosis: An autopsy series with clinical and laboratory correlation.
+Pericyte-specific vascular expression of SARS-CoV-2 receptor ACE2 - implications for microvascular inflammation and hypercoagulopathy in COVID-19 patients
+The SARS-CoV-2 conserved macrodomain is a highly efficient ADP-ribosylhydrolase enzyme
+A putative new SARS-CoV protein, 3a*, encoded in an ORF overlapping ORF3a
+Static All-Atom Energetic Mappings of the SARS-Cov-2 Spike Protein with Potential Latch Identification of the Down State Protomer
+Characterization of neutralizing antibodies from a SARS-CoV-2 infected individual
+Antiviral options against SARS-CoV-2 infection
+Androgen regulates SARS-CoV-2 receptor levels and is associated with severe COVID-19 symptoms in men
+Mutation landscape of SARS-CoV-2 reveals three mutually exclusive clusters of leading and trailing single nucleotide substitutions
+Children's Hospital Los Angeles COVID-19 Analysis Research Database (CARD) - A Resource for Rapid SARS-CoV-2 Genome Identification Using Interactive Online Phylogenetic Tools
+Comparative analysis of antiviral efficacy of FDA-approved drugs against SARS-CoV-2 in human lung cells: Nafamostat is the most potent antiviral drug candidate
+Rapid response flow cytometric assay for the detection of antibody responses to SARS-CoV-2
+Identification of Immune complement function as a determinant of adverse SARS-CoV-2 infection outcome
+Defining the Pandemic at the State Level: Sequence-Based Epidemiology of the SARS-CoV-2 virus by the Arizona COVID-19 Genomics Union (ACGU)
+SARS-CoV-2 activates lung epithelia cell proinflammatory signaling and leads to immune dysregulation in COVID-19 patients by single-cell sequencing
+Saliva as a non-invasive sample for the detection of SARS-CoV-2: a systematic review
+ReScan, a Multiplex Diagnostic Pipeline, Pans Human Sera for SARS-CoV-2 Antigens
+SARS-CoV-2 receptor networks in diabetic kidney disease, BK-Virus nephropathy and COVID-19 associated acute kidney injury
+Characterization of SARS-CoV-2 viral diversity within and across hosts
+Evaluation of the EUROIMMUN Anti-SARS-CoV-2 ELISA Assay for detection of IgA and IgG antibodies
+Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein
+Antibody repertoire induced by SARS-CoV-2 spike protein immunogens
+Comparison of SARS-CoV-2 Indirect and Direct Detection Methods
+In Vitro Inhibition of SARS-CoV-2 Infection by Bovine Lactoferrin
+Evaluation Of SYBR Green Real Time PCR For Detecting SARS-CoV-2 From Clinical Samples
+A Computational Toolset for Rapid Identification of SARS-CoV-2, other Viruses, and Microorganisms from Sequencing Data
+Infection Groups Differential (IGD) Score Reveals Infection Ability Difference between SARS-CoV-2 and Other Coronaviruses
+Functional prediction and comparative population analysis of variants in genes for proteases and innate immunity related to SARS-CoV-2 infection
+Genome Analysis of SARS-CoV-2 Isolate from Bangladesh
+Comparison of the Accula SARS-CoV-2 Test with a Laboratory-Developed Assay for Detection of SARS-CoV-2 RNA in Clinical Nasopharyngeal Specimens
+ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
+Lung Disease Network Reveals the Impact of Comorbidity on SARS-CoV-2 infection
+Structure of SARS-CoV-2 main protease in the apo state reveals the inactive conformation
+Insights into molecular evolution recombination of pandemic SARS-CoV-2 using Saudi Arabian sequences
+Propagation, inactivation, and safety testing of SARS-CoV-2
+Evolutionary arms race between virus and host drives genetic diversity in bat SARS related coronavirus spike genes
+Tracing two causative SNPs reveals SARS-CoV-2 transmission in North America population
+A rapid, point of care red blood cell agglutination assay for detecting antibodies against SARS-CoV-2
+Epidemiology, risk factors and clinical course of SARS-CoV-2 infected patients in a Swiss university hospital: an observational retrospective study
+Laboratory validation of an RNA/DNA hybrid tagmentation based mNGS workflow on SARS-CoV-2 and other respiratory RNA viruses detection
+Cross-sectional IgM and IgG profiles in SARS-CoV-2 infection
+Lessons from a rapid systematic review of early SARS-CoV-2 serosurveys
+Rapid implementation of real-time SARS-CoV-2 sequencing to investigate healthcare-associated COVID-19 infections
+Novel ACE2-Independent Carbohydrate-Binding of SARS-CoV-2 Spike Protein to Host Lectins and Lung Microbiota
+Potent neutralization of SARS-CoV-2 in vitro and in an animal model by a human monoclonal antibody
+Growth factor receptor signaling inhibition prevents SARS-CoV-2 replication
+Network Analysis and Transcriptome Profiling Identify Autophagic and Mitochondrial Dysfunctions in SARS-CoV-2 Infection
+Immunoinformatic identification of B cell and T cell epitopes in the SARS-CoV-2 proteome
+Exosomes Facilitate Transmission of SARS-CoV-2 Genome into Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes
+Characteristic and quantifiable COVID-19-like abnormalities in CT- and PET/CT-imaged lungs of SARS-CoV-2-infected crab-eating macaques (Macaca fascicularis)
+Crystal structures of SARS-CoV-2 ADP-ribose phosphatase (ADRP): from the apo form to ligand complexes
+ACE2-Variants Indicate Potential SARS-CoV-2-Susceptibility in Animals: An Extensive Molecular Dynamics Study
+Identification of conserved epitopes in SARS-CoV-2 spike and nucleocapsid protein.
+Unveiling diffusion pattern and structural impact of the most invasive SARS-CoV-2 spike mutation
+Predicting the Immunogenicity of T cell epitopes: From HIV to SARS-CoV-2
+Screening of healthcare workers for SARS-CoV-2 highlights the role of asymptomatic carriage in COVID-19 transmission
+Estimation of the incubation period of SARS-CoV-2 in Vietnam
+SARS-CoV-2 antibody seroprevalence in industry workers in Split-Dalmatia and Sibenik-Knin County, Croatia
+SARS-CoV-2 transcriptome analysis and molecular cataloguing of immunodominant epitopes for multi-epitope based vaccine design
+Phylogenetic Analysis of SARS-CoV-2 Genomes in Turkey
+Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals
+Two mutations P/L and Y/C in SARS-CoV-2 helicase domain exist together and influence helicase RNA binding
+Structural analysis of the SARS-CoV-2 methyltransferase complex involved in coronaviral RNA cap creation
+Pre-existing and de novo humoral immunity to SARS-CoV-2 in humans
+CoV-AbDab: the Coronavirus Antibody Database
+Recommendations for sample pooling on the Cepheid GeneXpert® system using the Cepheid Xpert® Xpress SARS-CoV-2 assay
+IgA MAb blocks SARS-CoV-2 Spike-ACE2 interaction providing mucosal immunity
+Distribution of ACE2, CD147, cyclophilins, CD26 and other SARS-CoV-2 associated molecules in human tissues and immune cells in health and disease
+Sequence Characterization and Molecular Modeling of Clinically Relevant Variants of the SARS-CoV-2 Main Protease
+Favipiravir strikes the SARS-CoV-2 at its Achilles heel, the RNA polymerase
+A single dose SARS-CoV-2 simulating particle vaccine induces potent neutralizing activities
+Analysis of SARS-CoV-2 RNA-Sequences by Interpretable Machine Learning Models
+Yeast-Expressed SARS-CoV Recombinant Receptor-Binding Domain (RBD219-N1) Formulated with Alum Induces Protective Immunity and Reduces Immune Enhancement
+Broad sarbecovirus neutralizing antibodies define a key site of vulnerability on the SARS-CoV-2 spike protein
+Analytical and Clinical Comparison of Three Nucleic Acid Amplification Tests for SARS-CoV-2 Detection
+A comprehensive germline variant and expression analyses of ACE2, TMPRSS2 and SARS-CoV-2 activator FURIN genes from the Middle East: Combating SARS-CoV-2 with precision medicine
+Implications of SARS-CoV-2 mutations for genomic RNA structure and host microRNA targeting
+Mechanistic modeling of the SARS-CoV-2 and immune system interplay unravels design principles for diverse clinicopathological outcomes
+Country differences in hospitalisation, length of stay and admission to Intensive Care Units due to SARS-CoV-2 infection: a rapid review of available literature
+The first 100 days of SARS-CoV-2 control in Vietnam
+The SARS-CoV-2 T-cell immunity is directed against the spike, membrane, and nucleocapsid protein and associated with COVID 19 severity
+Deposition distribution of the new coronavirus (SARS-CoV-2) in the human airways upon exposure to cough-generated aerosol
+Progression, recovery and fatality in patients with SARS-CoV-2 related pneumonia in Wuhan, China: a single-centered, retrospective, observational study
+SARS-CoV-2 Detection in Istanbul Wastewater Treatment Plant Sludges
+SARS-CoV-2 amino acid substitutions widely spread in the human population are mainly located in highly conserved segments of the structural proteins
+Robust computational design and evaluation of peptide vaccines for cellular immunity with application to SARS-CoV-2
+Binding of the SARS-CoV-2 Spike Protein to Glycans
+Distinct conformational states of SARS-CoV-2 spike protein
+Architecture and self-assembly of the SARS-CoV-2 nucleocapsid protein
+Computational Study of Ions and Water Permeation and Transportation Mechanisms of the SARS-CoV-2 Pentameric E Protein Channel
+Identification of five antiviral compounds from the Pandemic Response Box targeting SARS-CoV-2
+Human coronavirus reinfection dynamics: lessons for SARS-CoV-2
+Substantial underestimation of SARS-CoV-2 infection in the United States due to incomplete testing and imperfect test accuracy
+Prevalence of SARS-CoV-2 infection in the Luxembourgish population: the CON-VINCE study.
+Sarilumab use in severe SARS-CoV-2 pneumonia
+SARS-CoV-2 Antibody responses do not predict COVID-19 disease severity
+Symptomatic SARS-CoV-2 infections display specific IgG Fc structures
+Perceived versus proven SARS-CoV-2 specific immune responses in health care workers
+Feasibility of SARS-CoV-2 virus detection from consumer-grade cotton swabs
+Clinical assessment and validation of a rapid and sensitive SARS-CoV-2 test using reverse-transcription loop-mediated isothermal amplification
+ALTERED MOLECULAR PATHWAYS OBSERVED IN NASO-OROPHARYNGEAL SAMPLES OF SARS-CoV-2 PATIENTS
+Distributions and risks of SARS-CoV-2 in hospital outdoor environment
+Traces of SARS-CoV-2 RNA in the Blood of COVID-19 Patients
+Spread of the Novel Coronavirus (SARS-CoV-2): Modeling and Simulation of Control Strategies
+COVID-19 genomic susceptibility: Definition of ACE2 variants relevant to human infection with SARS-CoV-2 in the context of ACMG/AMP Guidance
+High sensitivity CDC EUA SARS-CoV-2 kit-based End Point-PCR assay.
+Anti-Spike, anti-Nucleocapsid and neutralizing antibodies in SARS-CoV-2 hospitalized patients and asymptomatic carriers
+Pregnancy and Neonatal Outcomes in SARS-CoV-2 Infection: a systematic review
+No SARS-CoV-2 carriage observed in children attending daycare centers during the first weeks of the epidemic in Belgium.
+Retrospective Pooled Screening for SARS-CoV-2 RNA in late 2019
+SARS-CoV-2 seroprevalence trends in healthy blood donors during the COVID-19 Milan outbreak
+Analytical performance of lateral flow immunoassay for SARS-CoV-2 exposure screening on venous and capillary blood samples
+Structural basis for translational shutdown and immune evasion by the Nsp1 protein of SARS-CoV-2
+Does the human placenta express the canonical cell entry mediators for SARS-CoV-2?
+Immunologic perturbations in severe COVID-19/SARS-CoV-2 infection
+Controlling the SARS-CoV-2 Spike Glycoprotein Conformation
+Repurposing of Miglustat to inhibit the coronavirus Severe Acquired Respiratory Syndrome SARS-CoV-2
+Neutralizing antibody and soluble ACE2 inhibition of a replication-competent VSV-SARS-CoV-2 and a clinical isolate of SARS-CoV-2.
+SARS-CoV2 infection in farmed mink, Netherlands, April 2020
+Agent-Based Simulation for Evaluation of Contact-Tracing Policies Against the Spread of SARS-CoV-2
+Silent Disease and Loss of Taste and Smell are Common Manifestations of SARS-COV-2 Infection in a Quarantine Facility: First report from Saudi Arabia
+Monitoring and predicting SARS-CoV-2 epidemic in France after deconfinement using a multiscale age-stratified rate model
+SARS-CoV-2 Detection in Different Respiratory Sites: A Systematic Review and Meta-Analysis
+Experience of quantitative SARS-CoV-2 antibody screening of health-care workers in the southern part of Kyoto city during COVID-19 peri-pandemic period
+The Clinical and Economic Value of a Successful Shutdown During the SARS-CoV-2 Pandemic in Germany
+Comparison of SARS-CoV-2 detection in nasopharyngeal swab and saliva
+Knowledge of novel coronavirus (SARS-COV-2) among a Georgian population
+Reproducing SARS-CoV-2 epidemics by region-specific variables and modeling contact tracing App containment
+Flatten the Curve! Modeling SARS-CoV-2/COVID-19 Growth in Germany on the County Level
+Characteristics and outcome of SARS-CoV-2 infection in cancer patients.
+High speed large scale automated isolation of SARS-CoV-2 from clinical samples using miniaturized co-culture coupled with high content screening
+SARS-CoV-2 seroconversion in health care workers
+Multi-Antigenic Virus-like Particle of SARS CoV-2 produced in Saccharomyces cerevisiae as a vaccine candidate
+Emerging phylogenetic structure of the SARS-CoV-2 pandemic
+Human IgG cell neutralizing monoclonal antibodies block SARS-CoV-2 infection
+Antiviral activity of Glucosylceramide synthase inhibitors against SARS-CoV-2 and other RNA virus infections
+Transcriptional profiling of immune and inflammatory responses in the context of SARS-CoV-2 fungal superinfection in a human airway epithelial model
+Upper airway gene expression differentiates COVID-19 from other acute respiratory illnesses and reveals suppression of innate immune responses by SARS-CoV-2
+Predicting SARS-CoV-2 infection trend using technical analysis indicators
+The Seasonal End of Human Coronavirus Hospital Admissions with Implications for SARS-CoV-2
+Serological prevalence of antibodies to SARS CoV-2 amongst cancer centre staff
+Quantifying antibody kinetics and RNA shedding during early-phase SARS-CoV-2 infection
+When Can Elimination of SARS-CoV-2 Infection be Assumed? Simulation Modelling in a Case Study Island Nation
+Search for asymptomatic carriers of SARS-CoV-2 in healthcare workers during the pandemic: a Spanish experience
+The specificity of Japanese PCR assays for SARS-CoV-2 exceeds 99.7%
+Extended Storage of SARS-CoV2 Nasopharyngeal Swabs Does Not Negatively Impact Results of Molecular-Based Testing
+Tiger team: a panel of human neutralizing mAbs targeting SARS-CoV-2 spike at multiple epitopes
+Type I and Type III IFN Restrict SARS-CoV-2 Infection of Human Airway Epithelial Cultures
+SARS-CoV-2 targets cortical neurons of 3D human brain organoids and shows neurodegeneration-like effects
+Intra-host Variation and Evolutionary Dynamics of SARS-CoV-2 Population in COVID-19 Patients
+RdRp mutations are associated with SARS-CoV-2 genome evolution
+CD8+ T cell cross-reactivity against SARS-CoV-2 conferred by other coronavirus strains and influenza virus
+In-Vivo Toxicity Studies and In-Vitro Inactivation of SARS-CoV-2 by Povidone-iodine In-situ Gel Forming Formulations
+A replication-competent vesicular stomatitis virus for studies of SARS-CoV-2 spike-mediated cell entry and its inhibition
+Development and Validation of Two In-house, Low-Cost SARS-CoV-2 Detection Assays
+An acceptable method to evaluate the analytical performance of real-time fluorescent RT-PCR targeting SARS-CoV-2
+The Dynamic Changes of Antibodies against SARS-CoV-2 during the Infection and Recovery of COVID-19
+Immunogenic profile of SARS-CoV-2 spike in individuals recovered from COVID-19
+The SARS-CoV-2 cytopathic effect is blocked with autophagy modulators
+Capillary Electrophoresis of PCR fragments with labelled primers for testing the SARS-Cov-2
+Detection of SARS-CoV-2 in pets living with COVID-19 owners diagnosed during the COVID-19 lockdown in Spain: A case of an asymptomatic cat with SARS-CoV-2 in Europe
+No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
+Trimeric SARS-CoV-2 Spike interacts with dimeric ACE2 with limited intra-Spike avidity
+Rapid Isothermal Amplification and Portable Detection System for SARS-CoV-2
+Unfractionated heparin potently inhibits the binding of SARS-CoV-2 spike protein to a human cell line
+Immunization with the receptor-binding domain of SARS-CoV-2 elicits antibodies cross-neutralizing SARS-CoV-2 and SARS-CoV without antibody-dependent enhancement
+Computational Analysis of Dynamic Allostery and Control in the SARS-CoV-2 Main Protease
+Modeling and Simulation of a Fully-glycosylated Full-length SARS-CoV-2 Spike Protein in a Viral Membrane
+An insertion unique to SARS-CoV-2 exhibits superantigenic character strengthened by recent mutations
+Analyzing the impact of SARS CoV-2 on the human proteome
+Changes in RT-PCR-positive SARS-CoV-2 rates in adults and children according to the epidemic stages
+High seroreactivity against SARS-CoV-2 Spike epitopes in a pre SARS-CoV-2 cohort: implications for antibody testing and vaccine design
+SARS-CoV-2 RNA concentrations in primary municipal sewage sludge as a leading indicator of COVID-19 outbreak dynamics
+Prevalence Threshold and Temporal Interpretation of Screening Tests: The Example of the SARS-CoV-2 (COVID-19) Pandemic
+Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
+Trends of SARS-CoV-2 infection worldwide: Role of population density, age structure, and climate on transmission and case fatality
+Amplification of human β-glucoronidase gene for appraising the accuracy of negative SARS-CoV-2 RT-PCR results in upper respiratory tract specimens
+Efficient Prevalence Estimation and Population Screening for SARS-CoV-2
+Consensus study of risk factors and symptoms of SARS-CoV-2 (COVID-19) using biomedical literature and social media data
+Detection of SARS-CoV-2 from raw patient samples by coupled high temperature reverse transcription and amplification
+Effect of Heat inactivation on Real-Time Reverse Transcription PCR of the SARS-COV-2 Detection
+Early antibody response to SARS-CoV-2
+Serologic responses to SARS-CoV-2 infection among hospital staff with mild disease in eastern France
+Performance of six SARS-CoV-2 immunoassays in comparison with microneutralisation
+Pathophysiology of SARS-CoV-2: targeting of endothelial cells renders a complex disease with thrombotic microangiopathy and aberrant immune response. The Mount Sinai COVID-19 autopsy experience
+COVID19-Global: A shiny application to perform a global comparative data visualization for the SARS-CoV-2 epidemic
+Potently neutralizing human antibodies that block SARS-CoV-2 receptor binding and protect animals
+Electric-field-driven microfluidics for rapid CRISPR-based diagnostics and its application to detection of SARS-CoV-2
+Systemic Effects of Missense Mutations on SARS-CoV-2 Spike Glycoprotein Stability and Receptor Binding Affinity
+SARS-CoV-2 mutations and where to find them: An in silico perspective of structural changes and antigenicity of the Spike protein
+Pooling nasopharyngeal swab specimens to increase testing capacity for SARS-CoV-2
+Broad-spectrum virucidal activity of bacterial secreted lipases against flaviviruses, SARS-CoV-2 and other enveloped viruses
+A previously uncharacterized gene in SARS-CoV-2 illuminates the functional dynamics and evolutionary origins of the COVID-19 pandemic
+Recombinant SARS-CoV-2 spike proteins for sero-surveillance and epitope mapping
+Congregate Shelter Characteristics and Prevalence of Asymptomatic SARS-CoV-2
+Effective Screening of SARS-CoV-2 Neutralizing Antibodies in Patient Serum using Lentivirus Particles Pseudotyped with SARS-CoV-2 Spike Glycoprotein
+What do we know about SARS-CoV-2 transmission? A systematic review and meta-analysis of the secondary attack rate, serial interval, and asymptomatic infection
+Spatial and temporal dynamics of SARS-CoV-2 in COVID-19 patients: A systematic review
+Development and clinical application of a rapid and sensitive loop-mediated isothermal amplification test for SARS-CoV-2 infection
+In silico detection of SARS-CoV-2 specific B-cell epitopes and validation in ELISA for serological diagnosis of COVID-19
+Lung epithelial stem cells express SARS-CoV-2 entry factors: implications for COVID-19
+Age-related expression of SARS-CoV-2 priming protease TMPRSS2 in the developing lung
+Predicting wildlife hosts of betacoronaviruses for SARS-CoV-2 sampling prioritization
+The emergence of SARS-CoV-2 in Europe and the US
+Intestinal inflammation modulates the expression of ACE2 and TMPRSS2 and potentially overlaps with the pathogenesis of SARS-CoV-2 related disease
+Systemic and mucosal antibody secretion specific to SARS-CoV-2 during mild versus severe COVID-19
+Methods of inactivation of SARS-CoV-2 for downstream biological assays
+Targeting the SARS-CoV-2 Main Protease to Repurpose Drugs for COVID-19
+Biophysical modeling of the SARS-CoV-2 viral cycle reveals ideal antiviral targets
+Quantification of SARS-CoV-2 and cross-assembly phage (crAssphage) from wastewater to monitor coronavirus transmission within communities
+A Systematic Review and Meta-analysis of Therapeutic options against SARS-CoV-2
+A Rapid Review of the Asymptomatic Proportion of PCR-Confirmed SARS-CoV-2 Infections in Community Settings
+COVIDep: A web-based platform for real-time reporting of vaccine target recommendations for SARS-CoV-2
+The ORF8 Protein of SARS-CoV-2 Mediates Immune Evasion through Potently Downregulating MHC-I
+In silico Proteome analysis of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+Structural basis of SARS-CoV-2 spike protein induced by ACE2
+SARS-CoV-2 infection in London, England: Impact of lockdown on community point-prevalence, March-May 2020
+A systems approach to inflammation identifies therapeutic targets in SARS-CoV-2 infection
+SARS-CoV-2 lethality decreased over time in two Italian Provinces
+Anti-SARS-CoV-2 IgG antibodies are associated with reduced viral load
+Epidemiological study to detect active SARS-CoV-2 infections and seropositive persons in a selected cohort of employees in the Frankfurt am Main metropolitan area
+Prevalence of SARS-CoV-2 infection among asymptomatic healthcare workers in greater Houston: a cross-sectional analysis of surveillance data from a large healthcare system
+Spread dynamics of SARS-CoV-2 epidemic in China: a phylogenetic analysis
+Genomic surveillance of SARS-CoV-2 in Thailand reveals mixed imported populations, a local lineage expansion and a virus with truncated ORF7a
+SARS-CoV-2 epitopes are recognized by a public and diverse repertoire of human T-cell receptors
+Immunochromatographic test for the detection of SARS-CoV-2 in saliva
+The IGNITE Trial: Participant Recruitment Lessons Prior to SARS-CoV-2
+SARS-CoV-2 seroprevalence and neutralizing activity in donor and patient blood from the San Francisco Bay Area
+Standardization of enzyme-linked immunosorbent assays for serosurveys of the SARS-CoV-2 pandemic using clinical and at-home blood sampling
+Mass Spectrometric detection of SARS-CoV-2 virus in scrapings of the epithelium of the nasopharynx of infected patients via Nucleocapsid N protein
+A comparative study of isothermal nucleic acid amplification methods for SARS-CoV-2 detection at point of care
+Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort
+Estimating Household Transmission of SARS-CoV-2
+Serum SARS-COV-2 Nucleocapsid Protein：A Sensitivity and Specificity Early Diagnostic Marker for SARS-COV-2 Infection
+Evaluation of ELISA tests for the qualitative determination of IgG, IgM and IgA to SARS-CoV-2
+SARS-CoV-2 IgG Antibody Responses in New York City
+Serum responses of children with Kawasaki Disease against SARS-CoV-2 proteins.
+IgG serology in health care and administrative staff populations from 7 hospital representative of different exposures to SARS-CoV-2 in Lombardy, Italy
+The transmission of SARS-CoV-2 is likely comodulated by temperature and by relative humidity
+No evidence for allelic association between Covid-19 and ACE2 genetic variants by direct exome sequencing in 99 SARS-CoV-2 positive patients
+Performance evaluation of the point-of-care SAMBA II SARS-CoV-2 Test for detection of SARS-CoV-2
+Study on the expression levels of antibodies against SARS-CoV-2 at different period of disease and its related factors in 192 cases of COVID-19 patients
+Comparing dynamics and determinants of SARS-CoV-2 transmissions among health care workers of adult and pediatric settings in central Paris
+Tensions between research and public health: modelling the risks and benefits of SARS-CoV-2 vaccine field trials versus human infection challenge studies.
+Multiplexed and extraction-free amplification for simplified SARS-CoV-2 RT-PCR tests
+Diagnostic performances and thresholds: the key to harmonization in serological SARS-CoV-2 assays?
+High-throughput immunoassays for SARS-CoV-2, considerable differences in performance when comparing three methods
+SARS-CoV-2-reactive interferon-γ-producing CD8+ T cells in patients hospitalized with Coronavirus viral disease-2019
+SARS-CoV-2 infection, clinical features and outcome of COVID-19 in United Kingdom nursing homes
+Sample Pooling as a Strategy of SARS-COV-2 Nucleic Acid Screening Increases the False-negative Rate
+SARS-CoV-2 RNA detected in blood samples from patients with COVID-19 is not associated with infectious virus
+Transmission of SARS-CoV-2 in Georgia, USA, 2020
+A Unique Clade of SARS-CoV-2 Viruses is Associated with Lower Viral Loads in Patient Upper Airways
+Molecular analysis of several in-house rRT-PCR protocols for SARS-CoV-2 detection in the context of genetic variability of the virus in Colombia.
+Clinical Utility of SARS-CoV-2 Whole Genome Sequencing in Deciphering Source of Infection
+Seroprevalence of antibodies against SARS-CoV-2 among public community and health-care workers in Alzintan City of Libya
+Comprehensive genome analysis of 6,000 USA SARS-CoV-2 isolates reveals haplotype signatures and localized transmission patterns by state and by country
+Impaired T cell functions along with elevated activated Tregs at the early stage of asymptomatic SARS-CoV-2 infection
+SARS-CoV-2 detection in nasopharyngeal throat swabs by metagenomics
+Investigating SARS-CoV-2 surface and air contamination in an acute healthcare setting during the peak of the COVID-19 pandemic in London
+IMPACT OF GLUCOCORTICOID TREATMENT IN SARS-COV-2 INFECTION MORTALITY: A RETROSPECTIVE CONTROLLED COHORT STUDY
+In Vitro Efficacy of Povidone-Iodine Nasal And Oral Antiseptic Preparations Against Severe Acute Respiratory Syndrome-Coronavirus 2 (SARS-CoV-2)
+COVID-19 serology at population scale: SARS-CoV-2-specific antibody responses in saliva
+SARS-CoV-2 entry related genes are comparably expressed in children's lung as adults
+The fate of SARS-CoV-2 in wastewater treatment plants points out the sludge line as a suitable spot for incidence monitoring
+Improved detection of antibody against SARS-CoV-2 by microsphere-based antibody assay
+Multi-site Validation of a SARS-CoV-2 IgG/IgM Rapid Antibody Detection Kit
+The novel Coronavirus enigma: Phylogeny and mutation analyses of SARS-CoV-2 viruses circulating in India during early 2020.
+Alveolar early progenitors in the aged human lung have increased expression of ACE2 accompanied with genes involved in beta-amyloid clearance: Indication of SARS-CoV-2 also using soluble ACE2 in aged-lungs to enter ACE2-negative cells
+Generation of human bronchial organoids for SARS-CoV-2 research
+SARS-CoV-2 genome evolution exposes early human adaptations
+Human H-ferritin presenting RBM of spike glycoprotein as potential vaccine of SARS-CoV-2
+Simeprevir suppresses SARS-CoV-2 replication and synergizes with remdesivir
+AN IMMUNOINFORMATICS STUDY TO PREDICT EPITOPES IN THE ENVELOPE PROTEIN OF SARS-COV-2
+Study of cell to cell transmission of SARS CoV 2 virus particle using gene network from micro array data
+Six Scenarios for non-medical interventions in the SARS-CoV-2 epidemic
+Evaluation of performance of two SARS-CoV-2 Rapid whole-blood finger-stick IgM-IgG Combined Antibody Tests
+Phenol-chloroform-based RNA purification for detection of SARS-CoV-2 by RT-qPCR: comparison with automated systems
+Thermal Disinfection Inactivates SARS-CoV-2 in N95 Respirators while Maintaining Their Protective Function
+Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling
+SARS-CoV-2 envelope protein topology in eukaryotic membranes
+Enantiomers of Chloroquine and Hydroxychloroquine Exhibit Different Activities Against SARS-CoV-2 in vitro, Evidencing S-Hydroxychloroquine as a Potentially Superior Drug for COVID-19
+Crystallographic and electrophilic fragment screening of the SARS-CoV-2 main protease
+Morphological Cell Profiling of SARS-CoV-2 Infection Identifies Drug Repurposing Candidates for COVID-19
+Different pattern of pre-existing SARS-COV-2 specific T cell immunity in SARS-recovered and uninfected individuals
+Angiotensin-converting enzyme 2, a SARS-CoV-2 receptor, is upregulated by interleukin-6 via STAT3 signaling in rheumatoid synovium
+Development and validation of IMMUNO-COV: a high-throughput clinical assay for detecting antibodies that neutralize SARS-CoV-2
+Assessment of sample pooling for clinical SARS-CoV-2 testing
+Impact of Comorbidities on the Expression of SARS-CoV-2 Viral Entry-Related Genes
+Seroprevalence of SARS-CoV-2 among children visiting a hospital during the initial Seattle outbreak
+Modelling the SARS-CoV-2 first epidemic wave in Greece: social contact patterns and impact assessment of social distancing interventions.
+Optimizing high-yield production of SARS-CoV-2 soluble spike trimers for serology assays
+Integrated sample inactivation, amplification, and Cas13-based detection of SARS-CoV-2
+Analysis of Rapidly Emerging Variants in Structured Regions of the SARS-CoV-2 Genome
+SARS-CoV-2 genomics beyond the consensus sequence: evidence for circulating mixed viral populations
+Phylogenetic clustering of the Indian SARS-CoV-2 genomes reveals the presence of distinct clades of viral haplotypes among states
+Single-dose replicating RNA vaccine induces neutralizing antibodies against SARS-CoV-2 in nonhuman primates
+Comparison of the NeuMoDX, Diasorin Simplexa, Cepheid and Roche CDC SARS-CoV 2 EUA assays using nasopharyngeal/nasal swabs in universal transport media (UTM) and sputum and tracheal aspirates
+Evaluation of commercial qPCR kits for detection of SARS-CoV-2 in pooled samples
+"Monoclonal-type" plastic antibodies for SARS-CoV-2 based on Molecularly Imprinted Polymers
+Assessment of Inactivation Procedures for SARS-CoV-2
+Efficacy of a novel SARS-CoV-2 detection kit without RNA extraction and purification
+The expediency of local modelling to aid national responses to SARS-CoV-2.
+Older age is associated with sustained detection of SARS-CoV-2 in nasopharyngeal swab samples
+Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York
+Clinical population genetic analysis of variants in the SARS-CoV-2 receptor ACE2
+A call for governments to pause Twitter censorship: a cross-sectional study using Twitter data as social-spatial sensors of COVID-19/SARS-CoV-2 research diffusion
+A pilot study to investigate the fecal dissemination of SARS-CoV-2 virus genome in COVID-19 patients in Odisha, India
+A SARS-CoV-2 serological assay to determine the presence of blocking antibodies that compete for human ACE2 binding
+Plasmin cascade mediates thrombolytic events in SARS-CoV-2 infection via complement and platelet-activating systems
+Molecules inhibit the enzyme activity of 3-chymotrypsin-like cysteine protease of SARS-CoV-2 virus
+SARS-CoV-2 infection induces EMT-like molecular changes, including ZEB1-mediated repression of the viral receptor ACE2, in lung cancer models
+Evidence of significant natural selection in the evolution of SARS-CoV-2 in bats, not humans
+SARS-CoV-2 transmission chains from genetic data: a Danish case study
+Genomic analysis of early SARS-CoV-2 strains introduced in Mexico
+Expansion of SARS-CoV-2-specific Antibody-secreting Cells and Generation of Neutralizing Antibodies in Hospitalized COVID-19 Patients
+Structures of human antibodies bound to SARS-CoV-2 spike reveal common epitopes and recurrent features of antibodies
+Head-to-head comparison of four antigen-based rapid detection tests for the diagnosis of SARS-CoV-2 in respiratory samples
+SYBR Green-based one-step qRT-PCR for the detection of SARS-CoV-2 RNA in saliva
+Comparison Of Different Kits For SARS-CoV-2 RNA Extraction Marketed In Brazil
+A simple Stochastic model for the SARS-CoV-2 Epidemic curve
+Remarkable variability in SARS-CoV-2 antibodies across Brazilian regions: nationwide serological household survey in 27 states
+SARS-CoV-2 SEROPREVALENCE AMONG ALL WORKERS IN A TEACHING HOSPITAL IN SPAIN: UNMASKING THE RISK.
+A serological assay to detect SARS-CoV-2 antibodies in at-home collected finger-prick dried blood spots
+Investigation of subsequent and co-infections associated with SARS-CoV-2 (COVID-19) in hospitalized patients
+SARS-CoV-2 PCR and antibody testing for an entire rural community: methods and feasibility of high-throughput testing procedures
+When to relax a lockdown? A modelling-based study of testing-led strategies coupled with sero-surveillance against SARS-CoV-2 infection in India
+COVID-3D: An online resource to explore the structural distribution of genetic variation in SARS-CoV-2 and its implication on therapeutic development
+Structure-based Design of Prefusion-stabilized SARS-CoV-2 Spikes
+Validation and Performance Comparison of Three SARS-CoV-2 Antibody Assays
+EasyCOV : LAMP based rapid detection of SARS-CoV-2 in saliva
+Future scenarios for the SARS-CoV-2 epidemic in Switzerland: an age-structured model
+Pushing beyond specifications: Evaluation of linearity and clinical performance of a fully automated SARS-CoV-2 RT-PCR assay for reliable quantification in blood and other materials outside recommendations
+Non-pharmaceutical behavioural measures for droplet-borne biological hazards prevention: Health-EDRM for COVID-19 (SARS-CoV-2) pandemic
+Early transmission of SARS-CoV-2 in South Africa: An epidemiological and phylogenetic report
+QMRA of SARS-CoV-2 for workers in wastewater treatment plants
+Synonymous sites in SARS-CoV-2 genes display trends affecting translational efficiency
+A distinct phylogenetic cluster of Indian SARS-CoV-2 isolates
+Sofosbuvir protects human brain organoids against SARS-CoV-2
+Pathogenesis, transmission and response to re-exposure of SARS-CoV-2 in domestic cats
+ACE2 expression in human dorsal root ganglion sensory neurons: implications for SARS-CoV-2 virus-induced neurological effects
+Safety of Breastfeeding in Mothers with SARS-CoV-2 Infection
+Modelling testing frequencies required for early detection of a SARS-CoV-2 outbreak on a university campus
+Changes in Reproductive Rate of SARS-CoV-2 Due to Non-pharmaceutical Interventions in 1,417 U.S. Counties
+Impact of emerging mutations on the dynamic properties the SARS-CoV-2 main protease: an in silico investigation
+SARS-CoV-2 infection: the environmental endurance of the virus can be influenced by the increase of temperature
+Dose-dependent response to infection with SARS-CoV-2 in the ferret model: evidence of protection to re-challenge
+Targeted Intracellular Degradation of SARS-CoV-2 RBD via Computationally-Optimized Peptide Fusions
+Synergistic effects of anionic surfactants on coronavirus (SARS-CoV-2) virucidal efficiency of sanitizing fluids to fight COVID-19
+coronapp: a Web Application to Annotate and Monitor SARS-CoV-2 Mutations
+Minimal system for assembly of SARS-CoV-2 virus like particles
+A Scalable Topical Vectored Vaccine Candidate Against SARS-CoV-2
+Reconstructing SARS-CoV-2 response signaling and regulatory networks
+SARS-CoV-2 infects and induces cytotoxic effects in human cardiomyocytes
+Detection of SARS-CoV-2 neutralizing antibodies with a cell-free PCR assay
+Environmental Contamination of SARS-CoV-2 in a Non-Healthcare Setting Revealed by Sensitive Nested RT-PCR
+POOLING FOR SARS-CoV-2 CONTROL IN CARE INSTITUTIONS
+Quantitative assessment of the risk of airborne transmission of SARS-CoV-2 infection: prospective and retrospective applications
+The prevalence of antibodies to SARS-CoV-2 in asymptomatic healthcare workers with intensive exposure to COVID-19
+Population-wide evolution of SARS-CoV-2 immunity tracked by a ternary immunoassay
+The Effect of Ultraviolet C Radiation Against SARS-CoV-2 Inoculated N95 Respirators
+Risk factors for mortality in pregnant women with SARS-CoV-2 infection
+SARS-CoV-2 genetic variations associated with COVID-19 severity
+The SARS-CoV-2 pandemic course in Saudi Arabia: A dynamic epidemiological model
+Global between-countries variance in SARS-CoV-2 mortality is driven by reported prevalence, age distribution, and case detection rate
+Rapid and accurate detection of novel coronavirus SARS-CoV-2 using CRISPR-Cas3
+High seroprevalence for SARS-CoV-2 among household members of essential workers detected using a dried blood spot assay
+Direct diagnostic testing of SARS-CoV-2 without the need for prior RNA extraction.
+Rapid point of care nucleic acid testing for SARS-CoV-2 in hospitalised patients: a clinical trial and implementation study
+The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
+Syncope at SARS-CoV-2 onset due to impaired baroreflex response
+Exhaled breath is a significant source of SARS-CoV-2 emission
+SARS-CoV-2 in environmental samples of quarantined households
+Detection of SARS-CoV-2 in Exhaled Breath from COVID-19 Patients Ready for Hospital Discharge
+Increased expression of ACE2, the SARS-CoV-2 entry receptor, in alveolar and bronchial epithelium of smokers and COPD subjects
+Prevalence of SARS-CoV-2 Antibodies Among Healthcare Workers at a Tertiary Academic Hospital in New York City
+HiDRA-seq: High-Throughput SARS-CoV-2 Detection by RNA Barcoding and Amplicon Sequencing
+System Dynamics Modeling Of Within-Host Viral Kinetics Of Coronavirus (SARS CoV-2)
+Structural basis for neutralization of SARS-CoV-2 and SARS-CoV by a potent therapeutic antibody
+An alpaca nanobody neutralizes SARS-CoV-2 by blocking receptor interaction
+Risk factors associated with mortality in hospitalized patients with SARS-CoV-2 infection. A prospective, longitudinal, unicenter study in Reus, Spain
+Optimized pseudotyping conditions for the SARS-COV2 Spike glycoprotein
+Ethnically diverse mutations in PIEZO1 associate with SARS-CoV-2 positivity
+Concordance of "rapid" serological tests and IgG and IgM chemiluminescence for SARS-COV-2
+A comparative evaluation of dye-based and probe-based RT-qPCR assay for the screening of SARS-CoV-2 using individual and pooled-sample testing.
+Clinical Features and Predictors for Patients with Severe SARS-CoV-2 Pneumonia: a retrospective multicenter cohort study
+Evaluation of serological tests for SARS-CoV-2: Implications for serology testing in a low-prevalence setting
+Evaluating the adequacy of Prima Covid-19 IgG/IgM Rapid Test for the assessment of exposure to SARS-CoV-2 virus
+Temporal evolution and adaptation of SARS-COV 2 codon usage
+Rapid detection of SARS-CoV-2 and other respiratory viruses by using LAMP method with Nanopore Flongle workflow
+Brief Communication: Magnetic Immuno-Detection of SARS-CoV-2 specific Antibodies
+A Deep Dive into the SARS-Cov-2 Polymerase Assembly: Identifying Novel Allosteric Sites and Analyzing the Hydrogen Bond Networks and Correlated Dynamics
+In silico design and characterization of multiepitopes vaccine for SARS-CoV from its Spike proteins
+Sarbecovirus comparative genomics elucidates gene content of SARS-CoV-2 and functional impact of COVID-19 pandemic mutations
+Naturally occurring SARS-CoV-2 gene deletions close to the spike S1/S2 cleavage site in the viral quasispecies of COVID19 patients
+Highly multiplexed oligonucleotide probe-ligation testing enables efficient extraction-free SARS-CoV-2 detection and viral genotyping
+Regional Difference in Seroprevalence of SARS-CoV-2 in Tokyo: Results from the community point-of-care antibody testing
+Detection of asymptomatic SARS-CoV-2 exposed individuals by a sensitive S-based ELISA.
+Assembly of an integrated human lung cell atlas reveals that SARS-CoV-2 receptor is co-expressed with key elements of the kinin-kallikrein, renin-angiotensin and coagulation systems in alveolar cells
+Quantifying the prevalence of SARS-CoV-2 long-term shedding among non-hospitalized COVID-19 patients
+An exploration of the SARS-CoV-2 spike receptor binding domain (RBD), a complex palette of evolutionary and structural features
+Substitutions in Spike and Nucleocapsid proteins of SARS-CoV-2 circulating in Colombia
+Landscape and Selection of Vaccine Epitopes in SARS-CoV-2
+Integrated genomic view of SARS-CoV-2 in India
+The Zinc Finger Antiviral Protein restricts SARS-CoV-2
+SARS-CoV2 Testing: The Limit of Detection Matters
+Pitfalls in SARS-CoV-2 PCR diagnostics
+Human iPSC-derived alveolar and airway epithelial cells can be cultured at air-liquid interface and express SARS-CoV-2 host factors
+Olfactory transmucosal SARS-CoV-2 invasion as port of Central Nervous System entry in COVID-19 patients
+Reparations for Black American Descendants of Persons Enslaved in the U.S. and Their Estimated Impact on SARS-CoV-2 Transmission
+Side by side comparison of three fully automated SARS-CoV-2 antibody assays with a focus on specificity
+Discrete SIRIR modelling using empirical infection data shows that SARS-CoV-2 infection provides short-term immunity
+Decontamination of face masks and filtering facepiece respirators via ultraviolet germicidal irradiation, hydrogen peroxide vaporisation, and use of dry heat inactivates an infectious SARS-CoV-2 surrogate virus.
+SARS-CoV-2 genomic and subgenomic RNAs in diagnostic samples are not an indicator of active replication
+A CRISPR-Cas12a-based specific enhancer for more sensitive detection of SARS-CoV-2 infection
+Implementation and evaluation of a novel real-time multiplex assay for SARS-CoV-2: In-field learnings from a clinical microbiology laboratory
+iSCAN: An RT-LAMP-coupled CRISPR-Cas12 module for rapid, sensitive detection of SARS-CoV-2
+Tocilizumab is associated with reduction of the risk of ICU admission and mortality in patients with SARS-CoV-2 infection
+Neuropilin-1 is a host factor for SARS-CoV-2 infection
+Characterization of the substitution hotspots in SARS-CoV-2 genome using BioAider and detection of a SR-rich region in N protein providing further evidence of its animal origin
+Ultra-sensitive nanozyme-based chemiluminescence paper test for rapid diagnosis of SARS-CoV-2 infection
+Several FDA-approved drugs effectively inhibit SARS-CoV-2 infection in vitro
+A novel in-cell ELISA assay allows rapid and automated quantification of SARS-CoV-2 to analyse neutralizing antibodies and antiviral compounds
+Design of a Novel Multiplex Real Time RT-PCR Assay for SARS-CoV-2 Detection
+Comparative study of four SARS-CoV-2 Nucleic Acid Amplification Test (NAAT) platforms demonstrates that ID NOW performance is impaired substantially by patient and specimen type.
+SARS-CoV-2 neutralizing human recombinant antibodies selected from pre-pandemic healthy donors binding at RBD-ACE2 interface
+SARS-CoV-2 infection leads to acute infection with dynamic cellular and inflammatory flux in the lung that varies across nonhuman primate species
+SARS-CoV-2 proteases cleave IRF3 and critical modulators of inflammatory pathways (NLRP12 and TAB1): implications for disease presentation across species and the search for reservoir hosts.
+Insights on cross-species transmission of SARS-CoV-2 from structural modeling
+Whole genome identification of potential G-quadruplexes and analysis of the G-quadruplex binding domain for SARS-CoV-2
+Mega-phylogeny sheds light on SARS-CoV-2 spatial phylogenetic structure
+What variables can better predict the number of infections and deaths worldwide by SARS-CoV-2? Variation through time
+Ozone therapy for patients with SARS-COV-2 pneumonia: a single-center prospective cohort study
+Synthetic Antibodies neutralize SARS-CoV-2 infection of mammalian cells
+Cross-neutralization antibodies against SARS-CoV-2 and RBD mutations from convalescent patient antibody libraries
+Risk and protective factors of SARS-CoV-2 infection - Meta-regression of data from worldwide nations
+UV-C irradiation is highly effective in inactivating and inhibiting SARS-CoV-2 replication
+Combined oropharyngeal/nasal swab is equivalent to nasopharyngeal sampling for SARS-CoV-2 diagnostic PCR
+Serology confirms SARS-CoV-2 infection in PCR-negative children presenting with Paediatric Inflammatory Multi-System Syndrome
+Cumulative Active and Recovery Rates Based Criterion for Gradual Lockdown Exit: A Global Observation of SARS Cov-2 Management
+First environmental surveillance for the presence of SARS-CoV-2 RNA in wastewater and river water in Japan
+Genetic analysis of SARS-CoV-2 isolates collected from Bangladesh: insights into the origin, mutation spectrum, and possible pathomechanism
+Rapid inactivation of SARS-CoV-2 with Deep-UV LED irradiation
+Neuropilin-1 facilitates SARS-CoV-2 cell entry and provides a possible pathway into the central nervous system
+Molecular mechanism of SARS-Cov-2 components caused ARDS in murine model
+Identification of unique mutations in SARS-CoV-2 strains isolated from India suggests its attenuated pathotype
+Policy Implications of an Approximate Linear Infection Model for SARS-CoV-2
+Tocilizumab as a Therapeutic Agent for Critically Ill Patients Infected with SARS-CoV-2
+Rapid implementation of SARS-CoV-2 emergency use authorization RT-PCR testing and experience at an academic medical institution
+A Machine Learning Explanation of Incidence Inequalities of SARS-CoV-2 Across 88 Days in 157 Countries
+Dynamics of the SARS-CoV-2 epidemic in the earliest-affected areas in Italy: 1 Mass screening for SARS-CoV-2 serological positivity (SARS-2-SCREEN).
+Structure Basis for Inhibition of SARS-CoV-2 by the Feline Drug GC376
+SARS-CoV-2-specific T cells exhibit unique features characterized by robust helper function, lack of terminal differentiation, and high proliferative potential
+Broad and strong memory CD4+ and CD8+ T cells induced by SARS-CoV-2 in UK convalescent COVID-19 patients.
+Cross-sectional evaluation of humoral responses against SARS-CoV-2 Spike
+Effective Inhibition of SARS-CoV-2 Entry by Heparin and Enoxaparin Derivatives
+Evolutionary and structural analyses of SARS-CoV-2 D614G spike protein mutation now documented worldwide
+SARS-CoV-2 Whole Genome Amplification and Sequencing for Effective Population-Based Surveillance and Control of Viral Transmission
+Rapid whole genome sequence typing reveals multiple waves of SARS-CoV-2 spread
+An Inexpensive RT-PCR Endpoint Diagnostic Assay for SARS-CoV-2 Using Nested PCR: Direct Assessment of Detection Efficiency of RT-qPCR Tests and Suitability for Surveillance
+Adverse Outcomes and Mortality in Users of Non-Steroidal Anti-Inflammatory Drugs tested positive for SARS-CoV-2: A Danish Nationwide Cohort Study
+Magnitude and kinetics of anti-SARS-CoV-2 antibody responses and their relationship to disease severity
+SARS-CoV-2 placental infection and inflammation leading to fetal distress and neonatal multi-organ failure in an asymptomatic woman
+Validation of a Self-administrable, Saliva-based RT-qPCR Test Detecting SARS-CoV-2
+D936Y and Other Mutations in the Fusion Core of the SARS-Cov-2 Spike Protein Heptad Repeat 1 Undermine the Post-Fusion Assembly
+Linear epitopes of SARS-CoV-2 spike protein elicit neutralizing antibodies in COVID-19 patients
+Genomic epidemiology of SARS-CoV-2 spread in Scotland highlights the role of European travel in COVID-19 emergence
+SARS-CoV-2 in first trimester pregnancy - does it affect the fetus?
+Seroprevalence of IgG antibodies against SARS coronavirus 2 in Belgium – a prospective cross-sectional study of residual samples
+Indian Publications on SARS-CoV-2: A Bibliometric Study of WHO COVID-19 Database
+Principles and Practice of SARS-CoV-2 Decontamination of N95 Masks with UV-C
+Identification of multiple large deletions in ORF7a resulting in in-frame gene fusions in clinical SARS-CoV-2 isolates
+An analysis of SARS-CoV-2 viral load by patient age
+Longitudinal Surveillance for SARS-CoV-2 RNA Among Asymptomatic Staff in Five Colorado Skilled Nursing Facilities: Epidemiologic, Virologic and Sequence Analysis.
+SARS-CoV-2 triggered neutrophil extracellular traps (NETs) mediate COVID-19 pathology
+Sequence analysis of travel-related SARS-CoV-2 cases in the Greater Geelong region, Australia
+SARS-CoV-2 virus and antibodies in front-line Health Care Workers in an acute hospital in London: preliminary results from a longitudinal study
+Sex differences in immune responses to SARS-CoV-2 that underlie disease outcomes
+Relationship between Anti-Spike Protein Antibody Titers and SARS-CoV-2 In Vitro Virus Neutralization in Convalescent Plasma
+Measuring SARS-CoV-2 neutralizing antibody activity using pseudotyped and chimeric viruses
+The hypothalamus as a hub for putative SARS-CoV-2 brain infection
+Molecular modelling predicts SARS-CoV-2 ORF8 protein and human complement Factor 1 catalytic domain sharing common binding site on complement C3b
+Stability of SARS-CoV-2 Phylogenies
+Cholesterol 25-hydroxylase suppresses SARS-CoV-2 replication by blocking membrane fusion
+Structural basis of a public antibody response to SARS-CoV-2
+Prolonged SARS-CoV-2 Viral Shedding in Patients with COVID-19 was Associated with Delayed Initiation of Arbidol Treatment: a retrospective cohort study
+The impact of viral transport media on PCR assay results for the detection of nucleic acid from SARS-CoV-2 and other viruses
+Evaluating the efficacy of RT-qPCR SARS-CoV-2 direct approaches in comparison to RNA extraction
+Fast isolation of sub-nanomolar affinity alpaca nanobody against the Spike RBD of SARS-CoV-2 by combining bacterial display and a simple single-step density gradient selection
+SARS-CoV-2 nucleocapsid protein undergoes liquid-liquid phase separation stimulated by RNA and partitions into phases of human ribonucleoproteins
+Ultrastructural analysis of SARS-CoV-2 interactions with the host cell via high resolution scanning electron microscopy
+Age-dependent progression of SARS-CoV-2 infection in Syrian hamsters
+Potent synthetic nanobodies against SARS-CoV-2 and molecular basis for neutralization
+The utility of native MS for understanding the mechanism of action of repurposed therapeutics in COVID-19: heparin as a disruptor of the SARS-CoV-2 interaction with its host cell receptor.
+One-Step Rapid Quantification of SARS-CoV-2 Virus Particles via Low-Cost Nanoplasmonic Sensors in Generic Microplate Reader and Point-of-Care Device
+Comparative analysis of non structural protein 1 of SARS-COV2 with SARS-COV1 and MERS-COV: An in silico study
+Whole Genome Sequencing of SARS-CoV-2: Adapting Illumina Protocols for Quick and Accurate Outbreak Investigation During a Pandemic
+A Rare Deletion in SARS-CoV-2 ORF6 Dramatically Alters the Predicted Three-Dimensional Structure of the Resultant Protein
+Designed peptides as potential fusion inhibitors against SARA-CoV-2 coronavirus infection
+SARS-CoV-2 sequence typing, evolution and signatures of selection using CoVa, a Python-based command-line utility
+The Distal Polybasic Cleavage Sites of SARS-CoV-2 Spike Protein Enhance Spike Protein-ACE2 Binding
+Bayesian investigation of SARS-CoV-2-related mortality in France
+Impact of public health measures to control SARS-CoV-2Outbreak: a data-driven analysis
+IgA dominates the early neutralizing antibody response to SARS-CoV-2
+Identification of SARS-CoV-2 in wastewater in Japan by multiple molecular assays-implication for wastewater-based epidemiology (WBE)
+Modeling the structure of the frameshift stimulatory pseudoknot in SARS-CoV-2 reveals multiple possible conformers
+Quantitative PCR for cannabis flower containing SARs-CoV-2
+Remdesivir but not famotidine inhibits SARS-CoV-2 replication in human pluripotent stem cell-derived intestinal organoids
+Shielding and Beyond: The Roles of Glycans in SARS-CoV-2 Spike Protein
+Chimeric synthetic reference standards enable cross-validation of positive and negative controls in SARS-CoV-2 molecular tests.
+Hijacking SARS-Cov-2/ACE2 receptor interaction by natural and semi-synthetic steroidal agents acting on functional pockets on receptor binding region
+Investigation of the effect of temperature on the structure of SARS-Cov-2 Spike Protein by Molecular Dynamics Simulations
+COVID-19 Variants Database: A repository for Human SARS-CoV-2 Polymorphism Data
+SARS-CoV-2 mRNA Vaccine Development Enabled by Prototype Pathogen Preparedness
+Hydroxychloroquine Proves Ineffective in Hamsters and Macaques Infected with SARS-CoV-2
+Evaluation of Sample Pooling for Screening of SARS-CoV-2
+Differences in antibody kinetics and functionality between severe and mild SARS-CoV-2 infections.
+Early administration of lopinavir/ritonavir plus hydroxychloroquine does not alter the clinical course of SARS-CoV-2 infection: a retrospective cohort study.
+Kinetics of the humoral immune response to SARS-CoV-2: comparative analytical performance of seven commercial serology tests
+Clinical outcomes of SARS-CoV-2 pandemic in long-term care facilities for people with epilepsy: observational study
+Interregional SARS-CoV-2 spread from a single introduction outbreak in a meat-packing plant in northeast Iowa
+The arrival and spread of SARS-CoV2 in Colombia
+Serology-informed estimates of SARS-COV-2 infection fatality risk in Geneva, Switzerland
+Serial Interval Distribution of SARS-CoV-2 Infection in Brazil
+Laboratory based surveillance of SARS-CoV-2 in Pakistan
+Clinical validation and performance evaluation of the automated Vitros Total Anti-SARS-CoV-2 Antibodies assay for screening of serostatus in COVID-19
+On the sensitivity of non-pharmaceutical intervention models for SARS-CoV-2 spread estimation
+Even one metre seems generous. A reanalysis of data in: Chu et al. (2020) Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19.
+At-home self-collection of saliva, oropharyngeal swabs and dried blood spots for SARS-CoV-2 diagnosis and serology: post-collection acceptability of specimen collection process and patient confidence in specimens
+Persistent SARS-CoV-2 replication in severe COVID-19
+The origin and early spread of SARS-CoV-2 in Europe
+Estimating the Effect and Cost-Effectiveness of Facemasks in Reducing the Spread of the Severe Acute Respiratory Syndrome-Coronavirus 2 (SARS-CoV-2) in Uganda
+Asymptomatic carriage rates and case-fatality of SARS-CoV-2 infection in residents and staff in Irish nursing homes
+Stability of SARS-CoV-2 on Critical Personal Protective Equipment
+Profiling the positive detection rate of SARS-CoV-2 using polymerase chain reaction in different types of clinical specimens: a systematic review and meta-analysis
+SARS-CoV-2 Viral Load Predicts COVID-19 Mortality
+Sensitivity of commercial Anti-SARS-CoV-2 serological assays in a high-prevalence setting
+Evolution and epidemic spread of SARS-CoV-2 in Brazil
+Highly sensitive and specific multiplex antibody assays to quantify immunoglobulins M, A and G against SARS-CoV-2 antigens
+Specific viral RNA drives the SARS CoV-2 nucleocapsid to phase separate
+Structural basis for potent neutralization of SARS-CoV-2 and role of antibody affinity maturation
+Validation and performance of a quantitative IgG assay for the screening of SARS-CoV-2 antibodies
+The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
+Prediction of non-canonical routes for SARS-CoV-2 infection in human placenta cells
+Longitudinal isolation of potent near-germline SARS-CoV-2-neutralizing antibodies from COVID-19 patients
+Interactions of SARS-CoV-2 infection with chronic obesity inflammation: a complex network phenomenon
+Overhauling a faulty control in the CDC-recommended SARS-CoV-2 RT-PCR test
+WHOLE-GENOME SEQUENCING AND DE NOVO ASSEMBLY OF A 2019 NOVEL CORONAVIRUS (SARS-COV-2) STRAIN ISOLATED IN VIETNAM
+Single-cell transcriptomic analysis of SARS-CoV-2 reactive CD4+ T cells
+Structural basis for the neutralization of SARS-CoV-2 by an antibody from a convalescent patient
+Receptor utilization of angiotensin converting enzyme 2 (ACE2) indicates a narrower host range of SARS-CoV-2 than that of SARS-CoV
+Multi-epitope Based Peptide Vaccine Design Using Three Structural Proteins (S, E, and M) of SARS-CoV-2: An In Silico Approach
+Colon Cancer and SARS-CoV-2: Impact of ACE2 Expression in Susceptibility to COVID-19
+Inhaled corticosteroids downregulate the SARS-CoV-2 receptor ACE2 in COPD through suppression of type I interferon
+Sentinel surveillance of SARS-CoV-2 in wastewater anticipates the occurrence of COVID-19 cases
+Analysis of SARS-CoV-2 Genomes from Southern California Reveals Community Transmission Pathways in the Early Stage of the US COVID-19 Pandemic
+Analysis of the time evolution of SARS-CoV-2 lethality rate in Italy: Evidence of an unaltered virus potency
+Asymptomatic and presymptomatic transmission of SARS-CoV-2: A systematic review
+When is SARS-CoV-2 in your shopping list?
+Genome sequencing of the first SARS-CoV-2 reported from patients with COVID-19 in Ecuador.
+Nasal-Swab Testing Misses Patients with Low SARS-CoV-2 Viral Loads
+Optimal size of sample pooling for RNA pool testing: an avant-garde for scaling up SARS CoV 2 testing
+Multiplex Isothermal Amplification Coupled with Nanopore Sequencing for Rapid Detection and Mutation Surveillance of SARS-CoV-2
+Assessment of spread of SARS-CoV-2 by RT-PCR and concomitant serology in children in a region heavily affected by COVID-19 pandemic
+Single-cell screening of SARS-CoV-2 target cells in pets, livestock, poultry and wildlife
+SARS-CoV-2 Neutralizing Antibody Responses Are More Robust in Patients with Severe Disease
+The serotonin reuptake inhibitor Fluoxetine inhibits SARS-CoV-2
+Calreticulin co-expression supports high level production of a recombinant SARS-CoV-2 spike mimetic in Nicotiana benthamiana
+X-206 is a potent and selective inhibitor of SARS-CoV-2 infection in vitro
+Genotypic and antigenic study of SARS-CoV-2 from an Indian isolate.
+Dynamics of the ACE2 - SARS-CoV/SARS-CoV-2 spike protein interface reveal unique mechanisms
+Characterization of the SARS-CoV-2 S Protein: Biophysical, Biochemical, Structural, and Antigenic Analysis
+Genome-wide mapping of therapeutically-relevant SARS-CoV-2 RNA structures
+A novel biparatopic antibody-ACE2 fusion that blocks SARS-CoV-2 infection: implications for therapy
+Novel ACE2-IgG1 fusions with increased activity against SARS-CoV-2
+Naturally mutated spike proteins of SARS-CoV-2 variants show differential levels of cell entry
+Microscopy-based assay for semi-quantitative detection of SARS-CoV-2 specific antibodies in human sera
+An enzyme-based immunodetection assay to quantify SARS-CoV-2 infection
+Pulmonary toxicity and inflammatory response of e-cigarettes containing medium-chain triglyceride oil and vitamin E acetate: Implications in the pathogenesis of EVALI but independent of SARS-COV-2 COVID-19 related proteins
+The D614G mutation in SARS-CoV-2 Spike increases transduction of multiple human cell types
+Low and high infection dose transmission of SARS-CoV-2 in the first COVID-19 clusters in Northern Germany
+Snapshot PCR Surveillance for SARS-CoV-2 in Hospital Staff in England
+Field-deployable, rapid diagnostic testing of saliva samples for SARS-CoV-2.
+Cohen's kappa statistics as a convenient means to identify accurate SARS-CoV-2 rapid antibody tests
+Quantification of SARS-CoV-2 viral copy number in saliva mouthwash samples using digital droplet PCR
+Prevalence of IgG antibodies to SARS-CoV-2 in Wuhan - implications for the ability to produce long-lasting protective antibodies against SARS-CoV-2
+Cumulative effect of aging and SARS-CoV2 infection on poor prognosis in the elderly: Insights from transcriptomic analysis of lung and blood
+Development and validation of a tool to appraise guidelines on SARS-CoV-2 infection prevention strategies in healthcare workers
+Age-dependent assessment of genes involved in cellular senescence, telomere and mitochondrial pathways in human lung tissue of smokers, COPD and IPF: Associations with SARS-CoV-2 COVID-19 ACE2-TMPRSS2-Furin-DPP4 axis
+Evaluation of SARS-CoV-2 in Breastmilk from 18 Infected Women
+Predictive accuracy of a hierarchical logistic model of cumulative SARS-CoV-2 case growth
+Comparing library preparation methods for SARS-CoV-2 multiplex amplicon sequencing on the Illumina MiSeq platform
+The in vitro antiviral activity of the anti-hepatitis C virus (HCV) drugs daclatasvir and sofosbuvir against SARS-CoV-2
+Comparative analysis of coronavirus genomic RNA structure reveals conservation in SARS-like coronaviruses
+Cell entry of SARS-CoV-2 conferred by angiotensin-converting enzyme 2 (ACE2) of different species
+Catch and kill airborne SARS-CoV-2 to control spread of COVID-19 by a heated air disinfection system
+TMPRSS2, a SARS-CoV-2 internalization protease is downregulated in head and neck cancer patients.
+Array-based analysis of SARS-CoV-2, other coronaviruses, and influenza antibodies in convalescent COVID-19 patients
+The Integrin Binding Peptide, ATN-161, as a Novel Therapy for SARS-CoV-2 Infection
+Lack of susceptibility of poultry to SARS-CoV-2 and MERS-CoV
+AGE IS ASSOCIATED WITH INCREASED EXPRESSION OF PATTERN RECOGNITION RECEPTOR GENES AND ACE2, THE RECEPTOR FOR SARS-COV-2: IMPLICATIONS FOR THE EPIDEMIOLOGY OF COVID-19 DISEASE
+Massive transient damage of the olfactory epithelium associated with infection of sustentacular cells by SARS-CoV-2 in golden Syrian hamsters
+Antigenic evolution on global scale reveals potential natural selection of SARS-CoV-2 by pre-existing cross-reactive T cell immunity
+Machine Learning Models Identify Inhibitors of SARS-CoV-2
+Genomic modeling as an approach to identify surrogates for use in experimental validation of SARS-CoV-2 and HuNoVs inactivation by UV-C treatment
+Mutation density changes in SARS-CoV-2 are related to the pandemic stage but to a lesser extent in the dominant strain with mutations in spike and RdRp
+in-silica Analysis of SARS-CoV-2 viral strain using Reverse Vaccinology Approach: A Case Study for USA
+Diagnostic accuracy of six commercial SARS-CoV-2 IgG/total antibody assays and identification of SARS-CoV-2 neutralizing antibodies in convalescent sera
+Mobility network modeling explains higher SARS-CoV-2 infection rates among disadvantaged groups and informs reopening strategies
+Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event
+SARS-CoV-2 Community Transmission During Shelter-in-Place in San Francisco
+Reducing SARS-CoV-2 infectious spreading patterns by removing S and R compartments from SIR model equation
+The effect of serological screening for SARS-CoV-2 antibodies to participants' attitudes and risk behaviour: a study on a tested population sample of industry workers in Split-Dalmatia County, Croatia
+Clinical, immunological and virological characterization of COVID-19 patients that test re-positive for SARS-CoV-2 by RT-PCR
+Seroprevalence of Antibodies to SARS-CoV-2 in Healthcare Workers in Non-epidemic Region: A Report from Iwate Prefecture in Japan
+Time-series analyses of directional sequence changes in SARS-CoV-2 genomes and an efficient search method for advantageous mutations for growth in human cells
+Deep mutational scanning of SARS-CoV-2 receptor binding domain reveals constraints on folding and ACE2 binding
+Detection of SARS-CoV-2 RNA by multiplex RT-qPCR
+A thermostable, closed, SARS-CoV-2 spike protein trimer.
+Rapid assessment of ligand binding to the SARS-CoV-2 main protease by saturation transfer difference NMR spectroscopy
+Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2 infection
+High-Accuracy Multiplexed SARS-CoV-2 Antibody Assay with Avidity and Saliva Capability on a Nano-Plasmonic Platform
+Crystal structure of SARS-CoV-2 main protease in complex with a Chinese herb inhibitor shikonin
+Pervasive RNA secondary structure in the genomes of SARS-CoV-2 and other coronaviruses – an endeavour to understand its biological purpose
+Holder Pasteurization Inactivates SARS-CoV-2 in Human Breast Milk
+Multi-level proteomics reveals host-perturbation strategies of SARS-CoV-2 and SARS-CoV
+The first proof of the capability of wastewater surveillance for COVID-19 in India through the detection of the genetic material of SARS-CoV-2
+Epidemiological characteristics of patients with residual SARS-Cov-2 in Linyi, China
+Evaluation of specimen types and saliva stabilization solutions for SARS-CoV-2 testing
+Combined point of care nucleic acid and antibody testing for SARS-CoV-2: a prospective cohort study in suspected moderate to severe COVID-19 disease.
+Detection of antibodies to the SARS-CoV-2 spike glycoprotein in both serum and saliva enhances detection of infection
+Unexpected free fatty acid binding pocket in the cryo-EM structure of SARS-CoV-2 spike protein
+The SARS-CoV-2 nucleocapsid protein is dynamic, disordered, and phase separates with RNA
+The SARS-CoV-2 Spike protein has a broad tropism for mammalian ACE2 proteins
+Potent Neutralizing Monoclonal Antibodies Directed to Multiple Epitopes on the SARS-CoV-2 Spike
+Saliva-Based Molecular Testing for SARS-CoV-2 that Bypasses RNA Extraction
+Genomic surveillance of SARS-CoV-2 reveals community transmission of a major lineage during the early pandemic phase in Brazil
+Divergent SARS-CoV-2-specific T and B cell responses in severe but not mild COVID-19
+Cryo-EM structure of the SARS-CoV-2 3a ion channel in lipid nanodiscs
+Early temporal dynamics of cellular responses to SARS-CoV-2
+Variant analysis of SARS-CoV-2 strains in Middle Eastern countries
+Polymorphism and selection pressure of SARS-CoV-2 vaccine and diagnostic antigens: implications for immune evasion and serologic diagnostic performance
+Potential involvement of monoamine oxidase activity in SARS-COV2 infection and delirium onset
+Progression / remission of Coronavirus disease 2019: Data driven recommendations for repeating SARS-CoV-2 nucleic acid amplification tests.
+SARS-CoV-2 qRT-PCR Ct value distribution in Japan and possible utility of rapid antigen testing kit
+Evaluation of the performance of SARS-CoV-2 serological tools and their positioning in COVID-19 diagnostic strategies.
+Standardized Testing Demonstrates Altered Odor Detection Sensitivity and Hedonics in Asymptomatic College Students as SARS-CoV-2 Emerged Locally
+Development and validation of the Elecsys Anti-SARS-CoV-2 immunoassay as a highly specific tool for determining past exposure to SARS-CoV-2
+Effect of hydroxychloroquine on SARS-CoV-2 viral load in patients with COVID-19
+The Endothelial Dysfunction and Pyroptosis Driving the SARS-CoV-2 Immune-Thrombosis
+Distinct genetic spectrums and evolution patterns of SARS-CoV-2
+Identification of immunodominant linear epitopes from SARS-CoV-2 patient plasma
+FAR AWAY FROM HERD IMMUNITY TO SARS-CoV-2: results from a survey in healthy blood donors in South Eastern Italy
+Investigation of Compatibility of SARS-CoV-2 RT-PCR Kits Containing Different Gene Targets During COVID-19 Pandemic
+Seroprevalence and epidemiological characteristics of immunoglobulin M and G antibodies against SARS-CoV-2 in asymptomatic people in Wuhan, China
+Development of a SARS-CoV-2 total antibody assay and the dynamics of antibody response over time in hospitalized and non-hospitalized patients with COVID-19
+Routine laboratory blood tests predict SARS-CoV-2 infection using machine learning
+SEROPREVALENCE AND CLINICAL SPECTRUM OF SARS-CoV-2 INFECTION IN THE FIRST VERSUS THIRD TRIMESTER OF PREGNANCY
+A new system in qualitative RT-PCR detecting SARS-CoV-2 in biological samples: an Italian experience.
+Mechanism and inhibition of SARS-CoV-2 PLpro
+Nucleocapsid protein of SARS-CoV-2 phase separates into RNA-rich polymerase-containing condensates
+Phylogenetic pattern of SARS-CoV-2 from COVID-19 patients from Bosnia and Herzegovina: lessons learned to optimize future molecular and epidemiological approaches
+Proteotyping SARS-CoV-2 virus from nasopharyngeal swabs: a proof-of-concept focused on a 3 min mass spectrometry window
+Drug repurposing screens reveal FDA approved drugs active against SARS-Cov-2
+A single dose of recombinant VSV-∆G-spike vaccine provides protection against SARS-CoV-2 challenge
+Antiviral treatment of SARS-CoV-2-infected hamsters reveals a weak effect of favipiravir and a complete lack of effect for hydroxychloroquine
+Dog Savior: Immediate Scent-Detection of SARS-COV-2 by Trained Dogs
+ARDS and Cytokine Storm in SARS-CoV-2 Infected Caribbean Vervets
+Cross-neutralization activity against SARS-CoV-2 is present in currently available intravenous immunoglobulins
+High-density amplicon sequencing identifies community spread and ongoing evolution of SARS-CoV-2 in the Southern United States
+Disruption of Adaptive Immunity Enhances Disease in SARS-CoV-2 Infected Syrian Hamsters
+An in-silico based clinical insight on the effect of noticeable CD4 conserved residues of SARS-CoV-2 on the CD4-MHC-I interactions
+Cytosine deamination in SARS-CoV-2 leads to progressive CpG depletion.
+Multi-pronged human protein mimicry by SARS-CoV-2 reveals bifurcating potential for MHC detection and immune evasion
+SARS-CoV-2 assays to detect functional antibody responses that block ACE2 recognition in vaccinated animals and infected patients
+Assessing uncertainty in the rooting of the SARS-CoV-2 phylogeny
+SARS-CoV-2 growth, furin-cleavage-site adaptation and neutralization using serum from acutely infected, hospitalized COVID-19 patients
+Rapid Inactivation of SARS-CoV-2 by Silicon Nitride, Copper, and Aluminum Nitride
+The D614G mutation of SARS-CoV-2 spike protein enhances viral infectivity and decreases neutralization sensitivity to individual convalescent sera
+Sewage surveillance for the presence of SARS-CoV-2 genome as a useful wastewater based epidemiology (WBE) tracking tool in India
+Transcriptional response of signalling pathways to SARS-CoV-2 infection in normal human bronchial epithelial cells
+Analysis of SARS-CoV-2 specific T-cell receptors in ImmuneCode reveals cross-reactivity to immunodominant Influenza M1 epitope
+Multi-Omics and Integrated Network Approach to Unveil Evolutionary Patterns, Mutational Hotspots, Functional Crosstalk and Regulatory Interactions in SARS-CoV-2
+Epidemiological description and analysis of RdRp, E and N genes dynamic by RT-PCR of SARS-CoV-2 in Moroccan population: Experience of the National Reference Laboratory (LNR)-UM6SS
+Sensitivity of RT-PCR testing of upper respiratory tract samples for SARS-CoV-2 in hospitalised patients: a retrospective cohort study.
+SARS-CoV-2 RT-PCR profile in 298 Indian COVID-19 patients : a retrospective observational study
+THE USE OF DENATURING SOLUTION AS COLLECTION AND TRANSPORT MEDIA TO IMPROVE SARS-COV-2 RNA DETECTION AND REDUCE INFECTION OF LABORATORY PERSONNEL
+SARS-CoV-2 in human milk is inactivated by Holder pasteurization but not cold storage
+Risk of SARS-CoV-2 infection from contaminated water systems
+SARS-CoV-2-specific antibody detection for sero-epidemiology: a multiplex analysis approach accounting for accurate seroprevalence
+Transcriptomic Similarities and Differences in Host Response between SARS-CoV-2 and Other Viral Infections
+An Analysis of SARS-CoV-2 Using ViReport
+A path towards SARS-CoV-2 attenuation: metabolic pressure on CTP synthesis rules the virus evolution
+Genomic diversity and hotspot mutations in 30,983 SARS-CoV-2 genomes: moving toward a universal vaccine for the "confined virus"?
+SARS-CoV-2 infection of African green monkeys results in mild respiratory disease discernible by PET/CT imaging and prolonged shedding of infectious virus from both respiratory and gastrointestinal tracts
+RNA-Dependent RNA Polymerase From SARS-CoV-2. Mechanism Of Reaction And Inhibition By Remdesivir.
+Characterization of 100 sequential SARS-CoV-2 convalescent plasma donations
+Comparison of primer-probe sets among different master mixes for laboratory screening of Severe Acute Respiratory Syndrome - Coronavirus 2 (SARS-CoV-2)
+Rapid SARS-CoV-2 testing in primary material based on a novel multiplex LAMP assay
+Intrafamilial Exposure to SARS-CoV-2 Induces Cellular Immune Response without Seroconversion
+Genetic diversity among SARS-CoV2 strains in South America may impact performance of Molecular detection
+Epidemiological and clinical characteristics in patients with SARS-CoV-2 antibody negative probable COVID-19 in Wuhan
+Rapid inactivation of SARS-CoV-2 with LED irradiation of visible spectrum wavelenghts
+Mathematical modeling explains differential SARS CoV-2 kinetics in lung and nasal passages in remdesivir treated rhesus macaques
+Functional characterization of SARS-CoV-2 infection suggests a complex inflammatory response and metabolic alterations
+Generation of SARS-CoV-2 S1 spike glycoprotein putative antigenic epitopes in vitro by intracellular aminopeptidases
+Various RNA-binding proteins and their conditional networks explain miRNA biogenesis and help to reveal the potential SARS-CoV-2 host miRNAome system
+Companion vaccine Bioinformatic design tool reveals limited functional genomic variability of SARS-Cov-2 Spike Receptor Binding Domain
+In vivo antiviral host response to SARS-CoV-2 by viral load, sex, and age
+SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases
+Short-Term Corticosteroids in SARS-CoV2 Patients: Hospitalists' Perspective
+A link between inflammatory biomarkers and lung ultrasound observations in patients with SARS-CoV-2 infection
+The role of pre-existing chronic disease in cardiac complications from SARS-CoV-2 infection: A systematic review and meta-analysis
+Spectrum of innate and adaptive immune response to SARS CoV 2 infection across asymptomatic, mild and severe cases; a longitudinal cohort study
+Management and Clinical Characteristics in Children with SARS-CoV-2 Infection: Experience in a highly complex public hospital in the city of Sao Paulo
+Qualitative assessment of SARS-CoV-2-specific antibody avidity by lateral flow immunochromatographic IgG/IgM antibody assay
+SARS-CoV-2 exposure, symptoms and seroprevalence in health care workers
+Antibodies against SARS-CoV-2 among health care workers in a country with low burden of COVID-19
+Serologic cross-reactivity of SARS-CoV-2 with endemic and seasonal Betacoronaviruses
+Hydroxychloroquine serum concentrations in non-critical care patients infected with SARS CoV 2
+SARS CoV-2 Serosurvey in Addis Ababa, Ethiopia
+Platelets can contain SARS-CoV-2 RNA and are hyperactivated in COVID-19
+Climatic-niche evolution of SARS CoV-2
+A graph-based approach identifies dynamic H-bond communication networks in spike protein S of SARS-CoV-2
+Selection, biophysical and structural analysis of synthetic nanobodies that effectively neutralize SARS-CoV-2
+CD209L/L-SIGN and CD209/DC-SIGN act as receptors for SARS-CoV-2 and are differentially expressed in lung and kidney epithelial and endothelial cells
+Detailed phylogenetic analysis of SARS-CoV-2 reveals latent capacity to bind human ACE2 receptor
+SARS-CoV-2 mutations altering regulatory properties: deciphering host's and virus's perspectives
+A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19
+Scalable, rapid and highly sensitive isothermal detection of SARS-CoV-2 for laboratory and home testing
+RAAS blockade, kidney disease, and expression of ACE2, the entry receptor for SARS-CoV-2, in kidney epithelial and endothelial cells
+Structure-Based Design with Tag-Based Purification and In-Process Biotinylation Enable Streamlined Development of SARS-CoV-2 Spike Molecular Probes
+SARS-CoV-2 structure and replication characterized by in situ cryo-electron tomography
+Biochemical evidence of furin specificity and potential for phospho-regulation at Spike protein S1/S2 cleavage site in SARS-CoV2 but not in SARS-CoV1 or MERS-CoV
+Genetic Diversity and Genomic Epidemiology of SARS-COV-2 in Morocco
+Systemic analysis of putative SARS-CoV-2 entry and processing genes in cardiovascular tissues identifies a positive correlation of BSG with age in endothelial cells
+Green tea and Spirulina extracts inhibit SARS, MERS, and SARS-2 spike pseudotyped virus entry in vitro
+ViralLink: An integrated workflow to investigate the effect of SARS-CoV-2 on intracellular signalling and regulatory pathways
+Accommodating individual travel history, global mobility, and unsampled diversity in phylogeography: a SARS-CoV-2 case study.
+Seroprevalence of SARS-CoV-2 IgG significantly varies with age: results from a mass population screening (SARS-2-SCREEN-CdA).
+Point prevalence of SARS-CoV-2 and infection fatality rate in Orleans and Jefferson Parish, Louisiana, May 9-15, 2020
+Sensitivity of different RT-qPCR solutions for SARS-CoV-2 detection
