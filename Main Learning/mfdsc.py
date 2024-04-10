@@ -17,4 +17,7 @@ print(func_res)
 #     return res
 # for cr in create_mult():
 #     print(cr(2))
+<<<<<<< HEAD
 
+=======
+>>>>>>> a8b720e32694def715bebe2f83bf0621a06052cf

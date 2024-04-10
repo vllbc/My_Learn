@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 n = eval(input("输入要打印的行数："))
 triangle = [[1], [1, 1]]
 for i in range(2, n):
@@ -12,3 +13,7 @@ for i in range(n):
     for j in triangle[i]:
         s = s + str(j)+" "
     print(s)
+=======
+import numpy as np
+arr1 = np.random.randint(1,10,(3,4))
+>>>>>>> a8b720e32694def715bebe2f83bf0621a06052cf

@@ -27,7 +27,10 @@ def lagrange(x, y, xn):
 
 xn = np.arange(-255, 255, 1)
 yn = np.zeros(len(xn))
+<<<<<<< HEAD
 print(xn)
+=======
+>>>>>>> a8b720e32694def715bebe2f83bf0621a06052cf
 
 for i in range(len(xn)):
     yn[i] += lagrange(x, y, xn[i])
