@@ -13,9 +13,12 @@ TMPLS = (
 )
 
 
+print(bisect.bisect(BREAKPOINTS, 0))
 def from_now(ts):
     """接收一个过去的时间戳，返回距离当前时间的相对时间文字描述
     """
     seconds_delta = int(time.time() - ts)
     unit, tmpl = TMPLS[bisect.bisect(BREAKPOINTS, seconds_delta)]
+    
     return tmpl.format(units=seconds_delta // unit)
+print(from_now("1221"))

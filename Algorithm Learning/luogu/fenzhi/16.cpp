@@ -1,13 +1,29 @@
-#include <iostream>
-#include <cstdio>
-using namespace std;
+#include <stdio.h>
 
-int main(){
-    long long  res = 0,x=1;
-    for(int i =1;i<=20;i++){
-       x*=i;
-       res+=x;
+#include <string.h>
+
+int main()
+
+{
+
+    int i=0,len=0;
+
+    char c[100]="";
+
+    char d[100]="";
+
+    gets(c);
+
+    for (i = 0; i < sizeof(c) / sizeof(c[0]); i++)
+
+    {
+
+        d[sizeof(c) / sizeof(c[0])-i]=c[i];
+
     }
-    cout<<res;
+
+    puts(d);  
+
     return 0;
+
 }

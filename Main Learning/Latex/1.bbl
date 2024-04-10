@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{mirowski2018learning}
+P.~Mirowski, M.~K. Grimes, M.~Malinowski, K.~M. Hermann, K.~Anderson,
+  D.~Teplyashin, K.~Simonyan, K.~Kavukcuoglu, A.~Zisserman, and R.~Hadsell,
+  ``Learning to navigate in cities without a map,'' 2018.
+
+\bibitem{2007LIBSVM}
+C.~C. Chang and C.~J. Lin, ``Libsvm: A library for support vector machines,''
+  {\em ACM Transactions on Intelligent Systems and Technology}, vol.~2, no.~3,
+  article 27, 2007.
+
+\end{thebibliography}

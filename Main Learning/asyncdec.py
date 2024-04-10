@@ -1,6 +1,5 @@
 from functools import wraps
 import asyncio
-
 def decorator(func):
     @wraps(func)
     async def hello(*args, **kwargs):

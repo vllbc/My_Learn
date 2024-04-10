@@ -17,3 +17,4 @@ print(func_res)
 #     return res
 # for cr in create_mult():
 #     print(cr(2))
+

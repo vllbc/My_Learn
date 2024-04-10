@@ -1,4 +1,4 @@
-import queue
+
 import requests
 from lxml import etree
 import pymysql
